@@ -1,0 +1,1141 @@
+Field Name,Category,Description,Sheet,Cell
+PROPERTY_NAME,General Assumptions,PROPERTY_NAME,Assumptions (Summary),$D$6
+PROPERTY_CITY,General Assumptions,PROPERTY_CITY,Assumptions (Summary),$D$8
+PROPERTY_STATE,General Assumptions,PROPERTY_STATE,Assumptions (Summary),$D$9
+YEAR_BUILT,General Assumptions,YEAR_BUILT,Assumptions (Summary),$D$10
+YEAR_RENOVATED,General Assumptions,YEAR_RENOVATED,Assumptions (Summary),$D$11
+LOCATION_QUALITY,General Assumptions,LOCATION_QUALITY,Assumptions (Summary),$D$13
+BUILDING_QUALITY,General Assumptions,BUILDING_QUALITY,Assumptions (Summary),$D$14
+UNITS,General Assumptions,UNITS,Assumptions (Summary),$G$6
+AVG_SQUARE_FEET,General Assumptions,AVG_SQUARE_FEET,Assumptions (Summary),$G$7
+NUMBER_OF_PARKING_SPACES_COVERED,General Assumptions,NUMBER_OF_PARKING_SPACES_COVERED,Assumptions (Summary),$G$9
+NUMBER_OF_PARKING_SPACES_UNCOVERED,General Assumptions,NUMBER_OF_PARKING_SPACES_UNCOVERED,Assumptions (Summary),$G$10
+INDIVIDUALLY_METERED,General Assumptions,INDIVIDUALLY_METERED,Assumptions (Summary),$G$13
+CURRENT_OWNER,General Assumptions,CURRENT_OWNER,Assumptions (Summary),$I$6
+LAST_SALE_DATE,General Assumptions,LAST_SALE_DATE,Assumptions (Summary),$I$7
+LAST_SALE_PRICE,General Assumptions,LAST_SALE_PRICE,Assumptions (Summary),$I$8
+LAST_SALE_PRICE_PER_UNIT,General Assumptions,LAST_SALE_PRICE_PER_UNIT,Assumptions (Summary),$I$9
+LAST_SALE_CAP_RATE,General Assumptions,LAST_SALE_CAP_RATE,Assumptions (Summary),$I$10
+BUILDING_HEIGHT,General Assumptions,BUILDING_HEIGHT,Assumptions (Summary),$I$12
+BUILDING_TYPE,General Assumptions,BUILDING_TYPE,Assumptions (Summary),$D$12
+PROJECT_TYPE,General Assumptions,PROJECT_TYPE,Assumptions (Summary),$D$7
+NUMBER_OF_BUILDINGS,General Assumptions,NUMBER_OF_BUILDINGS,Assumptions (Summary),$I$11
+BUILDING_ZONING,General Assumptions,BUILDING_ZONING,Assumptions (Summary),$I$13
+LAND_AREA,General Assumptions,LAND_AREA,Assumptions (Summary),$I$14
+PARCEL_NUMBER,General Assumptions,PARCEL_NUMBER,Assumptions (Summary),$K$13
+MARKET,General Assumptions,MARKET,Assumptions (Summary),$M$6
+SUBMARKET_CLUSTER,General Assumptions,SUBMARKET_CLUSTER,Assumptions (Summary),$M$7
+SUBMARKET,General Assumptions,SUBMARKET,Assumptions (Summary),$M$8
+COUNTY,General Assumptions,COUNTY,Assumptions (Summary),$M$9
+PROPERTY_LATITUDE,General Assumptions,PROPERTY_LATITUDE,Rent Comp Inputs,$K$44
+PROPERTY_LONGITUDE,General Assumptions,PROPERTY_LONGITUDE,Rent Comp Inputs,$L$44
+PROPERTY_ADDRESS,General Assumptions,PROPERTY_ADDRESS,Rent Comp Inputs,$O$44
+PROPERTY_ZIP,General Assumptions,PROPERTY_ZIP,Rent Comp Inputs,$J$44
+EXIT_PERIOD_MONTHS,Exit Assumptions,EXIT_PERIOD_MONTHS,Assumptions (Summary),$D$23
+EXIT_CAP_RATE,Exit Assumptions,EXIT_CAP_RATE,Assumptions (Summary),$D$30
+SALES_TRANSACTION_COSTS,Exit Assumptions,SALES/TRANSACTION_COSTS,Assumptions (Summary),$D$31
+EMPIRICAL_RENT,NOI Assumptions,EMPIRICAL_RENT,Assumptions (Summary),$D$38
+RENT_PSF,NOI Assumptions,RENT_PSF,Assumptions (Summary),$D$39
+GROSS_POTENTIAL_RENTAL_INCOME,NOI Assumptions,GROSS_POTENTIAL_RENTAL_INCOME,Assumptions (Summary),$D$42
+CONCESSIONS,NOI Assumptions,CONCESSIONS,Assumptions (Summary),$D$43
+LOSS_TO_LEASE,NOI Assumptions,LOSS-TO-LEASE,Assumptions (Summary),$D$44
+VACANCY_LOSS,NOI Assumptions,VACANCY_LOSS,Assumptions (Summary),$D$45
+BAD_DEBTS,NOI Assumptions,BAD_DEBTS,Assumptions (Summary),$D$46
+OTHER_LOSS,NOI Assumptions,OTHER_LOSS,Assumptions (Summary),$D$47
+PROPERTY_MANAGEMENT_FEE,NOI Assumptions,PROPERTY_MANAGEMENT_FEE,Assumptions (Summary),$D$68
+NET_RENTAL_INCOME,NOI Assumptions,NET_RENTAL_INCOME,Assumptions (Summary),$D$49
+PARKING_INCOME,NOI Assumptions,PARKING_INCOME,Assumptions (Summary),$D$52
+UTILITY_INCOME,NOI Assumptions,UTILITY_INCOME,Assumptions (Summary),$D$53
+STORAGE_INCOME,NOI Assumptions,STORAGE_INCOME,Assumptions (Summary),$D$54
+LAUNDRY_INCOME,NOI Assumptions,LAUNDRY_INCOME,Assumptions (Summary),$D$55
+PET_INCOME,NOI Assumptions,PET_INCOME,Assumptions (Summary),$D$56
+OTHER_MISC_INCOME,NOI Assumptions,OTHER_MISC._INCOME,Assumptions (Summary),$D$57
+TOTAL_OTHER_INCOME,NOI Assumptions,TOTAL_OTHER_INCOME,Assumptions (Summary),$D$58
+EFFECTIVE_GROSS_INCOME,NOI Assumptions,EFFECTIVE_GROSS_INCOME,Assumptions (Summary),$D$60
+REAL_ESTATE_TAXES,NOI Assumptions,REAL_ESTATE_TAXES,Assumptions (Summary),$D$63
+OTHER_EXPENSES,NOI Assumptions,OTHER_EXPENSES,Assumptions (Summary),$D$64
+PROPERTY_INSURANCE,NOI Assumptions,PROPERTY_INSURANCE,Assumptions (Summary),$D$65
+UTILITIES,NOI Assumptions,UTILITIES,Assumptions (Summary),$D$66
+STAFFING_PAYROLL,NOI Assumptions,STAFFING_PAYROLL,Assumptions (Summary),$D$67
+REPAIRS_AND_MAINTENANCE,NOI Assumptions,REPAIRS_AND_MAINTENANCE,Assumptions (Summary),$D$69
+TURNOVER,NOI Assumptions,TURNOVER,Assumptions (Summary),$D$70
+CONTRACT_SERVICES,NOI Assumptions,CONTRACT_SERVICES,Assumptions (Summary),$D$71
+RESERVES_FOR_REPLACEMENT,NOI Assumptions,RESERVES_FOR_REPLACEMENT,Assumptions (Summary),$D$72
+ADMIN_LEGAL_AND_SECURITY,NOI Assumptions,ADMIN_LEGAL_AND_SECURITY,Assumptions (Summary),$D$73
+ADVERTISING_LEASING_AND_MARKETING,NOI Assumptions,ADVERTISING_LEASING_AND_MARKETING,Assumptions (Summary),$D$74
+TOTAL_OPERATING_EXPENSES,NOI Assumptions,TOTAL_OPERATING_EXPENSES,Assumptions (Summary),$D$75
+NET_OPERATING_INCOME,NOI Assumptions,NET_OPERATING_INCOME,Assumptions (Summary),$D$77
+NET_OPERATING_INCOME_MARGIN,NOI Assumptions,NET_OPERATING_INCOME_MARGIN,Assumptions (Summary),$D$78
+TOTAL_BELOW_THE_LINE_EXPENSES,NOI Assumptions,TOTAL_BELOW-THE-LINE_EXPENSES,Assumptions (Summary),$D$88
+NET_INCOME,NOI Assumptions,NET_INCOME,Assumptions (Summary),$D$90
+NET_INCOME_MARGIN,NOI Assumptions,NET_INCOME_MARGIN,Assumptions (Summary),$D$91
+REVENUE_GROWTH_RATE_YEAR_1,NOI Assumptions,REVENUE_GROWTH_RATE_YEAR_1,Assumptions (Summary),$D$151
+REVENUE_GROWTH_RATE_YEAR_2,NOI Assumptions,REVENUE_GROWTH_RATE_YEAR_2,Assumptions (Summary),$D$152
+REVENUE_GROWTH_RATE_YEAR_3,NOI Assumptions,REVENUE_GROWTH_RATE_YEAR_3,Assumptions (Summary),$D$153
+REVENUE_GROWTH_RATE_YEAR_4,NOI Assumptions,REVENUE_GROWTH_RATE_YEAR_4,Assumptions (Summary),$D$154
+REVENUE_GROWTH_RATE_YEAR_5,NOI Assumptions,REVENUE_GROWTH_RATE_YEAR_5,Assumptions (Summary),$D$155
+REVENUE_GROWTH_RATE_YEAR_6,NOI Assumptions,REVENUE_GROWTH_RATE_YEAR_6,Assumptions (Summary),$D$156
+REVENUE_GROWTH_RATE_YEAR_7,NOI Assumptions,REVENUE_GROWTH_RATE_YEAR_7,Assumptions (Summary),$D$157
+REVENUE_GROWTH_RATE_YEAR_8,NOI Assumptions,REVENUE_GROWTH_RATE_YEAR_8,Assumptions (Summary),$D$158
+REVENUE_GROWTH_RATE_YEAR_9,NOI Assumptions,REVENUE_GROWTH_RATE_YEAR_9,Assumptions (Summary),$D$159
+REVENUE_GROWTH_RATE_YEAR_10,NOI Assumptions,REVENUE_GROWTH_RATE_YEAR_10,Assumptions (Summary),$D$160
+REVENUE_GROWTH_RATE_YEAR_11,NOI Assumptions,REVENUE_GROWTH_RATE_YEAR_11,Assumptions (Summary),$D$161
+OTHER_INCOME_GROWTH_RATE_YEAR_1,NOI Assumptions,OTHER_INCOME_GROWTH_RATE_YEAR_1,Assumptions (Summary),$D$164
+OTHER_INCOME_GROWTH_RATE_YEAR_2,NOI Assumptions,OTHER_INCOME_GROWTH_RATE_YEAR_2,Assumptions (Summary),$D$165
+OTHER_INCOME_GROWTH_RATE_YEAR_3,NOI Assumptions,OTHER_INCOME_GROWTH_RATE_YEAR_3,Assumptions (Summary),$D$166
+OTHER_INCOME_GROWTH_RATE_YEAR_4,NOI Assumptions,OTHER_INCOME_GROWTH_RATE_YEAR_4,Assumptions (Summary),$D$167
+OTHER_INCOME_GROWTH_RATE_YEAR_5,NOI Assumptions,OTHER_INCOME_GROWTH_RATE_YEAR_5,Assumptions (Summary),$D$168
+OTHER_INCOME_GROWTH_RATE_YEAR_6,NOI Assumptions,OTHER_INCOME_GROWTH_RATE_YEAR_6,Assumptions (Summary),$D$169
+OTHER_INCOME_GROWTH_RATE_YEAR_7,NOI Assumptions,OTHER_INCOME_GROWTH_RATE_YEAR_7,Assumptions (Summary),$D$170
+OTHER_INCOME_GROWTH_RATE_YEAR_8,NOI Assumptions,OTHER_INCOME_GROWTH_RATE_YEAR_8,Assumptions (Summary),$D$171
+OTHER_INCOME_GROWTH_RATE_YEAR_9,NOI Assumptions,OTHER_INCOME_GROWTH_RATE_YEAR_9,Assumptions (Summary),$D$172
+OTHER_INCOME_GROWTH_RATE_YEAR_10,NOI Assumptions,OTHER_INCOME_GROWTH_RATE_YEAR_10,Assumptions (Summary),$D$173
+OTHER_INCOME_GROWTH_RATE_YEAR_11,NOI Assumptions,OTHER_INCOME_GROWTH_RATE_YEAR_11,Assumptions (Summary),$D$174
+OPERATING_EXPENSE_GROWTH_RATE_YEAR_1,NOI Assumptions,OPERATING_EXPENSE_GROWTH_RATE_YEAR_1,Assumptions (Summary),$D$177
+OPERATING_EXPENSE_GROWTH_RATE_YEAR_2,NOI Assumptions,OPERATING_EXPENSE_GROWTH_RATE_YEAR_2,Assumptions (Summary),$D$178
+OPERATING_EXPENSE_GROWTH_RATE_YEAR_3,NOI Assumptions,OPERATING_EXPENSE_GROWTH_RATE_YEAR_3,Assumptions (Summary),$D$179
+OPERATING_EXPENSE_GROWTH_RATE_YEAR_4,NOI Assumptions,OPERATING_EXPENSE_GROWTH_RATE_YEAR_4,Assumptions (Summary),$D$180
+OPERATING_EXPENSE_GROWTH_RATE_YEAR_5,NOI Assumptions,OPERATING_EXPENSE_GROWTH_RATE_YEAR_5,Assumptions (Summary),$D$181
+OPERATING_EXPENSE_GROWTH_RATE_YEAR_6,NOI Assumptions,OPERATING_EXPENSE_GROWTH_RATE_YEAR_6,Assumptions (Summary),$D$182
+OPERATING_EXPENSE_GROWTH_RATE_YEAR_7,NOI Assumptions,OPERATING_EXPENSE_GROWTH_RATE_YEAR_7,Assumptions (Summary),$D$183
+OPERATING_EXPENSE_GROWTH_RATE_YEAR_8,NOI Assumptions,OPERATING_EXPENSE_GROWTH_RATE_YEAR_8,Assumptions (Summary),$D$184
+OPERATING_EXPENSE_GROWTH_RATE_YEAR_9,NOI Assumptions,OPERATING_EXPENSE_GROWTH_RATE_YEAR_9,Assumptions (Summary),$D$185
+OPERATING_EXPENSE_GROWTH_RATE_YEAR_10,NOI Assumptions,OPERATING_EXPENSE_GROWTH_RATE_YEAR_10,Assumptions (Summary),$D$186
+OPERATING_EXPENSE_GROWTH_RATE_YEAR_11,NOI Assumptions,OPERATING_EXPENSE_GROWTH_RATE_YEAR_11,Assumptions (Summary),$D$187
+REAL_ESTATE_TAX_EXPENSE_GROWTH_RATE_YEAR_1,NOI Assumptions,REAL_ESTATE_TAX_EXPENSE_GROWTH_RATE_YEAR_1,Assumptions (Summary),$D$190
+REAL_ESTATE_TAX_EXPENSE_GROWTH_RATE_YEAR_2,NOI Assumptions,REAL_ESTATE_TAX_EXPENSE_GROWTH_RATE_YEAR_2,Assumptions (Summary),$D$191
+REAL_ESTATE_TAX_EXPENSE_GROWTH_RATE_YEAR_3,NOI Assumptions,REAL_ESTATE_TAX_EXPENSE_GROWTH_RATE_YEAR_3,Assumptions (Summary),$D$192
+REAL_ESTATE_TAX_EXPENSE_GROWTH_RATE_YEAR_4,NOI Assumptions,REAL_ESTATE_TAX_EXPENSE_GROWTH_RATE_YEAR_4,Assumptions (Summary),$D$193
+REAL_ESTATE_TAX_EXPENSE_GROWTH_RATE_YEAR_5,NOI Assumptions,REAL_ESTATE_TAX_EXPENSE_GROWTH_RATE_YEAR_5,Assumptions (Summary),$D$194
+REAL_ESTATE_TAX_EXPENSE_GROWTH_RATE_YEAR_6,NOI Assumptions,REAL_ESTATE_TAX_EXPENSE_GROWTH_RATE_YEAR_6,Assumptions (Summary),$D$195
+REAL_ESTATE_TAX_EXPENSE_GROWTH_RATE_YEAR_7,NOI Assumptions,REAL_ESTATE_TAX_EXPENSE_GROWTH_RATE_YEAR_7,Assumptions (Summary),$D$196
+REAL_ESTATE_TAX_EXPENSE_GROWTH_RATE_YEAR_8,NOI Assumptions,REAL_ESTATE_TAX_EXPENSE_GROWTH_RATE_YEAR_8,Assumptions (Summary),$D$197
+REAL_ESTATE_TAX_EXPENSE_GROWTH_RATE_YEAR_9,NOI Assumptions,REAL_ESTATE_TAX_EXPENSE_GROWTH_RATE_YEAR_9,Assumptions (Summary),$D$198
+REAL_ESTATE_TAX_EXPENSE_GROWTH_RATE_YEAR_10,NOI Assumptions,REAL_ESTATE_TAX_EXPENSE_GROWTH_RATE_YEAR_10,Assumptions (Summary),$D$199
+REAL_ESTATE_TAX_EXPENSE_GROWTH_RATE_YEAR_11,NOI Assumptions,REAL_ESTATE_TAX_EXPENSE_GROWTH_RATE_YEAR_11,Assumptions (Summary),$D$200
+INSURANCE_EXPENSE_GROWTH_RATE_YEAR_1,NOI Assumptions,INSURANCE_EXPENSE_GROWTH_RATE_YEAR_1,Assumptions (Summary),$D$203
+INSURANCE_EXPENSE_GROWTH_RATE_YEAR_2,NOI Assumptions,INSURANCE_EXPENSE_GROWTH_RATE_YEAR_2,Assumptions (Summary),$D$204
+INSURANCE_EXPENSE_GROWTH_RATE_YEAR_3,NOI Assumptions,INSURANCE_EXPENSE_GROWTH_RATE_YEAR_3,Assumptions (Summary),$D$205
+INSURANCE_EXPENSE_GROWTH_RATE_YEAR_4,NOI Assumptions,INSURANCE_EXPENSE_GROWTH_RATE_YEAR_4,Assumptions (Summary),$D$206
+INSURANCE_EXPENSE_GROWTH_RATE_YEAR_5,NOI Assumptions,INSURANCE_EXPENSE_GROWTH_RATE_YEAR_5,Assumptions (Summary),$D$207
+INSURANCE_EXPENSE_GROWTH_RATE_YEAR_6,NOI Assumptions,INSURANCE_EXPENSE_GROWTH_RATE_YEAR_6,Assumptions (Summary),$D$208
+INSURANCE_EXPENSE_GROWTH_RATE_YEAR_7,NOI Assumptions,INSURANCE_EXPENSE_GROWTH_RATE_YEAR_7,Assumptions (Summary),$D$209
+INSURANCE_EXPENSE_GROWTH_RATE_YEAR_8,NOI Assumptions,INSURANCE_EXPENSE_GROWTH_RATE_YEAR_8,Assumptions (Summary),$D$210
+INSURANCE_EXPENSE_GROWTH_RATE_YEAR_9,NOI Assumptions,INSURANCE_EXPENSE_GROWTH_RATE_YEAR_9,Assumptions (Summary),$D$211
+INSURANCE_EXPENSE_GROWTH_RATE_YEAR_10,NOI Assumptions,INSURANCE_EXPENSE_GROWTH_RATE_YEAR_10,Assumptions (Summary),$D$212
+INSURANCE_EXPENSE_GROWTH_RATE_YEAR_11,NOI Assumptions,INSURANCE_EXPENSE_GROWTH_RATE_YEAR_11,Assumptions (Summary),$D$213
+VACANCY_LOSS_YEAR_1,Annual Cashflows,VACANCY_LOSS_YEAR_1,Annual Cashflows,$I$18
+VACANCY_LOSS_YEAR_2,Annual Cashflows,VACANCY_LOSS_YEAR_2,Annual Cashflows,$J$18
+VACANCY_LOSS_YEAR_3,Annual Cashflows,VACANCY_LOSS_YEAR_3,Annual Cashflows,$K$18
+VACANCY_LOSS_YEAR_4,Annual Cashflows,VACANCY_LOSS_YEAR_4,Annual Cashflows,$L$18
+VACANCY_LOSS_YEAR_5,Annual Cashflows,VACANCY_LOSS_YEAR_5,Annual Cashflows,$M$18
+VACANCY_LOSS_YEAR_6,NOI Assumptions,VACANCY_LOSS_YEAR_6,Assumptions (Summary),$D$221
+VACANCY_LOSS_YEAR_7,NOI Assumptions,VACANCY_LOSS_YEAR_7,Assumptions (Summary),$D$222
+VACANCY_LOSS_YEAR_8,NOI Assumptions,VACANCY_LOSS_YEAR_8,Assumptions (Summary),$D$223
+VACANCY_LOSS_YEAR_9,NOI Assumptions,VACANCY_LOSS_YEAR_9,Assumptions (Summary),$D$224
+VACANCY_LOSS_YEAR_10,NOI Assumptions,VACANCY_LOSS_YEAR_10,Assumptions (Summary),$D$225
+VACANCY_LOSS_YEAR_11,NOI Assumptions,VACANCY_LOSS_YEAR_11,Assumptions (Summary),$D$226
+CONCESSIONS_YEAR_1,Annual Cashflows,CONCESSIONS_YEAR_1,Annual Cashflows,$I$16
+CONCESSIONS_YEAR_2,Annual Cashflows,CONCESSIONS_YEAR_2,Annual Cashflows,$J$16
+CONCESSIONS_YEAR_3,Annual Cashflows,CONCESSIONS_YEAR_3,Annual Cashflows,$K$16
+CONCESSIONS_YEAR_4,Annual Cashflows,CONCESSIONS_YEAR_4,Annual Cashflows,$L$16
+CONCESSIONS_YEAR_5,Annual Cashflows,CONCESSIONS_YEAR_5,Annual Cashflows,$M$16
+CONCESSIONS_YEAR_6,NOI Assumptions,CONCESSIONS_YEAR_6,Assumptions (Summary),$D$234
+CONCESSIONS_YEAR_7,NOI Assumptions,CONCESSIONS_YEAR_7,Assumptions (Summary),$D$235
+CONCESSIONS_YEAR_8,NOI Assumptions,CONCESSIONS_YEAR_8,Assumptions (Summary),$D$236
+CONCESSIONS_YEAR_9,NOI Assumptions,CONCESSIONS_YEAR_9,Assumptions (Summary),$D$237
+CONCESSIONS_YEAR_10,NOI Assumptions,CONCESSIONS_YEAR_10,Assumptions (Summary),$D$238
+CONCESSIONS_YEAR_11,NOI Assumptions,CONCESSIONS_YEAR_11,Assumptions (Summary),$D$239
+BAD_DEBTS_YEAR_1,Annual Cashflows,BAD_DEBTS_YEAR_1,Annual Cashflows,$I$19
+BAD_DEBTS_YEAR_2,Annual Cashflows,BAD_DEBTS_YEAR_2,Annual Cashflows,$J$19
+BAD_DEBTS_YEAR_3,Annual Cashflows,BAD_DEBTS_YEAR_3,Annual Cashflows,$K$19
+BAD_DEBTS_YEAR_4,Annual Cashflows,BAD_DEBTS_YEAR_4,Annual Cashflows,$L$19
+BAD_DEBTS_YEAR_5,Annual Cashflows,BAD_DEBTS_YEAR_5,Annual Cashflows,$M$19
+BAD_DEBTS_YEAR_6,NOI Assumptions,BAD_DEBTS_YEAR_6,Assumptions (Summary),$D$247
+BAD_DEBTS_YEAR_7,NOI Assumptions,BAD_DEBTS_YEAR_7,Assumptions (Summary),$D$248
+BAD_DEBTS_YEAR_8,NOI Assumptions,BAD_DEBTS_YEAR_8,Assumptions (Summary),$D$249
+BAD_DEBTS_YEAR_9,NOI Assumptions,BAD_DEBTS_YEAR_9,Assumptions (Summary),$D$250
+BAD_DEBTS_YEAR_10,NOI Assumptions,BAD_DEBTS_YEAR_10,Assumptions (Summary),$D$251
+BAD_DEBTS_YEAR_11,NOI Assumptions,BAD_DEBTS_YEAR_11,Assumptions (Summary),$D$252
+OTHER_LOSS_YEAR_1,Annual Cashflows,OTHER_LOSS_YEAR_1,Annual Cashflows,$I$20
+OTHER_LOSS_YEAR_2,Annual Cashflows,OTHER_LOSS_YEAR_2,Annual Cashflows,$J$20
+OTHER_LOSS_YEAR_3,Annual Cashflows,OTHER_LOSS_YEAR_3,Annual Cashflows,$K$20
+OTHER_LOSS_YEAR_4,Annual Cashflows,OTHER_LOSS_YEAR_4,Annual Cashflows,$L$20
+OTHER_LOSS_YEAR_5,Annual Cashflows,OTHER_LOSS_YEAR_5,Annual Cashflows,$M$20
+OTHER_LOSS_YEAR_6,NOI Assumptions,OTHER_LOSS_YEAR_6,Assumptions (Summary),$D$260
+OTHER_LOSS_YEAR_7,NOI Assumptions,OTHER_LOSS_YEAR_7,Assumptions (Summary),$D$261
+OTHER_LOSS_YEAR_8,NOI Assumptions,OTHER_LOSS_YEAR_8,Assumptions (Summary),$D$262
+OTHER_LOSS_YEAR_9,NOI Assumptions,OTHER_LOSS_YEAR_9,Assumptions (Summary),$D$263
+OTHER_LOSS_YEAR_10,NOI Assumptions,OTHER_LOSS_YEAR_10,Assumptions (Summary),$D$264
+OTHER_LOSS_YEAR_11,NOI Assumptions,OTHER_LOSS_YEAR_11,Assumptions (Summary),$D$265
+EQUITY_LP_CAPITAL,Debt and Equity Assumptions,EQUITY_LP_CAPITAL,Assumptions (Summary),$D$298
+OPERATING_CASHFLOW_LP_HURDLE_RATE,Debt and Equity Assumptions,OPERATING_CASHFLOW_LP_HURDLE_RATE,Assumptions (Summary),$D$306
+OPERATING_CASHFLOW_LP_PROFIT_SPLIT,Debt and Equity Assumptions,OPERATING_CASHFLOW_LP_PROFIT_SPLIT,Assumptions (Summary),$D$307
+LIQUIDATING_CASHFLOW_LP_HURDLE_RATE,Debt and Equity Assumptions,LIQUIDATING_CASHFLOW_LP_HURDLE_RATE,Assumptions (Summary),$D$310
+LIQUIDATING_CASHFLOW_LP_PROFIT_SPLIT,Debt and Equity Assumptions,LIQUIDATING_CASHFLOW_LP_PROFIT_SPLIT,Assumptions (Summary),$D$311
+OPERATING_CASHFLOW_GP_CATCHUP,Debt and Equity Assumptions,OPERATING_CASHFLOW_GP_CATCHUP,Assumptions (Summary),$D$314
+LIQUIDATING_CASHFLOW_GP_CATCHUP,Debt and Equity Assumptions,LIQUIDATING_CASHFLOW_GP_CATCHUP,Assumptions (Summary),$D$315
+ACQUISITION_FEE,Debt and Equity Assumptions,ACQUISITION_FEE,Assumptions (Summary),$D$320
+ASSET_MANAGEMENT_FEE,Debt and Equity Assumptions,ASSET_MANAGEMENT_FEE,Assumptions (Summary),$D$321
+SENIOR_LOAN_ORIGINATOR,Debt and Equity Assumptions,SENIOR_LOAN_ORIGINATOR,Assumptions (Summary),$D$343
+SENIOR_INTEREST_RATE_STRUCTURE,Debt and Equity Assumptions,SENIOR_INTEREST_RATE_STRUCTURE,Assumptions (Summary),$D$344
+SENIOR_LOAN_TERM_YEARS,Debt and Equity Assumptions,SENIOR_LOAN_TERM_YEARS,Assumptions (Summary),$D$345
+SENIOR_INTEREST_RATE,Debt and Equity Assumptions,SENIOR_INTEREST_RATE,Assumptions (Summary),$D$346
+SENIOR_INTERESTONLY_PERIOD_YEARS,Debt and Equity Assumptions,SENIOR_INTERESTONLY_PERIOD_YEARS,Assumptions (Summary),$D$348
+SENIOR_AMORTIZATION_PERIOD_YEARS,Debt and Equity Assumptions,SENIOR_AMORTIZATION_PERIOD_YEARS,Assumptions (Summary),$D$349
+SENIOR_MAXIMUM_DSCR,Debt and Equity Assumptions,SENIOR_MAXIMUM_DSCR,Assumptions (Summary),$D$350
+SENIOR_LOAN_LENDER_ORIGINATION_FEE,Debt and Equity Assumptions,SENIOR_LOAN_LENDER_ORIGINATION_FEE,Assumptions (Summary),$D$351
+SENIOR_LOAN_LOAN_BROKER_ORIGINATION_FEE,Debt and Equity Assumptions,SENIOR_LOAN_LOAN_BROKER_ORIGINATION_FEE,Assumptions (Summary),$D$352
+SENIOR_MAXIMUM_LTPP,Debt and Equity Assumptions,SENIOR_MAXIMUM_LTPP,Assumptions (Summary),$D$356
+SENIOR_LOAN_RENOVATION_FUNDING,Debt and Equity Assumptions,SENIOR_LOAN_RENOVATION_FUNDING,Assumptions (Summary),$D$357
+SENIOR_LOAN_RENOVATION_FUNDING_OF_PURCHASE_PRICE,Debt and Equity Assumptions,SENIOR_LOAN_RENOVATION_FUNDING_OF_PURCHASE_PRICE,Assumptions (Summary),$D$358
+LOAN_AMOUNT,Debt and Equity Assumptions,LOAN_AMOUNT,Assumptions (Summary),$D$359
+TOTAL_SENIOR_LOAN_LTPP,Debt and Equity Assumptions,TOTAL_SENIOR_LOAN_LTPP,Assumptions (Summary),$D$360
+LOAN_TO_VALUE,Debt and Equity Assumptions,LOAN_TO_VALUE,Assumptions (Summary),$D$361
+SENIOR_LOAN_PREPAYMENT_STRUCTURE,Debt and Equity Assumptions,SENIOR_LOAN_PREPAYMENT_STRUCTURE,Assumptions (Summary),$D$364
+SENIOR_LOAN_PREPAYMENT_STRUCTURE_1,Debt and Equity Assumptions,SENIOR_LOAN_PREPAYMENT_STRUCTURE_1,Assumptions (Summary),$D$365
+SENIOR_LOAN_PREPAYMENT_STRUCTURE_2,Debt and Equity Assumptions,SENIOR_LOAN_PREPAYMENT_STRUCTURE_2,Assumptions (Summary),$D$366
+SENIOR_LOAN_SERVICING_FEE,Debt and Equity Assumptions,SENIOR_LOAN_SERVICING_FEE,Assumptions (Summary),$D$367
+REFINANCE_YES_NO,Debt and Equity Assumptions,REFINANCE_YES_NO,Assumptions (Summary),$D$371
+SENIOR_REFI_LOAN_ORIGINATOR,Debt and Equity Assumptions,SENIOR_REFI_LOAN_ORIGINATOR,Assumptions (Summary),$D$372
+SENIOR_REFI_INTEREST_RATE_STRUCTURE,Debt and Equity Assumptions,SENIOR_REFI_INTEREST_RATE_STRUCTURE,Assumptions (Summary),$D$373
+SENIOR_REFI_LOAN_START_MONTHS_AFTER_CLOSE,Debt and Equity Assumptions,SENIOR_REFI_LOAN_START_MONTHS_AFTER_CLOSE,Assumptions (Summary),$D$374
+SENIOR_REFI_LOAN_TERM_YEARS,Debt and Equity Assumptions,SENIOR_REFI_LOAN_TERM_YEARS,Assumptions (Summary),$D$375
+SENIOR_REFI_INTEREST_RATE,Debt and Equity Assumptions,SENIOR_REFI_INTEREST_RATE,Assumptions (Summary),$D$376
+SENIOR_REFI_INTEREST_ONLY_PERIOD_YEARS,Debt and Equity Assumptions,SENIOR_REFI_INTEREST_ONLY_PERIOD_YEARS,Assumptions (Summary),$D$378
+SENIOR_REFI_AMORTIZATION_PERIOD_YEARS,Debt and Equity Assumptions,SENIOR_REFI_AMORTIZATION_PERIOD_YEARS,Assumptions (Summary),$D$379
+REFI_LOAN_MAXIMUM_DSCR,Debt and Equity Assumptions,REFI_LOAN_MAXIMUM_DSCR,Assumptions (Summary),$D$380
+LENDER_CLOSING_COSTS_EXPENSES,Debt and Equity Assumptions,LENDER_CLOSING_COSTS_EXPENSES,Assumptions (Summary),$D$381
+EQUITY_CLOSING_COSTS_EXPENSES,Debt and Equity Assumptions,EQUITY_CLOSING_COSTS_EXPENSES,Assumptions (Summary),$D$382
+SENIOR_REFI_LOAN_SIZING_LTV_TEST_LTV,Debt and Equity Assumptions,SENIOR_REFI_LOAN_SIZING_LTV_TEST_LTV,Assumptions (Summary),$D$385
+SENIOR_REFI_LOAN_SIZING_LTV_TEST_CAP_RATE,Debt and Equity Assumptions,SENIOR_REFI_LOAN_SIZING_LTV_TEST_CAP_RATE,Assumptions (Summary),$D$386
+SENIOR_REFI_LOAN_SIZING_LTV_TEST_NOI_CALCULATION_METHOD,Debt and Equity Assumptions,SENIOR_REFI_LOAN_SIZING_LTV_TEST_NOI_CALCULATION_METHOD,Assumptions (Summary),$D$387
+SENIOR_REFI_LOAN_SIZING_SENIOR_DEBT_YIELD_TEST,Debt and Equity Assumptions,SENIOR_REFI_LOAN_SIZING_SENIOR_DEBT_YIELD_TEST,Assumptions (Summary),$D$388
+SENIOR_REFI_LOAN_SIZING_COVERAGE_TEST_DSCR,Debt and Equity Assumptions,SENIOR_REFI_LOAN_SIZING_COVERAGE_TEST_DSCR,Assumptions (Summary),$D$389
+SENIOR_REFI_LOAN_SIZING_COVERAGE_TEST_CAP_RATE,Debt and Equity Assumptions,SENIOR_REFI_LOAN_SIZING_COVERAGE_TEST_CAP_RATE,Assumptions (Summary),$D$390
+SENIOR_REFI_LOAN_SIZING_COVERAGE_TEST_AMORTIZATION_TERM,Debt and Equity Assumptions,SENIOR_REFI_LOAN_SIZING_COVERAGE_TEST_AMORTIZATION_TERM,Assumptions (Summary),$D$391
+SENIOR_REFI_LOAN_AMOUNT,Debt and Equity Assumptions,SENIOR_REFI_LOAN_AMOUNT,Assumptions (Summary),$D$394
+SENIOR_REFI_LOAN_LTV,Debt and Equity Assumptions,SENIOR_REFI_LOAN_LTV,Assumptions (Summary),$D$395
+SENIOR_REFI_LOAN_PREPAYMENT_STRUCTURE,Debt and Equity Assumptions,SENIOR_REFI_LOAN_PREPAYMENT_STRUCTURE,Assumptions (Summary),$D$398
+SENIOR_REFI_LOAN_PREPAYMENT_STRUCTURE_1,Debt and Equity Assumptions,SENIOR_REFI_LOAN_PREPAYMENT_STRUCTURE_1,Assumptions (Summary),$D$399
+SENIOR_REFI_LOAN_PREPAYMENT_STRUCTURE_2,Debt and Equity Assumptions,SENIOR_REFI_LOAN_PREPAYMENT_STRUCTURE_2,Assumptions (Summary),$D$400
+SENIOR_REFI_LOAN_SERVICING_FEE,Debt and Equity Assumptions,SENIOR_REFI_LOAN_SERVICING_FEE,Assumptions (Summary),$D$401
+PURCHASE_PRICE,Budget Assumptions,PURCHASE_PRICE,Assumptions (Summary),$D$478
+OTHER_LAND_COST,Budget Assumptions,OTHER_LAND_COST,Assumptions (Summary),$D$479
+OTHER_ACQUISITION_COST,Budget Assumptions,OTHER_ACQUISITION_COST,Assumptions (Summary),$D$480
+TOTAL_LAND_AND_ACQUISITION_COSTS,Budget Assumptions,TOTAL_LAND_AND_ACQUISITION_COSTS,Assumptions (Summary),$D$481
+DEFERRED_MAINTENANCE_INTERIOR,Budget Assumptions,DEFERRED_MAINTENANCE_INTERIOR,Assumptions (Summary),$D$484
+DEFERRED_MAINTENANCE_EXTERIOR,Budget Assumptions,DEFERRED_MAINTENANCE_EXTERIOR,Assumptions (Summary),$D$485
+RENOVATION_SPEND_INTERIOR,Budget Assumptions,RENOVATION_SPEND_INTERIOR,Assumptions (Summary),$D$486
+RENOVATION_SPEND_EXTERIOR,Budget Assumptions,RENOVATION_SPEND_EXTERIOR,Assumptions (Summary),$D$487
+RESERVES_FUNDED_AT_CLOSE,Budget Assumptions,RESERVES_FUNDED_AT_CLOSE,Assumptions (Summary),$D$488
+TOTAL_HARD_COSTS,Budget Assumptions,TOTAL_HARD_COSTS,Assumptions (Summary),$D$489
+INTERNAL_LEGAL,Budget Assumptions,INTERNAL_LEGAL,Assumptions (Summary),$D$492
+BUSINESS_PLAN,Budget Assumptions,BUSINESS_PLAN,Assumptions (Summary),$D$493
+TRAVEL_AND_ENTERTAINMENT,Budget Assumptions,TRAVEL_AND_ENTERTAINMENT,Assumptions (Summary),$D$494
+PLACEMENT_FEE,Budget Assumptions,PLACEMENT_FEE,Assumptions (Summary),$D$495
+INSURANCE_PREMIUM,Budget Assumptions,INSURANCE_PREMIUM,Assumptions (Summary),$D$496
+TOTAL_SOFT_COSTS,Budget Assumptions,TOTAL_SOFT_COSTS,Assumptions (Summary),$D$497
+LENDER_DD_PCA_ENGINEERING_PHASE_I,Budget Assumptions,LENDER_DD_PCA_ENGINEERING_PHASE_I,Assumptions (Summary),$D$500
+LENDER_DD_APPRAISAL,Budget Assumptions,LENDER_DD_APPRAISAL,Assumptions (Summary),$D$501
+LENDER_DD_LOAN_APPLICATION_LEGAL,Budget Assumptions,LENDER_DD_LOAN_APPLICATION_LEGAL,Assumptions (Summary),$D$502
+LENDER_DD_INSURANCE_UNDERWRITING,Budget Assumptions,LENDER_DD_INSURANCE_UNDERWRITING,Assumptions (Summary),$D$503
+LENDER_FEE_ORIGINATION_FEES,Budget Assumptions,LENDER_FEE_ORIGINATION_FEES,Assumptions (Summary),$D$504
+LENDER_CLOSING_LENDER_REQUIRED_HOLDBACKS,Budget Assumptions,LENDER_CLOSING_LENDER_REQUIRED_HOLDBACKS,Assumptions (Summary),$D$505
+TOTAL_LENDER_CLOSING_COSTS,Budget Assumptions,TOTAL_LENDER_CLOSING_COSTS,Assumptions (Summary),$D$506
+EQUITY_DD_INTEREST_RATE_CAP_SWAP,Budget Assumptions,EQUITY_DD_INTEREST_RATE_CAP_SWAP,Assumptions (Summary),$D$509
+EQUITY_DD_PCA_ENGINEERING,Budget Assumptions,EQUITY_DD_PCA_ENGINEERING,Assumptions (Summary),$D$510
+EQUITY_DD_TITLE_INSURANCE_ALTA_SURVEY,Budget Assumptions,EQUITY_DD_TITLE_INSURANCE_ALTA_SURVEY,Assumptions (Summary),$D$511
+EQUITY_DD_BUSINESS_PLAN,Budget Assumptions,EQUITY_DD_BUSINESS_PLAN,Assumptions (Summary),$D$512
+EQUITY_DD_ALL_OTHER,Budget Assumptions,EQUITY_DD_ALL_OTHER,Assumptions (Summary),$D$513
+EQUITY_FEE_ACQUISITION_AND_OTHER_FEES,Budget Assumptions,EQUITY_FEE_ACQUISITION_AND_OTHER_FEES,Assumptions (Summary),$D$514
+EQUITY_RESERVES,Budget Assumptions,EQUITY_RESERVES,Assumptions (Summary),$D$515
+TOTAL_CLOSING_COSTS,Budget Assumptions,TOTAL_CLOSING_COSTS,Assumptions (Summary),$D$516
+TOTAL_ACQUISITION_BUDGET,Budget Assumptions,TOTAL_ACQUISITION_BUDGET,Assumptions (Summary),$D$518
+T12_RETURN_ON_PP,Property-Level Return Metrics,T12_RETURN_ON_PP,Assumptions (Summary),$F$26
+T12_RETURN_ON_COST,Property-Level Return Metrics,T12_RETURN_ON_COST,Assumptions (Summary),$F$27
+T3_RETURN_ON_PP,Property-Level Return Metrics,T3_RETURN_ON_PP,Assumptions (Summary),$G$26
+MARKET_CAP_RATE_AT_CLOSE,Property-Level Return Metrics,MARKET_CAP_RATE_AT_CLOSE,Assumptions (Summary),$E$21
+BASIS_UNIT_AT_CLOSE,Property-Level Return Metrics,BASIS_UNIT_AT_CLOSE,Assumptions (Summary),$J$21
+BASIS_SF_AT_CLOSE,Property-Level Return Metrics,BASIS_SF_AT_CLOSE,Assumptions (Summary),$J$22
+TOTAL_BASIS_AT_CLOSE,Property-Level Return Metrics,TOTAL_BASIS_AT_CLOSE,Assumptions (Summary),$E$24
+PURCHASE_PRICE_RETURN_ON_COST_AT_EXIT,Property-Level Return Metrics,PURCHASE_PRICE_RETURN_ON_COST_AT_EXIT,Assumptions (Summary),$F$18
+TOTAL_RETURN_ON_COST_AT_EXIT,Property-Level Return Metrics,TOTAL_RETURN_ON_COST_AT_EXIT,Assumptions (Summary),$F$19
+TRAILING_CAP_RATE_AT_EXIT,Property-Level Return Metrics,TRAILING_CAP_RATE_AT_EXIT,Assumptions (Summary),$F$20
+MARKET_CAP_RATE_AT_EXIT,Property-Level Return Metrics,MARKET_CAP_RATE_AT_EXIT,Assumptions (Summary),$F$21
+BASIS_UNIT_AT_EXIT,Property-Level Return Metrics,BASIS_UNIT_AT_EXIT,Assumptions (Summary),$K$21
+BASIS_SF_AT_EXIT,Property-Level Return Metrics,BASIS_SF_AT_EXIT,Assumptions (Summary),$K$22
+TOTAL_BASIS_AT_EXIT,Property-Level Return Metrics,TOTAL_BASIS_AT_EXIT,Assumptions (Summary),$F$24
+T12_DEBT_YIELD_AT_CLOSE,Property-Level Return Metrics,T12_DEBT_YIELD_AT_CLOSE,Assumptions (Summary),$J$18
+LOANTOCOST_AT_CLOSE,Property-Level Return Metrics,LOANTOCOST_AT_CLOSE,Assumptions (Summary),$J$19
+LOANTOVALUE_AT_CLOSE,Property-Level Return Metrics,LOANTOVALUE_AT_CLOSE,Assumptions (Summary),$J$20
+SENIOR_DEBT_BALANCE_AT_CLOSE,Property-Level Return Metrics,SENIOR_DEBT_BALANCE_AT_CLOSE,Assumptions (Summary),$J$23
+SENIOR_DEBT_REFI_PROCEEDS_AT_CLOSE,Property-Level Return Metrics,SENIOR_DEBT_REFI_PROCEEDS_AT_CLOSE,Assumptions (Summary),$J$24
+REFINANCE_COVERAGE_AT_CLOSE,Property-Level Return Metrics,REFINANCE_COVERAGE_AT_CLOSE,Assumptions (Summary),$J$25
+T12_DEBT_YIELD_AT_EXIT,Property-Level Return Metrics,T12_DEBT_YIELD_AT_EXIT,Assumptions (Summary),$K$18
+LOANTOCOST_AT_EXIT,Property-Level Return Metrics,LOANTOCOST_AT_EXIT,Assumptions (Summary),$K$19
+LOANTOVALUE_AT_EXIT,Property-Level Return Metrics,LOANTOVALUE_AT_EXIT,Assumptions (Summary),$K$20
+SENIOR_DEBT_BALANCE_AT_EXIT,Property-Level Return Metrics,SENIOR_DEBT_BALANCE_AT_EXIT,Assumptions (Summary),$K$23
+SENIOR_DEBT_REFI_PROCEEDS_AT_EXIT,Property-Level Return Metrics,SENIOR_DEBT_REFI_PROCEEDS_AT_EXIT,Assumptions (Summary),$K$24
+REFINANCE_COVERAGE_AT_EXIT,Property-Level Return Metrics,REFINANCE_COVERAGE_AT_EXIT,Assumptions (Summary),$K$25
+TRENDED_NOI_YEAR_5,Property-Level Return Metrics,TRENDED_NOI__YEAR_5,Assumptions (Summary),$Q$29
+CAP_RATE,Property-Level Return Metrics,CAP_RATE,Assumptions (Summary),$Q$30
+GROSS_SALE_PROCEEDS,Property-Level Return Metrics,GROSS_SALE_PROCEEDS,Assumptions (Summary),$Q$31
+LESS_TRANSACTION_COSTS,Property-Level Return Metrics,LESS_TRANSACTION_COSTS,Assumptions (Summary),$Q$32
+LESS_SENIOR_DEBT,Property-Level Return Metrics,LESS_SENIOR_DEBT,Assumptions (Summary),$Q$33
+LESS_PREPAYMENT_PENALTY,Property-Level Return Metrics,LESS_PREPAYMENT_PENALTY,Assumptions (Summary),$Q$34
+NET_SALE_PROCEEDS,Property-Level Return Metrics,NET_SALE_PROCEEDS,Assumptions (Summary),$Q$35
+GP_DISPOSITION_FEE,Property-Level Return Metrics,GP_DISPOSITION_FEE,Assumptions (Summary),$Q$36
+NET_SALE_PROCEEDS_TO_EQUITY,Property-Level Return Metrics,NET_SALE_PROCEEDS_TO_EQUITY,Assumptions (Summary),$Q$37
+GROSS_SALES_PROCEEDS_PER_UNIT,Property-Level Return Metrics,GROSS_SALES_PROCEEDS_PER_UNIT,Assumptions (Summary),$E$32
+UNLEVERED_RETURNS_IRR,Property-Level Return Metrics,UNLEVERED_RETURNS_IRR,Assumptions (Summary),$E$39
+UNLEVERED_RETURNS_MOIC,Property-Level Return Metrics,UNLEVERED_RETURNS_MOIC,Assumptions (Summary),$E$40
+LEVERED_RETURNS_IRR,Property-Level Return Metrics,LEVERED_RETURNS_IRR,Assumptions (Summary),$E$43
+LEVERED_RETURNS_MOIC,Property-Level Return Metrics,LEVERED_RETURNS_MOIC,Assumptions (Summary),$E$44
+REFI_PROCEEDS_NET_TO_EQUITY_TOTAL,Equity-Level Return Metrics,REFI_PROCEEDS_NET_TO_EQUITY_TOTAL,Returns Metrics (Summary),$E$86
+SALE_PERIOD_MONTH,Equity-Level Return Metrics,SALE_PERIOD_MONTH,Returns Metrics (Summary),$E$88
+SALES_PROCEEDS_NET_TO_EQUITY_TOTAL,Equity-Level Return Metrics,SALES_PROCEEDS_NET_TO_EQUITY_TOTAL,Returns Metrics (Summary),$E$89
+OPERATING_CASHFLOW_TOTAL,Equity-Level Return Metrics,OPERATING_CASHFLOW_TOTAL,Returns Metrics (Summary),$E$97
+LIQUIDATING_CASHFLOW_TOTAL,Equity-Level Return Metrics,LIQUIDATING_CASHFLOW_TOTAL,Returns Metrics (Summary),$E$98
+OPERATING_AND_LIQUIDATING_CASHFLOW_TOTAL,Equity-Level Return Metrics,OPERATING_AND_LIQUIDATING_CASHFLOW_TOTAL,Returns Metrics (Summary),$E$99
+LP_RETURNS_IRR,Equity-Level Return Metrics,LP_RETURNS_IRR,Returns Metrics (Summary),$E$102
+LP_RETURNS_MOIC,Equity-Level Return Metrics,LP_RETURNS_MOIC,Returns Metrics (Summary),$E$103
+LP_RETURNS_PREREFI_CASH_ON_CASH,Equity-Level Return Metrics,LP_RETURNS_PREREFI_CASH_ON_CASH,Returns Metrics (Summary),$E$105
+LP_RETURNS_POSTREFI_CASH_ON_CASH,Equity-Level Return Metrics,LP_RETURNS_POSTREFI_CASH_ON_CASH,Returns Metrics (Summary),$E$106
+LP_RETURNS_AVG_REFI_CASH_ON_CASH,Equity-Level Return Metrics,LP_RETURNS_AVG._REFI_CASH_ON_CASH,Returns Metrics (Summary),$E$107
+LP_CASHFLOW_OUTFLOW_CONTRIBUTION_TOTAL,Equity-Level Return Metrics,LP_CASHFLOW_OUTFLOW_CONTRIBUTION_TOTAL,Returns Metrics (Summary),$E$109
+LP_CASHFLOW_INFLOW_RETURN_TOTAL,Equity-Level Return Metrics,LP_CASHFLOW_INFLOW_RETURN_TOTAL,Returns Metrics (Summary),$E$110
+LP_CASHFLOW_NET,Equity-Level Return Metrics,LP_CASHFLOW_NET,Returns Metrics (Summary),$E$111
+GP_CASHFLOW_OUTFLOW_CONTRIBUTION_TOTAL,Equity-Level Return Metrics,GP_CASHFLOW_OUTFLOW_CONTRIBUTION_TOTAL,Returns Metrics (Summary),$E$120
+GP_CASHFLOW_INFLOW_RETURN_TOTAL,Equity-Level Return Metrics,GP_CASHFLOW_INFLOW_RETURN_TOTAL,Returns Metrics (Summary),$E$121
+GP_CASHFLOW_NET,Equity-Level Return Metrics,GP_CASHFLOW_NET,Returns Metrics (Summary),$E$122
+GP_RETURNS_INCLUDING_FEES_AVERAGE_ANNUAL,Equity-Level Return Metrics,GP_RETURNS_INCLUDING_FEES_AVERAGE_ANNUAL,Returns Metrics (Summary),$E$124
+STUDIO_BED_TYPE,Unit Mix Assumptions,STUDIO_BED_TYPE,Assumptions (Unit Matrix),$E$542
+STUDIO_BATHROOMS,Unit Mix Assumptions,STUDIO_BATHROOMS,Assumptions (Unit Matrix),$F$542
+STUDIO_UNIT_SF,Unit Mix Assumptions,STUDIO_UNIT_SF,Assumptions (Unit Matrix),$G$542
+STUDIO_TOTAL_BEDS,Unit Mix Assumptions,STUDIO_TOTAL_BEDS,Assumptions (Unit Matrix),$H$542
+STUDIO_RENOVATED_Y_N,Unit Mix Assumptions,STUDIO_RENOVATED_Y_N,Assumptions (Unit Matrix),$I$542
+STUDIO_RENT_PER_UNIT_INPLACE,Unit Mix Assumptions,STUDIO_RENT_PER_UNIT_INPLACE,Assumptions (Unit Matrix),$X$542
+STUDIO_RENT_PER_SF_INPLACE,Unit Mix Assumptions,STUDIO_RENT_PER_SF_INPLACE,Assumptions (Unit Matrix),$Y$542
+STUDIO_TOTAL_MONTHLY_RENT_INPLACE,Unit Mix Assumptions,STUDIO_TOTAL_MONTHLY_RENT_INPLACE,Assumptions (Unit Matrix),$Z$542
+STUDIO_TOTAL_ANNUAL_RENT_INPLACE,Unit Mix Assumptions,STUDIO_TOTAL_ANNUAL_RENT_INPLACE,Assumptions (Unit Matrix),$AA$542
+STUDIO_RENT_PER_UNIT_MARKET,Unit Mix Assumptions,STUDIO_RENT_PER_UNIT_MARKET,Assumptions (Unit Matrix),$AC$542
+STUDIO_RENT_PER_SF_MARKET,Unit Mix Assumptions,STUDIO_RENT_PER_SF_MARKET,Assumptions (Unit Matrix),$AD$542
+STUDIO_TOTAL_MONTHLY_RENT_MARKET,Unit Mix Assumptions,STUDIO_TOTAL_MONTHLY_RENT_MARKET,Assumptions (Unit Matrix),$AE$542
+STUDIO_TOTAL_ANNUAL_RENT_MARKET,Unit Mix Assumptions,STUDIO_TOTAL_ANNUAL_RENT_MARKET,Assumptions (Unit Matrix),$AF$542
+1_BED_BED_TYPE,Unit Mix Assumptions,1_BED_BED_TYPE,Assumptions (Unit Matrix),$E$543
+1_BED_BATHROOMS,Unit Mix Assumptions,1_BED_BATHROOMS,Assumptions (Unit Matrix),$F$543
+1_BED_UNIT_SF,Unit Mix Assumptions,1_BED_UNIT_SF,Assumptions (Unit Matrix),$G$543
+1_BED_TOTAL_BEDS,Unit Mix Assumptions,1_BED_TOTAL_BEDS,Assumptions (Unit Matrix),$H$543
+1_BED_RENOVATED_Y_N,Unit Mix Assumptions,1_BED_RENOVATED_Y_N,Assumptions (Unit Matrix),$I$543
+1_BED_RENT_PER_UNIT_INPLACE,Unit Mix Assumptions,1_BED_RENT_PER_UNIT_INPLACE,Assumptions (Unit Matrix),$X$543
+1_BED_RENT_PER_SF_INPLACE,Unit Mix Assumptions,1_BED_RENT_PER_SF_INPLACE,Assumptions (Unit Matrix),$Y$543
+1_BED_TOTAL_MONTHLY_RENT_INPLACE,Unit Mix Assumptions,1_BED_TOTAL_MONTHLY_RENT_INPLACE,Assumptions (Unit Matrix),$Z$543
+1_BED_TOTAL_ANNUAL_RENT_INPLACE,Unit Mix Assumptions,1_BED_TOTAL_ANNUAL_RENT_INPLACE,Assumptions (Unit Matrix),$AA$543
+1_BED_RENT_PER_UNIT_MARKET,Unit Mix Assumptions,1_BED_RENT_PER_UNIT_MARKET,Assumptions (Unit Matrix),$AC$543
+1_BED_RENT_PER_SF_MARKET,Unit Mix Assumptions,1_BED_RENT_PER_SF_MARKET,Assumptions (Unit Matrix),$AD$543
+1_BED_TOTAL_MONTHLY_RENT_MARKET,Unit Mix Assumptions,1_BED_TOTAL_MONTHLY_RENT_MARKET,Assumptions (Unit Matrix),$AE$543
+1_BED_TOTAL_ANNUAL_RENT_MARKET,Unit Mix Assumptions,1_BED_TOTAL_ANNUAL_RENT_MARKET,Assumptions (Unit Matrix),$AF$543
+2_BED_BED_TYPE,Unit Mix Assumptions,2_BED_BED_TYPE,Assumptions (Unit Matrix),$E$544
+2_BED_BATHROOMS,Unit Mix Assumptions,2_BED_BATHROOMS,Assumptions (Unit Matrix),$F$544
+2_BED_UNIT_SF,Unit Mix Assumptions,2_BED_UNIT_SF,Assumptions (Unit Matrix),$G$544
+2_BED_TOTAL_BEDS,Unit Mix Assumptions,2_BED_TOTAL_BEDS,Assumptions (Unit Matrix),$H$544
+2_BED_RENOVATED_Y_N,Unit Mix Assumptions,2_BED_RENOVATED_Y_N,Assumptions (Unit Matrix),$I$544
+2_BED_RENT_PER_UNIT_INPLACE,Unit Mix Assumptions,2_BED_RENT_PER_UNIT_INPLACE,Assumptions (Unit Matrix),$X$544
+2_BED_RENT_PER_SF_INPLACE,Unit Mix Assumptions,2_BED_RENT_PER_SF_INPLACE,Assumptions (Unit Matrix),$Y$544
+2_BED_TOTAL_MONTHLY_RENT_INPLACE,Unit Mix Assumptions,2_BED_TOTAL_MONTHLY_RENT_INPLACE,Assumptions (Unit Matrix),$Z$544
+2_BED_TOTAL_ANNUAL_RENT_INPLACE,Unit Mix Assumptions,2_BED_TOTAL_ANNUAL_RENT_INPLACE,Assumptions (Unit Matrix),$AA$544
+2_BED_RENT_PER_UNIT_MARKET,Unit Mix Assumptions,2_BED_RENT_PER_UNIT_MARKET,Assumptions (Unit Matrix),$AC$544
+2_BED_RENT_PER_SF_MARKET,Unit Mix Assumptions,2_BED_RENT_PER_SF_MARKET,Assumptions (Unit Matrix),$AD$544
+2_BED_TOTAL_MONTHLY_RENT_MARKET,Unit Mix Assumptions,2_BED_TOTAL_MONTHLY_RENT_MARKET,Assumptions (Unit Matrix),$AE$544
+2_BED_TOTAL_ANNUAL_RENT_MARKET,Unit Mix Assumptions,2_BED_TOTAL_ANNUAL_RENT_MARKET,Assumptions (Unit Matrix),$AF$544
+3_BED_BED_TYPE,Unit Mix Assumptions,3_BED_BED_TYPE,Assumptions (Unit Matrix),$E$545
+3_BED_BATHROOMS,Unit Mix Assumptions,3_BED_BATHROOMS,Assumptions (Unit Matrix),$F$545
+3_BED_UNIT_SF,Unit Mix Assumptions,3_BED_UNIT_SF,Assumptions (Unit Matrix),$G$545
+3_BED_TOTAL_BEDS,Unit Mix Assumptions,3_BED_TOTAL_BEDS,Assumptions (Unit Matrix),$H$545
+3_BED_RENOVATED_Y_N,Unit Mix Assumptions,3_BED_RENOVATED_Y_N,Assumptions (Unit Matrix),$I$545
+3_BED_RENT_PER_UNIT_INPLACE,Unit Mix Assumptions,3_BED_RENT_PER_UNIT_INPLACE,Assumptions (Unit Matrix),$X$545
+3_BED_RENT_PER_SF_INPLACE,Unit Mix Assumptions,3_BED_RENT_PER_SF_INPLACE,Assumptions (Unit Matrix),$Y$545
+3_BED_TOTAL_MONTHLY_RENT_INPLACE,Unit Mix Assumptions,3_BED_TOTAL_MONTHLY_RENT_INPLACE,Assumptions (Unit Matrix),$Z$545
+3_BED_TOTAL_ANNUAL_RENT_INPLACE,Unit Mix Assumptions,3_BED_TOTAL_ANNUAL_RENT_INPLACE,Assumptions (Unit Matrix),$AA$545
+3_BED_RENT_PER_UNIT_MARKET,Unit Mix Assumptions,3_BED_RENT_PER_UNIT_MARKET,Assumptions (Unit Matrix),$AC$545
+3_BED_RENT_PER_SF_MARKET,Unit Mix Assumptions,3_BED_RENT_PER_SF_MARKET,Assumptions (Unit Matrix),$AD$545
+3_BED_TOTAL_MONTHLY_RENT_MARKET,Unit Mix Assumptions,3_BED_TOTAL_MONTHLY_RENT_MARKET,Assumptions (Unit Matrix),$AE$545
+3_BED_TOTAL_ANNUAL_RENT_MARKET,Unit Mix Assumptions,3_BED_TOTAL_ANNUAL_RENT_MARKET,Assumptions (Unit Matrix),$AF$545
+4_BED_BED_TYPE,Unit Mix Assumptions,4_BED_BED_TYPE,Assumptions (Unit Matrix),$E$546
+4_BED_BATHROOMS,Unit Mix Assumptions,4_BED_BATHROOMS,Assumptions (Unit Matrix),$F$546
+4_BED_UNIT_SF,Unit Mix Assumptions,4_BED_UNIT_SF,Assumptions (Unit Matrix),$G$546
+4_BED_TOTAL_BEDS,Unit Mix Assumptions,4_BED_TOTAL_BEDS,Assumptions (Unit Matrix),$H$546
+4_BED_RENOVATED_Y_N,Unit Mix Assumptions,4_BED_RENOVATED_Y_N,Assumptions (Unit Matrix),$I$546
+4_BED_RENT_PER_UNIT_INPLACE,Unit Mix Assumptions,4_BED_RENT_PER_UNIT_INPLACE,Assumptions (Unit Matrix),$X$546
+4_BED_RENT_PER_SF_INPLACE,Unit Mix Assumptions,4_BED_RENT_PER_SF_INPLACE,Assumptions (Unit Matrix),$Y$546
+4_BED_TOTAL_MONTHLY_RENT_INPLACE,Unit Mix Assumptions,4_BED_TOTAL_MONTHLY_RENT_INPLACE,Assumptions (Unit Matrix),$Z$546
+4_BED_TOTAL_ANNUAL_RENT_INPLACE,Unit Mix Assumptions,4_BED_TOTAL_ANNUAL_RENT_INPLACE,Assumptions (Unit Matrix),$AA$546
+4_BED_RENT_PER_UNIT_MARKET,Unit Mix Assumptions,4_BED_RENT_PER_UNIT_MARKET,Assumptions (Unit Matrix),$AC$546
+4_BED_RENT_PER_SF_MARKET,Unit Mix Assumptions,4_BED_RENT_PER_SF_MARKET,Assumptions (Unit Matrix),$AD$546
+4_BED_TOTAL_MONTHLY_RENT_MARKET,Unit Mix Assumptions,4_BED_TOTAL_MONTHLY_RENT_MARKET,Assumptions (Unit Matrix),$AE$546
+4_BED_TOTAL_ANNUAL_RENT_MARKET,Unit Mix Assumptions,4_BED_TOTAL_ANNUAL_RENT_MARKET,Assumptions (Unit Matrix),$AF$546
+5_BED_BED_TYPE,Unit Mix Assumptions,5_BED_BED_TYPE,Assumptions (Unit Matrix),$E$547
+5_BED_BATHROOMS,Unit Mix Assumptions,5_BED_BATHROOMS,Assumptions (Unit Matrix),$F$547
+5_BED_UNIT_SF,Unit Mix Assumptions,5_BED_UNIT_SF,Assumptions (Unit Matrix),$G$547
+5_BED_TOTAL_BEDS,Unit Mix Assumptions,5_BED_TOTAL_BEDS,Assumptions (Unit Matrix),$H$547
+5_BED_RENOVATED_Y_N,Unit Mix Assumptions,5_BED_RENOVATED_Y_N,Assumptions (Unit Matrix),$I$547
+5_BED_RENT_PER_UNIT_INPLACE,Unit Mix Assumptions,5_BED_RENT_PER_UNIT_INPLACE,Assumptions (Unit Matrix),$X$547
+5_BED_RENT_PER_SF_INPLACE,Unit Mix Assumptions,5_BED_RENT_PER_SF_INPLACE,Assumptions (Unit Matrix),$Y$547
+5_BED_TOTAL_MONTHLY_RENT_INPLACE,Unit Mix Assumptions,5_BED_TOTAL_MONTHLY_RENT_INPLACE,Assumptions (Unit Matrix),$Z$547
+5_BED_TOTAL_ANNUAL_RENT_INPLACE,Unit Mix Assumptions,5_BED_TOTAL_ANNUAL_RENT_INPLACE,Assumptions (Unit Matrix),$AA$547
+5_BED_RENT_PER_UNIT_MARKET,Unit Mix Assumptions,5_BED_RENT_PER_UNIT_MARKET,Assumptions (Unit Matrix),$AC$547
+5_BED_RENT_PER_SF_MARKET,Unit Mix Assumptions,5_BED_RENT_PER_SF_MARKET,Assumptions (Unit Matrix),$AD$547
+5_BED_TOTAL_MONTHLY_RENT_MARKET,Unit Mix Assumptions,5_BED_TOTAL_MONTHLY_RENT_MARKET,Assumptions (Unit Matrix),$AE$547
+5_BED_TOTAL_ANNUAL_RENT_MARKET,Unit Mix Assumptions,5_BED_TOTAL_ANNUAL_RENT_MARKET,Assumptions (Unit Matrix),$AF$547
+TOTAL_UNITS,Unit Mix Assumptions,TOTAL_UNITS,Assumptions (Unit Matrix),$E$548
+TOTAL_BATHROOMS,Unit Mix Assumptions,TOTAL_BATHROOMS,Assumptions (Unit Matrix),$F$548
+AVERAGE_UNIT_SF,Unit Mix Assumptions,AVERAGE_UNIT_SF,Assumptions (Unit Matrix),$G$548
+TOTAL_BEDS,Unit Mix Assumptions,TOTAL_BEDS,Assumptions (Unit Matrix),$H$548
+COUNT_RENOVATED_Y_N,Unit Mix Assumptions,COUNT_RENOVATED_Y_N,Assumptions (Unit Matrix),$I$548
+AVERAGE_RENT_PER_UNIT_INPLACE,Unit Mix Assumptions,AVERAGE_RENT_PER_UNIT_INPLACE,Assumptions (Unit Matrix),$X$548
+AVERAGE_RENT_PER_SF_INPLACE,Unit Mix Assumptions,AVERAGE_RENT_PER_SF_INPLACE,Assumptions (Unit Matrix),$Y$548
+TOTAL_MONTHLY_RENT_INPLACE,Unit Mix Assumptions,TOTAL_MONTHLY_RENT_INPLACE,Assumptions (Unit Matrix),$Z$548
+TOTAL_ANNUAL_RENT_INPLACE,Unit Mix Assumptions,TOTAL_ANNUAL_RENT_INPLACE,Assumptions (Unit Matrix),$AA$548
+AVERAGE_RENT_PER_UNIT_MARKET,Unit Mix Assumptions,AVERAGE_RENT_PER_UNIT_MARKET,Assumptions (Unit Matrix),$AC$548
+AVERAGE_RENT_PER_SF_MARKET,Unit Mix Assumptions,AVERAGE_RENT_PER_SF_MARKET,Assumptions (Unit Matrix),$AD$548
+TOTAL_MONTHLY_RENT_MARKET,Unit Mix Assumptions,TOTAL_MONTHLY_RENT_MARKET,Assumptions (Unit Matrix),$AE$548
+TOTAL_ANNUAL_RENT_MARKET,Unit Mix Assumptions,TOTAL_ANNUAL_RENT_MARKET,Assumptions (Unit Matrix),$AF$548
+RENT_COMP_1_PROPERTY_NAME,Rent Comps,RENT_COMP_1_PROPERTY_NAME,Rent Comp Inputs,$E$27
+RENT_COMP_1_DISTANCE_TO_SUBJECT,Rent Comps,RENT_COMP_1_DISTANCE_TO_SUBJECT,Rent Comp Inputs,$F$27
+RENT_COMP_1_STREET_ADDRESS,Rent Comps,RENT_COMP_1_STREET_ADDRESS,Rent Comp Inputs,$G$27
+RENT_COMP_1_CITY,Rent Comps,RENT_COMP_1_CITY,Rent Comp Inputs,$H$27
+RENT_COMP_1_STATE,Rent Comps,RENT_COMP_1_STATE,Rent Comp Inputs,$I$27
+RENT_COMP_1_ZIP_CODE,Rent Comps,RENT_COMP_1_ZIP_CODE,Rent Comp Inputs,$J$27
+RENT_COMP_1_LATITUDE,Rent Comps,RENT_COMP_1_LATITUDE,Rent Comp Inputs,$K$27
+RENT_COMP_1_LONGITUDE,Rent Comps,RENT_COMP_1_LONGITUDE,Rent Comp Inputs,$L$27
+RENT_COMP_1_BUILDING_TYPE,Rent Comps,RENT_COMP_1_BUILDING_TYPE,Rent Comp Inputs,$M$27
+RENT_COMP_1_BUILDING_HEIGHT,Rent Comps,RENT_COMP_1_BUILDING_HEIGHT,Rent Comp Inputs,$N$27
+RENT_COMP_1_YEAR_BUILT,Rent Comps,RENT_COMP_1_YEAR_BUILT,Rent Comp Inputs,$O$27
+RENT_COMP_1_YEAR_RENOVATED,Rent Comps,RENT_COMP_1_YEAR_RENOVATED,Rent Comp Inputs,$P$27
+RENT_COMP_1_LOCATION_CLASS,Rent Comps,RENT_COMP_1_LOCATION_CLASS,Rent Comp Inputs,$Q$27
+RENT_COMP_1_PRODUCT_CLASS,Rent Comps,RENT_COMP_1_PRODUCT_CLASS,Rent Comp Inputs,$R$27
+RENT_COMP_1_UNITS,Rent Comps,RENT_COMP_1_UNITS,Rent Comp Inputs,$S$27
+RENT_COMP_1_AVG_NRSF,Rent Comps,RENT_COMP_1_AVG_NRSF,Rent Comp Inputs,$T$27
+RENT_COMP_1_EMPIRICAL_RENT,Rent Comps,RENT_COMP_1_EMPIRICAL_RENT,Rent Comp Inputs,$U$27
+RENT_COMP_1_RENT_NRSF,Rent Comps,RENT_COMP_1_RENT_NRSF,Rent Comp Inputs,$V$27
+RENT_COMP_2_PROPERTY_NAME,Rent Comps,RENT_COMP_2_PROPERTY_NAME,Rent Comp Inputs,$E$28
+RENT_COMP_2_DISTANCE_TO_SUBJECT,Rent Comps,RENT_COMP_2_DISTANCE_TO_SUBJECT,Rent Comp Inputs,$F$28
+RENT_COMP_2_STREET_ADDRESS,Rent Comps,RENT_COMP_2_STREET_ADDRESS,Rent Comp Inputs,$G$28
+RENT_COMP_2_CITY,Rent Comps,RENT_COMP_2_CITY,Rent Comp Inputs,$H$28
+RENT_COMP_2_STATE,Rent Comps,RENT_COMP_2_STATE,Rent Comp Inputs,$I$28
+RENT_COMP_2_ZIP_CODE,Rent Comps,RENT_COMP_2_ZIP_CODE,Rent Comp Inputs,$J$28
+RENT_COMP_2_LATITUDE,Rent Comps,RENT_COMP_2_LATITUDE,Rent Comp Inputs,$K$28
+RENT_COMP_2_LONGITUDE,Rent Comps,RENT_COMP_2_LONGITUDE,Rent Comp Inputs,$L$28
+RENT_COMP_2_BUILDING_TYPE,Rent Comps,RENT_COMP_2_BUILDING_TYPE,Rent Comp Inputs,$M$28
+RENT_COMP_2_BUILDING_HEIGHT,Rent Comps,RENT_COMP_2_BUILDING_HEIGHT,Rent Comp Inputs,$N$28
+RENT_COMP_2_YEAR_BUILT,Rent Comps,RENT_COMP_2_YEAR_BUILT,Rent Comp Inputs,$O$28
+RENT_COMP_2_YEAR_RENOVATED,Rent Comps,RENT_COMP_2_YEAR_RENOVATED,Rent Comp Inputs,$P$28
+RENT_COMP_2_LOCATION_CLASS,Rent Comps,RENT_COMP_2_LOCATION_CLASS,Rent Comp Inputs,$Q$28
+RENT_COMP_2_PRODUCT_CLASS,Rent Comps,RENT_COMP_2_PRODUCT_CLASS,Rent Comp Inputs,$R$28
+RENT_COMP_2_UNITS,Rent Comps,RENT_COMP_2_UNITS,Rent Comp Inputs,$S$28
+RENT_COMP_2_AVG_NRSF,Rent Comps,RENT_COMP_2_AVG_NRSF,Rent Comp Inputs,$T$28
+RENT_COMP_2_EMPIRICAL_RENT,Rent Comps,RENT_COMP_2_EMPIRICAL_RENT,Rent Comp Inputs,$U$28
+RENT_COMP_2_RENT_NRSF,Rent Comps,RENT_COMP_2_RENT_NRSF,Rent Comp Inputs,$V$28
+RENT_COMP_3_PROPERTY_NAME,Rent Comps,RENT_COMP_3_PROPERTY_NAME,Rent Comp Inputs,$E$29
+RENT_COMP_3_DISTANCE_TO_SUBJECT,Rent Comps,RENT_COMP_3_DISTANCE_TO_SUBJECT,Rent Comp Inputs,$F$29
+RENT_COMP_3_STREET_ADDRESS,Rent Comps,RENT_COMP_3_STREET_ADDRESS,Rent Comp Inputs,$G$29
+RENT_COMP_3_CITY,Rent Comps,RENT_COMP_3_CITY,Rent Comp Inputs,$H$29
+RENT_COMP_3_STATE,Rent Comps,RENT_COMP_3_STATE,Rent Comp Inputs,$I$29
+RENT_COMP_3_ZIP_CODE,Rent Comps,RENT_COMP_3_ZIP_CODE,Rent Comp Inputs,$J$29
+RENT_COMP_3_LATITUDE,Rent Comps,RENT_COMP_3_LATITUDE,Rent Comp Inputs,$K$29
+RENT_COMP_3_LONGITUDE,Rent Comps,RENT_COMP_3_LONGITUDE,Rent Comp Inputs,$L$29
+RENT_COMP_3_BUILDING_TYPE,Rent Comps,RENT_COMP_3_BUILDING_TYPE,Rent Comp Inputs,$M$29
+RENT_COMP_3_BUILDING_HEIGHT,Rent Comps,RENT_COMP_3_BUILDING_HEIGHT,Rent Comp Inputs,$N$29
+RENT_COMP_3_YEAR_BUILT,Rent Comps,RENT_COMP_3_YEAR_BUILT,Rent Comp Inputs,$O$29
+RENT_COMP_3_YEAR_RENOVATED,Rent Comps,RENT_COMP_3_YEAR_RENOVATED,Rent Comp Inputs,$P$29
+RENT_COMP_3_LOCATION_CLASS,Rent Comps,RENT_COMP_3_LOCATION_CLASS,Rent Comp Inputs,$Q$29
+RENT_COMP_3_PRODUCT_CLASS,Rent Comps,RENT_COMP_3_PRODUCT_CLASS,Rent Comp Inputs,$R$29
+RENT_COMP_3_UNITS,Rent Comps,RENT_COMP_3_UNITS,Rent Comp Inputs,$S$29
+RENT_COMP_3_AVG_NRSF,Rent Comps,RENT_COMP_3_AVG_NRSF,Rent Comp Inputs,$T$29
+RENT_COMP_3_EMPIRICAL_RENT,Rent Comps,RENT_COMP_3_EMPIRICAL_RENT,Rent Comp Inputs,$U$29
+RENT_COMP_3_RENT_NRSF,Rent Comps,RENT_COMP_3_RENT_NRSF,Rent Comp Inputs,$V$29
+RENT_COMP_4_PROPERTY_NAME,Rent Comps,RENT_COMP_4_PROPERTY_NAME,Rent Comp Inputs,$E$30
+RENT_COMP_4_DISTANCE_TO_SUBJECT,Rent Comps,RENT_COMP_4_DISTANCE_TO_SUBJECT,Rent Comp Inputs,$F$30
+RENT_COMP_4_STREET_ADDRESS,Rent Comps,RENT_COMP_4_STREET_ADDRESS,Rent Comp Inputs,$G$30
+RENT_COMP_4_CITY,Rent Comps,RENT_COMP_4_CITY,Rent Comp Inputs,$H$30
+RENT_COMP_4_STATE,Rent Comps,RENT_COMP_4_STATE,Rent Comp Inputs,$I$30
+RENT_COMP_4_ZIP_CODE,Rent Comps,RENT_COMP_4_ZIP_CODE,Rent Comp Inputs,$J$30
+RENT_COMP_4_LATITUDE,Rent Comps,RENT_COMP_4_LATITUDE,Rent Comp Inputs,$K$30
+RENT_COMP_4_LONGITUDE,Rent Comps,RENT_COMP_4_LONGITUDE,Rent Comp Inputs,$L$30
+RENT_COMP_4_BUILDING_TYPE,Rent Comps,RENT_COMP_4_BUILDING_TYPE,Rent Comp Inputs,$M$30
+RENT_COMP_4_BUILDING_HEIGHT,Rent Comps,RENT_COMP_4_BUILDING_HEIGHT,Rent Comp Inputs,$N$30
+RENT_COMP_4_YEAR_BUILT,Rent Comps,RENT_COMP_4_YEAR_BUILT,Rent Comp Inputs,$O$30
+RENT_COMP_4_YEAR_RENOVATED,Rent Comps,RENT_COMP_4_YEAR_RENOVATED,Rent Comp Inputs,$P$30
+RENT_COMP_4_LOCATION_CLASS,Rent Comps,RENT_COMP_4_LOCATION_CLASS,Rent Comp Inputs,$Q$30
+RENT_COMP_4_PRODUCT_CLASS,Rent Comps,RENT_COMP_4_PRODUCT_CLASS,Rent Comp Inputs,$R$30
+RENT_COMP_4_UNITS,Rent Comps,RENT_COMP_4_UNITS,Rent Comp Inputs,$S$30
+RENT_COMP_4_AVG_NRSF,Rent Comps,RENT_COMP_4_AVG_NRSF,Rent Comp Inputs,$T$30
+RENT_COMP_4_EMPIRICAL_RENT,Rent Comps,RENT_COMP_4_EMPIRICAL_RENT,Rent Comp Inputs,$U$30
+RENT_COMP_4_RENT_NRSF,Rent Comps,RENT_COMP_4_RENT_NRSF,Rent Comp Inputs,$V$30
+RENT_COMP_5_PROPERTY_NAME,Rent Comps,RENT_COMP_5_PROPERTY_NAME,Rent Comp Inputs,$E$31
+RENT_COMP_5_DISTANCE_TO_SUBJECT,Rent Comps,RENT_COMP_5_DISTANCE_TO_SUBJECT,Rent Comp Inputs,$F$31
+RENT_COMP_5_STREET_ADDRESS,Rent Comps,RENT_COMP_5_STREET_ADDRESS,Rent Comp Inputs,$G$31
+RENT_COMP_5_CITY,Rent Comps,RENT_COMP_5_CITY,Rent Comp Inputs,$H$31
+RENT_COMP_5_STATE,Rent Comps,RENT_COMP_5_STATE,Rent Comp Inputs,$I$31
+RENT_COMP_5_ZIP_CODE,Rent Comps,RENT_COMP_5_ZIP_CODE,Rent Comp Inputs,$J$31
+RENT_COMP_5_LATITUDE,Rent Comps,RENT_COMP_5_LATITUDE,Rent Comp Inputs,$K$31
+RENT_COMP_5_LONGITUDE,Rent Comps,RENT_COMP_5_LONGITUDE,Rent Comp Inputs,$L$31
+RENT_COMP_5_BUILDING_TYPE,Rent Comps,RENT_COMP_5_BUILDING_TYPE,Rent Comp Inputs,$M$31
+RENT_COMP_5_BUILDING_HEIGHT,Rent Comps,RENT_COMP_5_BUILDING_HEIGHT,Rent Comp Inputs,$N$31
+RENT_COMP_5_YEAR_BUILT,Rent Comps,RENT_COMP_5_YEAR_BUILT,Rent Comp Inputs,$O$31
+RENT_COMP_5_YEAR_RENOVATED,Rent Comps,RENT_COMP_5_YEAR_RENOVATED,Rent Comp Inputs,$P$31
+RENT_COMP_5_LOCATION_CLASS,Rent Comps,RENT_COMP_5_LOCATION_CLASS,Rent Comp Inputs,$Q$31
+RENT_COMP_5_PRODUCT_CLASS,Rent Comps,RENT_COMP_5_PRODUCT_CLASS,Rent Comp Inputs,$R$31
+RENT_COMP_5_UNITS,Rent Comps,RENT_COMP_5_UNITS,Rent Comp Inputs,$S$31
+RENT_COMP_5_AVG_NRSF,Rent Comps,RENT_COMP_5_AVG_NRSF,Rent Comp Inputs,$T$31
+RENT_COMP_5_EMPIRICAL_RENT,Rent Comps,RENT_COMP_5_EMPIRICAL_RENT,Rent Comp Inputs,$U$31
+RENT_COMP_5_RENT_NRSF,Rent Comps,RENT_COMP_5_RENT_NRSF,Rent Comp Inputs,$V$31
+RENT_COMP_6_PROPERTY_NAME,Rent Comps,RENT_COMP_6_PROPERTY_NAME,Rent Comp Inputs,$E$32
+RENT_COMP_6_DISTANCE_TO_SUBJECT,Rent Comps,RENT_COMP_6_DISTANCE_TO_SUBJECT,Rent Comp Inputs,$F$32
+RENT_COMP_6_STREET_ADDRESS,Rent Comps,RENT_COMP_6_STREET_ADDRESS,Rent Comp Inputs,$G$32
+RENT_COMP_6_CITY,Rent Comps,RENT_COMP_6_CITY,Rent Comp Inputs,$H$32
+RENT_COMP_6_STATE,Rent Comps,RENT_COMP_6_STATE,Rent Comp Inputs,$I$32
+RENT_COMP_6_ZIP_CODE,Rent Comps,RENT_COMP_6_ZIP_CODE,Rent Comp Inputs,$J$32
+RENT_COMP_6_LATITUDE,Rent Comps,RENT_COMP_6_LATITUDE,Rent Comp Inputs,$K$32
+RENT_COMP_6_LONGITUDE,Rent Comps,RENT_COMP_6_LONGITUDE,Rent Comp Inputs,$L$32
+RENT_COMP_6_BUILDING_TYPE,Rent Comps,RENT_COMP_6_BUILDING_TYPE,Rent Comp Inputs,$M$32
+RENT_COMP_6_BUILDING_HEIGHT,Rent Comps,RENT_COMP_6_BUILDING_HEIGHT,Rent Comp Inputs,$N$32
+RENT_COMP_6_YEAR_BUILT,Rent Comps,RENT_COMP_6_YEAR_BUILT,Rent Comp Inputs,$O$32
+RENT_COMP_6_YEAR_RENOVATED,Rent Comps,RENT_COMP_6_YEAR_RENOVATED,Rent Comp Inputs,$P$32
+RENT_COMP_6_LOCATION_CLASS,Rent Comps,RENT_COMP_6_LOCATION_CLASS,Rent Comp Inputs,$Q$32
+RENT_COMP_6_PRODUCT_CLASS,Rent Comps,RENT_COMP_6_PRODUCT_CLASS,Rent Comp Inputs,$R$32
+RENT_COMP_6_UNITS,Rent Comps,RENT_COMP_6_UNITS,Rent Comp Inputs,$S$32
+RENT_COMP_6_AVG_NRSF,Rent Comps,RENT_COMP_6_AVG_NRSF,Rent Comp Inputs,$T$32
+RENT_COMP_6_EMPIRICAL_RENT,Rent Comps,RENT_COMP_6_EMPIRICAL_RENT,Rent Comp Inputs,$U$32
+RENT_COMP_6_RENT_NRSF,Rent Comps,RENT_COMP_6_RENT_NRSF,Rent Comp Inputs,$V$32
+RENT_COMP_7_PROPERTY_NAME,Rent Comps,RENT_COMP_7_PROPERTY_NAME,Rent Comp Inputs,$E$33
+RENT_COMP_7_DISTANCE_TO_SUBJECT,Rent Comps,RENT_COMP_7_DISTANCE_TO_SUBJECT,Rent Comp Inputs,$F$33
+RENT_COMP_7_STREET_ADDRESS,Rent Comps,RENT_COMP_7_STREET_ADDRESS,Rent Comp Inputs,$G$33
+RENT_COMP_7_CITY,Rent Comps,RENT_COMP_7_CITY,Rent Comp Inputs,$H$33
+RENT_COMP_7_STATE,Rent Comps,RENT_COMP_7_STATE,Rent Comp Inputs,$I$33
+RENT_COMP_7_ZIP_CODE,Rent Comps,RENT_COMP_7_ZIP_CODE,Rent Comp Inputs,$J$33
+RENT_COMP_7_LATITUDE,Rent Comps,RENT_COMP_7_LATITUDE,Rent Comp Inputs,$K$33
+RENT_COMP_7_LONGITUDE,Rent Comps,RENT_COMP_7_LONGITUDE,Rent Comp Inputs,$L$33
+RENT_COMP_7_BUILDING_TYPE,Rent Comps,RENT_COMP_7_BUILDING_TYPE,Rent Comp Inputs,$M$33
+RENT_COMP_7_BUILDING_HEIGHT,Rent Comps,RENT_COMP_7_BUILDING_HEIGHT,Rent Comp Inputs,$N$33
+RENT_COMP_7_YEAR_BUILT,Rent Comps,RENT_COMP_7_YEAR_BUILT,Rent Comp Inputs,$O$33
+RENT_COMP_7_YEAR_RENOVATED,Rent Comps,RENT_COMP_7_YEAR_RENOVATED,Rent Comp Inputs,$P$33
+RENT_COMP_7_LOCATION_CLASS,Rent Comps,RENT_COMP_7_LOCATION_CLASS,Rent Comp Inputs,$Q$33
+RENT_COMP_7_PRODUCT_CLASS,Rent Comps,RENT_COMP_7_PRODUCT_CLASS,Rent Comp Inputs,$R$33
+RENT_COMP_7_UNITS,Rent Comps,RENT_COMP_7_UNITS,Rent Comp Inputs,$S$33
+RENT_COMP_7_AVG_NRSF,Rent Comps,RENT_COMP_7_AVG_NRSF,Rent Comp Inputs,$T$33
+RENT_COMP_7_EMPIRICAL_RENT,Rent Comps,RENT_COMP_7_EMPIRICAL_RENT,Rent Comp Inputs,$U$33
+RENT_COMP_7_RENT_NRSF,Rent Comps,RENT_COMP_7_RENT_NRSF,Rent Comp Inputs,$V$33
+RENT_COMP_8_PROPERTY_NAME,Rent Comps,RENT_COMP_8_PROPERTY_NAME,Rent Comp Inputs,$E$34
+RENT_COMP_8_DISTANCE_TO_SUBJECT,Rent Comps,RENT_COMP_8_DISTANCE_TO_SUBJECT,Rent Comp Inputs,$F$34
+RENT_COMP_8_STREET_ADDRESS,Rent Comps,RENT_COMP_8_STREET_ADDRESS,Rent Comp Inputs,$G$34
+RENT_COMP_8_CITY,Rent Comps,RENT_COMP_8_CITY,Rent Comp Inputs,$H$34
+RENT_COMP_8_STATE,Rent Comps,RENT_COMP_8_STATE,Rent Comp Inputs,$I$34
+RENT_COMP_8_ZIP_CODE,Rent Comps,RENT_COMP_8_ZIP_CODE,Rent Comp Inputs,$J$34
+RENT_COMP_8_LATITUDE,Rent Comps,RENT_COMP_8_LATITUDE,Rent Comp Inputs,$K$34
+RENT_COMP_8_LONGITUDE,Rent Comps,RENT_COMP_8_LONGITUDE,Rent Comp Inputs,$L$34
+RENT_COMP_8_BUILDING_TYPE,Rent Comps,RENT_COMP_8_BUILDING_TYPE,Rent Comp Inputs,$M$34
+RENT_COMP_8_BUILDING_HEIGHT,Rent Comps,RENT_COMP_8_BUILDING_HEIGHT,Rent Comp Inputs,$N$34
+RENT_COMP_8_YEAR_BUILT,Rent Comps,RENT_COMP_8_YEAR_BUILT,Rent Comp Inputs,$O$34
+RENT_COMP_8_YEAR_RENOVATED,Rent Comps,RENT_COMP_8_YEAR_RENOVATED,Rent Comp Inputs,$P$34
+RENT_COMP_8_LOCATION_CLASS,Rent Comps,RENT_COMP_8_LOCATION_CLASS,Rent Comp Inputs,$Q$34
+RENT_COMP_8_PRODUCT_CLASS,Rent Comps,RENT_COMP_8_PRODUCT_CLASS,Rent Comp Inputs,$R$34
+RENT_COMP_8_UNITS,Rent Comps,RENT_COMP_8_UNITS,Rent Comp Inputs,$S$34
+RENT_COMP_8_AVG_NRSF,Rent Comps,RENT_COMP_8_AVG_NRSF,Rent Comp Inputs,$T$34
+RENT_COMP_8_EMPIRICAL_RENT,Rent Comps,RENT_COMP_8_EMPIRICAL_RENT,Rent Comp Inputs,$U$34
+RENT_COMP_8_RENT_NRSF,Rent Comps,RENT_COMP_8_RENT_NRSF,Rent Comp Inputs,$V$34
+RENT_COMP_9_PROPERTY_NAME,Rent Comps,RENT_COMP_9_PROPERTY_NAME,Rent Comp Inputs,$E$35
+RENT_COMP_9_DISTANCE_TO_SUBJECT,Rent Comps,RENT_COMP_9_DISTANCE_TO_SUBJECT,Rent Comp Inputs,$F$35
+RENT_COMP_9_STREET_ADDRESS,Rent Comps,RENT_COMP_9_STREET_ADDRESS,Rent Comp Inputs,$G$35
+RENT_COMP_9_CITY,Rent Comps,RENT_COMP_9_CITY,Rent Comp Inputs,$H$35
+RENT_COMP_9_STATE,Rent Comps,RENT_COMP_9_STATE,Rent Comp Inputs,$I$35
+RENT_COMP_9_ZIP_CODE,Rent Comps,RENT_COMP_9_ZIP_CODE,Rent Comp Inputs,$J$35
+RENT_COMP_9_LATITUDE,Rent Comps,RENT_COMP_9_LATITUDE,Rent Comp Inputs,$K$35
+RENT_COMP_9_LONGITUDE,Rent Comps,RENT_COMP_9_LONGITUDE,Rent Comp Inputs,$L$35
+RENT_COMP_9_BUILDING_TYPE,Rent Comps,RENT_COMP_9_BUILDING_TYPE,Rent Comp Inputs,$M$35
+RENT_COMP_9_BUILDING_HEIGHT,Rent Comps,RENT_COMP_9_BUILDING_HEIGHT,Rent Comp Inputs,$N$35
+RENT_COMP_9_YEAR_BUILT,Rent Comps,RENT_COMP_9_YEAR_BUILT,Rent Comp Inputs,$O$35
+RENT_COMP_9_YEAR_RENOVATED,Rent Comps,RENT_COMP_9_YEAR_RENOVATED,Rent Comp Inputs,$P$35
+RENT_COMP_9_LOCATION_CLASS,Rent Comps,RENT_COMP_9_LOCATION_CLASS,Rent Comp Inputs,$Q$35
+RENT_COMP_9_PRODUCT_CLASS,Rent Comps,RENT_COMP_9_PRODUCT_CLASS,Rent Comp Inputs,$R$35
+RENT_COMP_9_UNITS,Rent Comps,RENT_COMP_9_UNITS,Rent Comp Inputs,$S$35
+RENT_COMP_9_AVG_NRSF,Rent Comps,RENT_COMP_9_AVG_NRSF,Rent Comp Inputs,$T$35
+RENT_COMP_9_EMPIRICAL_RENT,Rent Comps,RENT_COMP_9_EMPIRICAL_RENT,Rent Comp Inputs,$U$35
+RENT_COMP_9_RENT_NRSF,Rent Comps,RENT_COMP_9_RENT_NRSF,Rent Comp Inputs,$V$35
+RENT_COMP_10_PROPERTY_NAME,Rent Comps,RENT_COMP_10_PROPERTY_NAME,Rent Comp Inputs,$E$36
+RENT_COMP_10_DISTANCE_TO_SUBJECT,Rent Comps,RENT_COMP_10_DISTANCE_TO_SUBJECT,Rent Comp Inputs,$F$36
+RENT_COMP_10_STREET_ADDRESS,Rent Comps,RENT_COMP_10_STREET_ADDRESS,Rent Comp Inputs,$G$36
+RENT_COMP_10_CITY,Rent Comps,RENT_COMP_10_CITY,Rent Comp Inputs,$H$36
+RENT_COMP_10_STATE,Rent Comps,RENT_COMP_10_STATE,Rent Comp Inputs,$I$36
+RENT_COMP_10_ZIP_CODE,Rent Comps,RENT_COMP_10_ZIP_CODE,Rent Comp Inputs,$J$36
+RENT_COMP_10_LATITUDE,Rent Comps,RENT_COMP_10_LATITUDE,Rent Comp Inputs,$K$36
+RENT_COMP_10_LONGITUDE,Rent Comps,RENT_COMP_10_LONGITUDE,Rent Comp Inputs,$L$36
+RENT_COMP_10_BUILDING_TYPE,Rent Comps,RENT_COMP_10_BUILDING_TYPE,Rent Comp Inputs,$M$36
+RENT_COMP_10_BUILDING_HEIGHT,Rent Comps,RENT_COMP_10_BUILDING_HEIGHT,Rent Comp Inputs,$N$36
+RENT_COMP_10_YEAR_BUILT,Rent Comps,RENT_COMP_10_YEAR_BUILT,Rent Comp Inputs,$O$36
+RENT_COMP_10_YEAR_RENOVATED,Rent Comps,RENT_COMP_10_YEAR_RENOVATED,Rent Comp Inputs,$P$36
+RENT_COMP_10_LOCATION_CLASS,Rent Comps,RENT_COMP_10_LOCATION_CLASS,Rent Comp Inputs,$Q$36
+RENT_COMP_10_PRODUCT_CLASS,Rent Comps,RENT_COMP_10_PRODUCT_CLASS,Rent Comp Inputs,$R$36
+RENT_COMP_10_UNITS,Rent Comps,RENT_COMP_10_UNITS,Rent Comp Inputs,$S$36
+RENT_COMP_10_AVG_NRSF,Rent Comps,RENT_COMP_10_AVG_NRSF,Rent Comp Inputs,$T$36
+RENT_COMP_10_EMPIRICAL_RENT,Rent Comps,RENT_COMP_10_EMPIRICAL_RENT,Rent Comp Inputs,$U$36
+RENT_COMP_10_RENT_NRSF,Rent Comps,RENT_COMP_10_RENT_NRSF,Rent Comp Inputs,$V$36
+RENT_COMP_11_PROPERTY_NAME,Rent Comps,RENT_COMP_11_PROPERTY_NAME,Rent Comp Inputs,$E$37
+RENT_COMP_11_DISTANCE_TO_SUBJECT,Rent Comps,RENT_COMP_11_DISTANCE_TO_SUBJECT,Rent Comp Inputs,$F$37
+RENT_COMP_11_STREET_ADDRESS,Rent Comps,RENT_COMP_11_STREET_ADDRESS,Rent Comp Inputs,$G$37
+RENT_COMP_11_CITY,Rent Comps,RENT_COMP_11_CITY,Rent Comp Inputs,$H$37
+RENT_COMP_11_STATE,Rent Comps,RENT_COMP_11_STATE,Rent Comp Inputs,$I$37
+RENT_COMP_11_ZIP_CODE,Rent Comps,RENT_COMP_11_ZIP_CODE,Rent Comp Inputs,$J$37
+RENT_COMP_11_LATITUDE,Rent Comps,RENT_COMP_11_LATITUDE,Rent Comp Inputs,$K$37
+RENT_COMP_11_LONGITUDE,Rent Comps,RENT_COMP_11_LONGITUDE,Rent Comp Inputs,$L$37
+RENT_COMP_11_BUILDING_TYPE,Rent Comps,RENT_COMP_11_BUILDING_TYPE,Rent Comp Inputs,$M$37
+RENT_COMP_11_BUILDING_HEIGHT,Rent Comps,RENT_COMP_11_BUILDING_HEIGHT,Rent Comp Inputs,$N$37
+RENT_COMP_11_YEAR_BUILT,Rent Comps,RENT_COMP_11_YEAR_BUILT,Rent Comp Inputs,$O$37
+RENT_COMP_11_YEAR_RENOVATED,Rent Comps,RENT_COMP_11_YEAR_RENOVATED,Rent Comp Inputs,$P$37
+RENT_COMP_11_LOCATION_CLASS,Rent Comps,RENT_COMP_11_LOCATION_CLASS,Rent Comp Inputs,$Q$37
+RENT_COMP_11_PRODUCT_CLASS,Rent Comps,RENT_COMP_11_PRODUCT_CLASS,Rent Comp Inputs,$R$37
+RENT_COMP_11_UNITS,Rent Comps,RENT_COMP_11_UNITS,Rent Comp Inputs,$S$37
+RENT_COMP_11_AVG_NRSF,Rent Comps,RENT_COMP_11_AVG_NRSF,Rent Comp Inputs,$T$37
+RENT_COMP_11_EMPIRICAL_RENT,Rent Comps,RENT_COMP_11_EMPIRICAL_RENT,Rent Comp Inputs,$U$37
+RENT_COMP_11_RENT_NRSF,Rent Comps,RENT_COMP_11_RENT_NRSF,Rent Comp Inputs,$V$37
+RENT_COMP_12_PROPERTY_NAME,Rent Comps,RENT_COMP_12_PROPERTY_NAME,Rent Comp Inputs,$E$38
+RENT_COMP_12_DISTANCE_TO_SUBJECT,Rent Comps,RENT_COMP_12_DISTANCE_TO_SUBJECT,Rent Comp Inputs,$F$38
+RENT_COMP_12_STREET_ADDRESS,Rent Comps,RENT_COMP_12_STREET_ADDRESS,Rent Comp Inputs,$G$38
+RENT_COMP_12_CITY,Rent Comps,RENT_COMP_12_CITY,Rent Comp Inputs,$H$38
+RENT_COMP_12_STATE,Rent Comps,RENT_COMP_12_STATE,Rent Comp Inputs,$I$38
+RENT_COMP_12_ZIP_CODE,Rent Comps,RENT_COMP_12_ZIP_CODE,Rent Comp Inputs,$J$38
+RENT_COMP_12_LATITUDE,Rent Comps,RENT_COMP_12_LATITUDE,Rent Comp Inputs,$K$38
+RENT_COMP_12_LONGITUDE,Rent Comps,RENT_COMP_12_LONGITUDE,Rent Comp Inputs,$L$38
+RENT_COMP_12_BUILDING_TYPE,Rent Comps,RENT_COMP_12_BUILDING_TYPE,Rent Comp Inputs,$M$38
+RENT_COMP_12_BUILDING_HEIGHT,Rent Comps,RENT_COMP_12_BUILDING_HEIGHT,Rent Comp Inputs,$N$38
+RENT_COMP_12_YEAR_BUILT,Rent Comps,RENT_COMP_12_YEAR_BUILT,Rent Comp Inputs,$O$38
+RENT_COMP_12_YEAR_RENOVATED,Rent Comps,RENT_COMP_12_YEAR_RENOVATED,Rent Comp Inputs,$P$38
+RENT_COMP_12_LOCATION_CLASS,Rent Comps,RENT_COMP_12_LOCATION_CLASS,Rent Comp Inputs,$Q$38
+RENT_COMP_12_PRODUCT_CLASS,Rent Comps,RENT_COMP_12_PRODUCT_CLASS,Rent Comp Inputs,$R$38
+RENT_COMP_12_UNITS,Rent Comps,RENT_COMP_12_UNITS,Rent Comp Inputs,$S$38
+RENT_COMP_12_AVG_NRSF,Rent Comps,RENT_COMP_12_AVG_NRSF,Rent Comp Inputs,$T$38
+RENT_COMP_12_EMPIRICAL_RENT,Rent Comps,RENT_COMP_12_EMPIRICAL_RENT,Rent Comp Inputs,$U$38
+RENT_COMP_12_RENT_NRSF,Rent Comps,RENT_COMP_12_RENT_NRSF,Rent Comp Inputs,$V$38
+RENT_COMP_13_PROPERTY_NAME,Rent Comps,RENT_COMP_13_PROPERTY_NAME,Rent Comp Inputs,$E$39
+RENT_COMP_13_DISTANCE_TO_SUBJECT,Rent Comps,RENT_COMP_13_DISTANCE_TO_SUBJECT,Rent Comp Inputs,$F$39
+RENT_COMP_13_STREET_ADDRESS,Rent Comps,RENT_COMP_13_STREET_ADDRESS,Rent Comp Inputs,$G$39
+RENT_COMP_13_CITY,Rent Comps,RENT_COMP_13_CITY,Rent Comp Inputs,$H$39
+RENT_COMP_13_STATE,Rent Comps,RENT_COMP_13_STATE,Rent Comp Inputs,$I$39
+RENT_COMP_13_ZIP_CODE,Rent Comps,RENT_COMP_13_ZIP_CODE,Rent Comp Inputs,$J$39
+RENT_COMP_13_LATITUDE,Rent Comps,RENT_COMP_13_LATITUDE,Rent Comp Inputs,$K$39
+RENT_COMP_13_LONGITUDE,Rent Comps,RENT_COMP_13_LONGITUDE,Rent Comp Inputs,$L$39
+RENT_COMP_13_BUILDING_TYPE,Rent Comps,RENT_COMP_13_BUILDING_TYPE,Rent Comp Inputs,$M$39
+RENT_COMP_13_BUILDING_HEIGHT,Rent Comps,RENT_COMP_13_BUILDING_HEIGHT,Rent Comp Inputs,$N$39
+RENT_COMP_13_YEAR_BUILT,Rent Comps,RENT_COMP_13_YEAR_BUILT,Rent Comp Inputs,$O$39
+RENT_COMP_13_YEAR_RENOVATED,Rent Comps,RENT_COMP_13_YEAR_RENOVATED,Rent Comp Inputs,$P$39
+RENT_COMP_13_LOCATION_CLASS,Rent Comps,RENT_COMP_13_LOCATION_CLASS,Rent Comp Inputs,$Q$39
+RENT_COMP_13_PRODUCT_CLASS,Rent Comps,RENT_COMP_13_PRODUCT_CLASS,Rent Comp Inputs,$R$39
+RENT_COMP_13_UNITS,Rent Comps,RENT_COMP_13_UNITS,Rent Comp Inputs,$S$39
+RENT_COMP_13_AVG_NRSF,Rent Comps,RENT_COMP_13_AVG_NRSF,Rent Comp Inputs,$T$39
+RENT_COMP_13_EMPIRICAL_RENT,Rent Comps,RENT_COMP_13_EMPIRICAL_RENT,Rent Comp Inputs,$U$39
+RENT_COMP_13_RENT_NRSF,Rent Comps,RENT_COMP_13_RENT_NRSF,Rent Comp Inputs,$V$39
+RENT_COMP_14_PROPERTY_NAME,Rent Comps,RENT_COMP_14_PROPERTY_NAME,Rent Comp Inputs,$E$40
+RENT_COMP_14_DISTANCE_TO_SUBJECT,Rent Comps,RENT_COMP_14_DISTANCE_TO_SUBJECT,Rent Comp Inputs,$F$40
+RENT_COMP_14_STREET_ADDRESS,Rent Comps,RENT_COMP_14_STREET_ADDRESS,Rent Comp Inputs,$G$40
+RENT_COMP_14_CITY,Rent Comps,RENT_COMP_14_CITY,Rent Comp Inputs,$H$40
+RENT_COMP_14_STATE,Rent Comps,RENT_COMP_14_STATE,Rent Comp Inputs,$I$40
+RENT_COMP_14_ZIP_CODE,Rent Comps,RENT_COMP_14_ZIP_CODE,Rent Comp Inputs,$J$40
+RENT_COMP_14_LATITUDE,Rent Comps,RENT_COMP_14_LATITUDE,Rent Comp Inputs,$K$40
+RENT_COMP_14_LONGITUDE,Rent Comps,RENT_COMP_14_LONGITUDE,Rent Comp Inputs,$L$40
+RENT_COMP_14_BUILDING_TYPE,Rent Comps,RENT_COMP_14_BUILDING_TYPE,Rent Comp Inputs,$M$40
+RENT_COMP_14_BUILDING_HEIGHT,Rent Comps,RENT_COMP_14_BUILDING_HEIGHT,Rent Comp Inputs,$N$40
+RENT_COMP_14_YEAR_BUILT,Rent Comps,RENT_COMP_14_YEAR_BUILT,Rent Comp Inputs,$O$40
+RENT_COMP_14_YEAR_RENOVATED,Rent Comps,RENT_COMP_14_YEAR_RENOVATED,Rent Comp Inputs,$P$40
+RENT_COMP_14_LOCATION_CLASS,Rent Comps,RENT_COMP_14_LOCATION_CLASS,Rent Comp Inputs,$Q$40
+RENT_COMP_14_PRODUCT_CLASS,Rent Comps,RENT_COMP_14_PRODUCT_CLASS,Rent Comp Inputs,$R$40
+RENT_COMP_14_UNITS,Rent Comps,RENT_COMP_14_UNITS,Rent Comp Inputs,$S$40
+RENT_COMP_14_AVG_NRSF,Rent Comps,RENT_COMP_14_AVG_NRSF,Rent Comp Inputs,$T$40
+RENT_COMP_14_EMPIRICAL_RENT,Rent Comps,RENT_COMP_14_EMPIRICAL_RENT,Rent Comp Inputs,$U$40
+RENT_COMP_14_RENT_NRSF,Rent Comps,RENT_COMP_14_RENT_NRSF,Rent Comp Inputs,$V$40
+RENT_COMP_15_PROPERTY_NAME,Rent Comps,RENT_COMP_15_PROPERTY_NAME,Rent Comp Inputs,$E$41
+RENT_COMP_15_DISTANCE_TO_SUBJECT,Rent Comps,RENT_COMP_15_DISTANCE_TO_SUBJECT,Rent Comp Inputs,$F$41
+RENT_COMP_15_STREET_ADDRESS,Rent Comps,RENT_COMP_15_STREET_ADDRESS,Rent Comp Inputs,$G$41
+RENT_COMP_15_CITY,Rent Comps,RENT_COMP_15_CITY,Rent Comp Inputs,$H$41
+RENT_COMP_15_STATE,Rent Comps,RENT_COMP_15_STATE,Rent Comp Inputs,$I$41
+RENT_COMP_15_ZIP_CODE,Rent Comps,RENT_COMP_15_ZIP_CODE,Rent Comp Inputs,$J$41
+RENT_COMP_15_LATITUDE,Rent Comps,RENT_COMP_15_LATITUDE,Rent Comp Inputs,$K$41
+RENT_COMP_15_LONGITUDE,Rent Comps,RENT_COMP_15_LONGITUDE,Rent Comp Inputs,$L$41
+RENT_COMP_15_BUILDING_TYPE,Rent Comps,RENT_COMP_15_BUILDING_TYPE,Rent Comp Inputs,$M$41
+RENT_COMP_15_BUILDING_HEIGHT,Rent Comps,RENT_COMP_15_BUILDING_HEIGHT,Rent Comp Inputs,$N$41
+RENT_COMP_15_YEAR_BUILT,Rent Comps,RENT_COMP_15_YEAR_BUILT,Rent Comp Inputs,$O$41
+RENT_COMP_15_YEAR_RENOVATED,Rent Comps,RENT_COMP_15_YEAR_RENOVATED,Rent Comp Inputs,$P$41
+RENT_COMP_15_LOCATION_CLASS,Rent Comps,RENT_COMP_15_LOCATION_CLASS,Rent Comp Inputs,$Q$41
+RENT_COMP_15_PRODUCT_CLASS,Rent Comps,RENT_COMP_15_PRODUCT_CLASS,Rent Comp Inputs,$R$41
+RENT_COMP_15_UNITS,Rent Comps,RENT_COMP_15_UNITS,Rent Comp Inputs,$S$41
+RENT_COMP_15_AVG_NRSF,Rent Comps,RENT_COMP_15_AVG_NRSF,Rent Comp Inputs,$T$41
+RENT_COMP_15_EMPIRICAL_RENT,Rent Comps,RENT_COMP_15_EMPIRICAL_RENT,Rent Comp Inputs,$U$41
+RENT_COMP_15_RENT_NRSF,Rent Comps,RENT_COMP_15_RENT_NRSF,Rent Comp Inputs,$V$41
+GROSS_POTENTIAL_REVENUE_YEAR_1,Annual Cashflows,GROSS_POTENTIAL_REVENUE_YEAR_1,Annual Cashflows,$I$15
+GROSS_POTENTIAL_REVENUE_YEAR_2,Annual Cashflows,GROSS_POTENTIAL_REVENUE_YEAR_2,Annual Cashflows,$J$15
+GROSS_POTENTIAL_REVENUE_YEAR_3,Annual Cashflows,GROSS_POTENTIAL_REVENUE_YEAR_3,Annual Cashflows,$K$15
+GROSS_POTENTIAL_REVENUE_YEAR_4,Annual Cashflows,GROSS_POTENTIAL_REVENUE_YEAR_4,Annual Cashflows,$L$15
+GROSS_POTENTIAL_REVENUE_YEAR_5,Annual Cashflows,GROSS_POTENTIAL_REVENUE_YEAR_5,Annual Cashflows,$M$15
+LOSS_TO_LEASE_YEAR_1,Annual Cashflows,LOSS_TO_LEASE_YEAR_1,Annual Cashflows,$I$17
+LOSS_TO_LEASE_YEAR_2,Annual Cashflows,LOSS_TO_LEASE_YEAR_2,Annual Cashflows,$J$17
+LOSS_TO_LEASE_YEAR_3,Annual Cashflows,LOSS_TO_LEASE_YEAR_3,Annual Cashflows,$K$17
+LOSS_TO_LEASE_YEAR_4,Annual Cashflows,LOSS_TO_LEASE_YEAR_4,Annual Cashflows,$L$17
+LOSS_TO_LEASE_YEAR_5,Annual Cashflows,LOSS_TO_LEASE_YEAR_5,Annual Cashflows,$M$17
+NET_RENTAL_INCOME_YEAR_1,Annual Cashflows,NET_RENTAL_INCOME_YEAR_1,Annual Cashflows,$I$21
+NET_RENTAL_INCOME_YEAR_2,Annual Cashflows,NET_RENTAL_INCOME_YEAR_2,Annual Cashflows,$J$21
+NET_RENTAL_INCOME_YEAR_3,Annual Cashflows,NET_RENTAL_INCOME_YEAR_3,Annual Cashflows,$K$21
+NET_RENTAL_INCOME_YEAR_4,Annual Cashflows,NET_RENTAL_INCOME_YEAR_4,Annual Cashflows,$L$21
+NET_RENTAL_INCOME_YEAR_5,Annual Cashflows,NET_RENTAL_INCOME_YEAR_5,Annual Cashflows,$M$21
+PARKING_INCOME_YEAR_1,Annual Cashflows,PARKING_INCOME_YEAR_1,Annual Cashflows,$I$22
+PARKING_INCOME_YEAR_2,Annual Cashflows,PARKING_INCOME_YEAR_2,Annual Cashflows,$J$22
+PARKING_INCOME_YEAR_3,Annual Cashflows,PARKING_INCOME_YEAR_3,Annual Cashflows,$K$22
+PARKING_INCOME_YEAR_4,Annual Cashflows,PARKING_INCOME_YEAR_4,Annual Cashflows,$L$22
+PARKING_INCOME_YEAR_5,Annual Cashflows,PARKING_INCOME_YEAR_5,Annual Cashflows,$M$22
+UTILITY_INCOME_YEAR_1,Annual Cashflows,UTILITY_INCOME_YEAR_1,Annual Cashflows,$I$23
+UTILITY_INCOME_YEAR_2,Annual Cashflows,UTILITY_INCOME_YEAR_2,Annual Cashflows,$J$23
+UTILITY_INCOME_YEAR_3,Annual Cashflows,UTILITY_INCOME_YEAR_3,Annual Cashflows,$K$23
+UTILITY_INCOME_YEAR_4,Annual Cashflows,UTILITY_INCOME_YEAR_4,Annual Cashflows,$L$23
+UTILITY_INCOME_YEAR_5,Annual Cashflows,UTILITY_INCOME_YEAR_5,Annual Cashflows,$M$23
+STORAGE_INCOME_YEAR_1,Annual Cashflows,STORAGE_INCOME_YEAR_1,Annual Cashflows,$I$24
+STORAGE_INCOME_YEAR_2,Annual Cashflows,STORAGE_INCOME_YEAR_2,Annual Cashflows,$J$24
+STORAGE_INCOME_YEAR_3,Annual Cashflows,STORAGE_INCOME_YEAR_3,Annual Cashflows,$K$24
+STORAGE_INCOME_YEAR_4,Annual Cashflows,STORAGE_INCOME_YEAR_4,Annual Cashflows,$L$24
+STORAGE_INCOME_YEAR_5,Annual Cashflows,STORAGE_INCOME_YEAR_5,Annual Cashflows,$M$24
+LAUNDRY_INCOME_YEAR_1,Annual Cashflows,LAUNDRY_INCOME_YEAR_1,Annual Cashflows,$I$25
+LAUNDRY_INCOME_YEAR_2,Annual Cashflows,LAUNDRY_INCOME_YEAR_2,Annual Cashflows,$J$25
+LAUNDRY_INCOME_YEAR_3,Annual Cashflows,LAUNDRY_INCOME_YEAR_3,Annual Cashflows,$K$25
+LAUNDRY_INCOME_YEAR_4,Annual Cashflows,LAUNDRY_INCOME_YEAR_4,Annual Cashflows,$L$25
+LAUNDRY_INCOME_YEAR_5,Annual Cashflows,LAUNDRY_INCOME_YEAR_5,Annual Cashflows,$M$25
+PET_INCOME_YEAR_1,Annual Cashflows,PET_INCOME_YEAR_1,Annual Cashflows,$I$26
+PET_INCOME_YEAR_2,Annual Cashflows,PET_INCOME_YEAR_2,Annual Cashflows,$J$26
+PET_INCOME_YEAR_3,Annual Cashflows,PET_INCOME_YEAR_3,Annual Cashflows,$K$26
+PET_INCOME_YEAR_4,Annual Cashflows,PET_INCOME_YEAR_4,Annual Cashflows,$L$26
+PET_INCOME_YEAR_5,Annual Cashflows,PET_INCOME_YEAR_5,Annual Cashflows,$M$26
+OTHER_MISC_INCOME_YEAR_1,Annual Cashflows,OTHER_MISC._INCOME_YEAR_1,Annual Cashflows,$I$27
+OTHER_MISC_INCOME_YEAR_2,Annual Cashflows,OTHER_MISC._INCOME_YEAR_2,Annual Cashflows,$J$27
+OTHER_MISC_INCOME_YEAR_3,Annual Cashflows,OTHER_MISC._INCOME_YEAR_3,Annual Cashflows,$K$27
+OTHER_MISC_INCOME_YEAR_4,Annual Cashflows,OTHER_MISC._INCOME_YEAR_4,Annual Cashflows,$L$27
+OTHER_MISC_INCOME_YEAR_5,Annual Cashflows,OTHER_MISC._INCOME_YEAR_5,Annual Cashflows,$M$27
+TOTAL_OTHER_INCOME_YEAR_1,Annual Cashflows,TOTAL_OTHER_INCOME_YEAR_1,Annual Cashflows,$I$28
+TOTAL_OTHER_INCOME_YEAR_2,Annual Cashflows,TOTAL_OTHER_INCOME_YEAR_2,Annual Cashflows,$J$28
+TOTAL_OTHER_INCOME_YEAR_3,Annual Cashflows,TOTAL_OTHER_INCOME_YEAR_3,Annual Cashflows,$K$28
+TOTAL_OTHER_INCOME_YEAR_4,Annual Cashflows,TOTAL_OTHER_INCOME_YEAR_4,Annual Cashflows,$L$28
+TOTAL_OTHER_INCOME_YEAR_5,Annual Cashflows,TOTAL_OTHER_INCOME_YEAR_5,Annual Cashflows,$M$28
+EFFECTIVE_GROSS_INCOME_YEAR_1,Annual Cashflows,EFFECTIVE_GROSS_INCOME_YEAR_1,Annual Cashflows,$I$29
+EFFECTIVE_GROSS_INCOME_YEAR_2,Annual Cashflows,EFFECTIVE_GROSS_INCOME_YEAR_2,Annual Cashflows,$J$29
+EFFECTIVE_GROSS_INCOME_YEAR_3,Annual Cashflows,EFFECTIVE_GROSS_INCOME_YEAR_3,Annual Cashflows,$K$29
+EFFECTIVE_GROSS_INCOME_YEAR_4,Annual Cashflows,EFFECTIVE_GROSS_INCOME_YEAR_4,Annual Cashflows,$L$29
+EFFECTIVE_GROSS_INCOME_YEAR_5,Annual Cashflows,EFFECTIVE_GROSS_INCOME_YEAR_5,Annual Cashflows,$M$29
+REAL_ESTATE_TAXES_YEAR_1,Annual Cashflows,REAL_ESTATE_TAXES_YEAR_1,Annual Cashflows,$I$30
+REAL_ESTATE_TAXES_YEAR_2,Annual Cashflows,REAL_ESTATE_TAXES_YEAR_2,Annual Cashflows,$J$30
+REAL_ESTATE_TAXES_YEAR_3,Annual Cashflows,REAL_ESTATE_TAXES_YEAR_3,Annual Cashflows,$K$30
+REAL_ESTATE_TAXES_YEAR_4,Annual Cashflows,REAL_ESTATE_TAXES_YEAR_4,Annual Cashflows,$L$30
+REAL_ESTATE_TAXES_YEAR_5,Annual Cashflows,REAL_ESTATE_TAXES_YEAR_5,Annual Cashflows,$M$30
+OTHER_EXPENSES_YEAR_1,Annual Cashflows,OTHER_EXPENSES_YEAR_1,Annual Cashflows,$I$31
+OTHER_EXPENSES_YEAR_2,Annual Cashflows,OTHER_EXPENSES_YEAR_2,Annual Cashflows,$J$31
+OTHER_EXPENSES_YEAR_3,Annual Cashflows,OTHER_EXPENSES_YEAR_3,Annual Cashflows,$K$31
+OTHER_EXPENSES_YEAR_4,Annual Cashflows,OTHER_EXPENSES_YEAR_4,Annual Cashflows,$L$31
+OTHER_EXPENSES_YEAR_5,Annual Cashflows,OTHER_EXPENSES_YEAR_5,Annual Cashflows,$M$31
+PROPERTY_INSURANCE_YEAR_1,Annual Cashflows,PROPERTY_INSURANCE_YEAR_1,Annual Cashflows,$I$32
+PROPERTY_INSURANCE_YEAR_2,Annual Cashflows,PROPERTY_INSURANCE_YEAR_2,Annual Cashflows,$J$32
+PROPERTY_INSURANCE_YEAR_3,Annual Cashflows,PROPERTY_INSURANCE_YEAR_3,Annual Cashflows,$K$32
+PROPERTY_INSURANCE_YEAR_4,Annual Cashflows,PROPERTY_INSURANCE_YEAR_4,Annual Cashflows,$L$32
+PROPERTY_INSURANCE_YEAR_5,Annual Cashflows,PROPERTY_INSURANCE_YEAR_5,Annual Cashflows,$M$32
+UTILITIES_YEAR_1,Annual Cashflows,UTILITIES_YEAR_1,Annual Cashflows,$I$33
+UTILITIES_YEAR_2,Annual Cashflows,UTILITIES_YEAR_2,Annual Cashflows,$J$33
+UTILITIES_YEAR_3,Annual Cashflows,UTILITIES_YEAR_3,Annual Cashflows,$K$33
+UTILITIES_YEAR_4,Annual Cashflows,UTILITIES_YEAR_4,Annual Cashflows,$L$33
+UTILITIES_YEAR_5,Annual Cashflows,UTILITIES_YEAR_5,Annual Cashflows,$M$33
+STAFFING_PAYROLL_YEAR_1,Annual Cashflows,STAFFING_PAYROLL_YEAR_1,Annual Cashflows,$I$34
+STAFFING_PAYROLL_YEAR_2,Annual Cashflows,STAFFING_PAYROLL_YEAR_2,Annual Cashflows,$J$34
+STAFFING_PAYROLL_YEAR_3,Annual Cashflows,STAFFING_PAYROLL_YEAR_3,Annual Cashflows,$K$34
+STAFFING_PAYROLL_YEAR_4,Annual Cashflows,STAFFING_PAYROLL_YEAR_4,Annual Cashflows,$L$34
+STAFFING_PAYROLL_YEAR_5,Annual Cashflows,STAFFING_PAYROLL_YEAR_5,Annual Cashflows,$M$34
+PROPERTY_MANAGEMENT_FEE_YEAR_1,Annual Cashflows,PROPERTY_MANAGEMENT_FEE_YEAR_1,Annual Cashflows,$I$35
+PROPERTY_MANAGEMENT_FEE_YEAR_2,Annual Cashflows,PROPERTY_MANAGEMENT_FEE_YEAR_2,Annual Cashflows,$J$35
+PROPERTY_MANAGEMENT_FEE_YEAR_3,Annual Cashflows,PROPERTY_MANAGEMENT_FEE_YEAR_3,Annual Cashflows,$K$35
+PROPERTY_MANAGEMENT_FEE_YEAR_4,Annual Cashflows,PROPERTY_MANAGEMENT_FEE_YEAR_4,Annual Cashflows,$L$35
+PROPERTY_MANAGEMENT_FEE_YEAR_5,Annual Cashflows,PROPERTY_MANAGEMENT_FEE_YEAR_5,Annual Cashflows,$M$35
+REPAIRS_AND_MAINTENANCE_YEAR_1,Annual Cashflows,REPAIRS_AND_MAINTENANCE_YEAR_1,Annual Cashflows,$I$36
+REPAIRS_AND_MAINTENANCE_YEAR_2,Annual Cashflows,REPAIRS_AND_MAINTENANCE_YEAR_2,Annual Cashflows,$J$36
+REPAIRS_AND_MAINTENANCE_YEAR_3,Annual Cashflows,REPAIRS_AND_MAINTENANCE_YEAR_3,Annual Cashflows,$K$36
+REPAIRS_AND_MAINTENANCE_YEAR_4,Annual Cashflows,REPAIRS_AND_MAINTENANCE_YEAR_4,Annual Cashflows,$L$36
+REPAIRS_AND_MAINTENANCE_YEAR_5,Annual Cashflows,REPAIRS_AND_MAINTENANCE_YEAR_5,Annual Cashflows,$M$36
+TURNOVER_YEAR_1,Annual Cashflows,TURNOVER_YEAR_1,Annual Cashflows,$I$37
+TURNOVER_YEAR_2,Annual Cashflows,TURNOVER_YEAR_2,Annual Cashflows,$J$37
+TURNOVER_YEAR_3,Annual Cashflows,TURNOVER_YEAR_3,Annual Cashflows,$K$37
+TURNOVER_YEAR_4,Annual Cashflows,TURNOVER_YEAR_4,Annual Cashflows,$L$37
+TURNOVER_YEAR_5,Annual Cashflows,TURNOVER_YEAR_5,Annual Cashflows,$M$37
+CONTRACT_SERVICES_YEAR_1,Annual Cashflows,CONTRACT_SERVICES_YEAR_1,Annual Cashflows,$I$38
+CONTRACT_SERVICES_YEAR_2,Annual Cashflows,CONTRACT_SERVICES_YEAR_2,Annual Cashflows,$J$38
+CONTRACT_SERVICES_YEAR_3,Annual Cashflows,CONTRACT_SERVICES_YEAR_3,Annual Cashflows,$K$38
+CONTRACT_SERVICES_YEAR_4,Annual Cashflows,CONTRACT_SERVICES_YEAR_4,Annual Cashflows,$L$38
+CONTRACT_SERVICES_YEAR_5,Annual Cashflows,CONTRACT_SERVICES_YEAR_5,Annual Cashflows,$M$38
+RESERVES_FOR_REPLACEMENT_YEAR_1,Annual Cashflows,RESERVES_FOR_REPLACEMENT_YEAR_1,Annual Cashflows,$I$39
+RESERVES_FOR_REPLACEMENT_YEAR_2,Annual Cashflows,RESERVES_FOR_REPLACEMENT_YEAR_2,Annual Cashflows,$J$39
+RESERVES_FOR_REPLACEMENT_YEAR_3,Annual Cashflows,RESERVES_FOR_REPLACEMENT_YEAR_3,Annual Cashflows,$K$39
+RESERVES_FOR_REPLACEMENT_YEAR_4,Annual Cashflows,RESERVES_FOR_REPLACEMENT_YEAR_4,Annual Cashflows,$L$39
+RESERVES_FOR_REPLACEMENT_YEAR_5,Annual Cashflows,RESERVES_FOR_REPLACEMENT_YEAR_5,Annual Cashflows,$M$39
+ADMIN_LEGAL_AND_SECURITY_YEAR_1,Annual Cashflows,ADMIN_LEGAL_AND_SECURITY_YEAR_1,Annual Cashflows,$I$40
+ADMIN_LEGAL_AND_SECURITY_YEAR_2,Annual Cashflows,ADMIN_LEGAL_AND_SECURITY_YEAR_2,Annual Cashflows,$J$40
+ADMIN_LEGAL_AND_SECURITY_YEAR_3,Annual Cashflows,ADMIN_LEGAL_AND_SECURITY_YEAR_3,Annual Cashflows,$K$40
+ADMIN_LEGAL_AND_SECURITY_YEAR_4,Annual Cashflows,ADMIN_LEGAL_AND_SECURITY_YEAR_4,Annual Cashflows,$L$40
+ADMIN_LEGAL_AND_SECURITY_YEAR_5,Annual Cashflows,ADMIN_LEGAL_AND_SECURITY_YEAR_5,Annual Cashflows,$M$40
+ADVERTISING_LEASING_AND_MARKETING_YEAR_1,Annual Cashflows,ADVERTISING_LEASING_AND_MARKETING_YEAR_1,Annual Cashflows,$I$41
+ADVERTISING_LEASING_AND_MARKETING_YEAR_2,Annual Cashflows,ADVERTISING_LEASING_AND_MARKETING_YEAR_2,Annual Cashflows,$J$41
+ADVERTISING_LEASING_AND_MARKETING_YEAR_3,Annual Cashflows,ADVERTISING_LEASING_AND_MARKETING_YEAR_3,Annual Cashflows,$K$41
+ADVERTISING_LEASING_AND_MARKETING_YEAR_4,Annual Cashflows,ADVERTISING_LEASING_AND_MARKETING_YEAR_4,Annual Cashflows,$L$41
+ADVERTISING_LEASING_AND_MARKETING_YEAR_5,Annual Cashflows,ADVERTISING_LEASING_AND_MARKETING_YEAR_5,Annual Cashflows,$M$41
+TOTAL_OPERATING_EXPENSES_YEAR_1,Annual Cashflows,TOTAL_OPERATING_EXPENSES_YEAR_1,Annual Cashflows,$I$42
+TOTAL_OPERATING_EXPENSES_YEAR_2,Annual Cashflows,TOTAL_OPERATING_EXPENSES_YEAR_2,Annual Cashflows,$J$42
+TOTAL_OPERATING_EXPENSES_YEAR_3,Annual Cashflows,TOTAL_OPERATING_EXPENSES_YEAR_3,Annual Cashflows,$K$42
+TOTAL_OPERATING_EXPENSES_YEAR_4,Annual Cashflows,TOTAL_OPERATING_EXPENSES_YEAR_4,Annual Cashflows,$L$42
+TOTAL_OPERATING_EXPENSES_YEAR_5,Annual Cashflows,TOTAL_OPERATING_EXPENSES_YEAR_5,Annual Cashflows,$M$42
+NET_OPERATING_INCOME_YEAR_1,Annual Cashflows,NET_OPERATING_INCOME_YEAR_1,Annual Cashflows,$I$43
+NET_OPERATING_INCOME_YEAR_2,Annual Cashflows,NET_OPERATING_INCOME_YEAR_2,Annual Cashflows,$J$43
+NET_OPERATING_INCOME_YEAR_3,Annual Cashflows,NET_OPERATING_INCOME_YEAR_3,Annual Cashflows,$K$43
+NET_OPERATING_INCOME_YEAR_4,Annual Cashflows,NET_OPERATING_INCOME_YEAR_4,Annual Cashflows,$L$43
+NET_OPERATING_INCOME_YEAR_5,Annual Cashflows,NET_OPERATING_INCOME_YEAR_5,Annual Cashflows,$M$43
+NET_OPERATING_INCOME_MARGIN_YEAR_1,Annual Cashflows,NET_OPERATING_INCOME_MARGIN_YEAR_1,Annual Cashflows,$I$44
+NET_OPERATING_INCOME_MARGIN_YEAR_2,Annual Cashflows,NET_OPERATING_INCOME_MARGIN_YEAR_2,Annual Cashflows,$J$44
+NET_OPERATING_INCOME_MARGIN_YEAR_3,Annual Cashflows,NET_OPERATING_INCOME_MARGIN_YEAR_3,Annual Cashflows,$K$44
+NET_OPERATING_INCOME_MARGIN_YEAR_4,Annual Cashflows,NET_OPERATING_INCOME_MARGIN_YEAR_4,Annual Cashflows,$L$44
+NET_OPERATING_INCOME_MARGIN_YEAR_5,Annual Cashflows,NET_OPERATING_INCOME_MARGIN_YEAR_5,Annual Cashflows,$M$44
+CAPEX_DEFERRED_MAINTENANCE_YEAR_1,Annual Cashflows,CAPEX_DEFERRED_MAINTENANCE_YEAR_1,Annual Cashflows,$I$45
+CAPEX_DEFERRED_MAINTENANCE_YEAR_2,Annual Cashflows,CAPEX_DEFERRED_MAINTENANCE_YEAR_2,Annual Cashflows,$J$45
+CAPEX_DEFERRED_MAINTENANCE_YEAR_3,Annual Cashflows,CAPEX_DEFERRED_MAINTENANCE_YEAR_3,Annual Cashflows,$K$45
+CAPEX_DEFERRED_MAINTENANCE_YEAR_4,Annual Cashflows,CAPEX_DEFERRED_MAINTENANCE_YEAR_4,Annual Cashflows,$L$45
+CAPEX_DEFERRED_MAINTENANCE_YEAR_5,Annual Cashflows,CAPEX_DEFERRED_MAINTENANCE_YEAR_5,Annual Cashflows,$M$45
+CAPEX_UNIT_AND_EXTERIOR_RENOVATIONS_YEAR_1,Annual Cashflows,CAPEX_UNIT_AND_EXTERIOR_RENOVATIONS_YEAR_1,Annual Cashflows,$I$46
+CAPEX_UNIT_AND_EXTERIOR_RENOVATIONS_YEAR_2,Annual Cashflows,CAPEX_UNIT_AND_EXTERIOR_RENOVATIONS_YEAR_2,Annual Cashflows,$J$46
+CAPEX_UNIT_AND_EXTERIOR_RENOVATIONS_YEAR_3,Annual Cashflows,CAPEX_UNIT_AND_EXTERIOR_RENOVATIONS_YEAR_3,Annual Cashflows,$K$46
+CAPEX_UNIT_AND_EXTERIOR_RENOVATIONS_YEAR_4,Annual Cashflows,CAPEX_UNIT_AND_EXTERIOR_RENOVATIONS_YEAR_4,Annual Cashflows,$L$46
+CAPEX_UNIT_AND_EXTERIOR_RENOVATIONS_YEAR_5,Annual Cashflows,CAPEX_UNIT_AND_EXTERIOR_RENOVATIONS_YEAR_5,Annual Cashflows,$M$46
+SENIOR_LOAN_DEBT_SERVICE_YEAR_1,Annual Cashflows,SENIOR_LOAN_DEBT_SERVICE_YEAR_1,Annual Cashflows,$I$47
+SENIOR_LOAN_DEBT_SERVICE_YEAR_2,Annual Cashflows,SENIOR_LOAN_DEBT_SERVICE_YEAR_2,Annual Cashflows,$J$47
+SENIOR_LOAN_DEBT_SERVICE_YEAR_3,Annual Cashflows,SENIOR_LOAN_DEBT_SERVICE_YEAR_3,Annual Cashflows,$K$47
+SENIOR_LOAN_DEBT_SERVICE_YEAR_4,Annual Cashflows,SENIOR_LOAN_DEBT_SERVICE_YEAR_4,Annual Cashflows,$L$47
+SENIOR_LOAN_DEBT_SERVICE_YEAR_5,Annual Cashflows,SENIOR_LOAN_DEBT_SERVICE_YEAR_5,Annual Cashflows,$M$47
+SENIOR_LOAN_DEBT_SERVICE_MIP_YEAR_1,Annual Cashflows,SENIOR_LOAN_DEBT_SERVICE_MIP_YEAR_1,Annual Cashflows,$I$48
+SENIOR_LOAN_DEBT_SERVICE_MIP_YEAR_2,Annual Cashflows,SENIOR_LOAN_DEBT_SERVICE_MIP_YEAR_2,Annual Cashflows,$J$48
+SENIOR_LOAN_DEBT_SERVICE_MIP_YEAR_3,Annual Cashflows,SENIOR_LOAN_DEBT_SERVICE_MIP_YEAR_3,Annual Cashflows,$K$48
+SENIOR_LOAN_DEBT_SERVICE_MIP_YEAR_4,Annual Cashflows,SENIOR_LOAN_DEBT_SERVICE_MIP_YEAR_4,Annual Cashflows,$L$48
+SENIOR_LOAN_DEBT_SERVICE_MIP_YEAR_5,Annual Cashflows,SENIOR_LOAN_DEBT_SERVICE_MIP_YEAR_5,Annual Cashflows,$M$48
+SUBORDINATE_LOAN_DEBT_SERVICE_YEAR_1,Annual Cashflows,SUBORDINATE_LOAN_DEBT_SERVICE_YEAR_1,Annual Cashflows,$I$49
+SUBORDINATE_LOAN_DEBT_SERVICE_YEAR_2,Annual Cashflows,SUBORDINATE_LOAN_DEBT_SERVICE_YEAR_2,Annual Cashflows,$J$49
+SUBORDINATE_LOAN_DEBT_SERVICE_YEAR_3,Annual Cashflows,SUBORDINATE_LOAN_DEBT_SERVICE_YEAR_3,Annual Cashflows,$K$49
+SUBORDINATE_LOAN_DEBT_SERVICE_YEAR_4,Annual Cashflows,SUBORDINATE_LOAN_DEBT_SERVICE_YEAR_4,Annual Cashflows,$L$49
+SUBORDINATE_LOAN_DEBT_SERVICE_YEAR_5,Annual Cashflows,SUBORDINATE_LOAN_DEBT_SERVICE_YEAR_5,Annual Cashflows,$M$49
+ACCOUNTING_AND_TAX_PREP_YEAR_1,Annual Cashflows,ACCOUNTING_AND_TAX_PREP_YEAR_1,Annual Cashflows,$I$50
+ACCOUNTING_AND_TAX_PREP_YEAR_2,Annual Cashflows,ACCOUNTING_AND_TAX_PREP_YEAR_2,Annual Cashflows,$J$50
+ACCOUNTING_AND_TAX_PREP_YEAR_3,Annual Cashflows,ACCOUNTING_AND_TAX_PREP_YEAR_3,Annual Cashflows,$K$50
+ACCOUNTING_AND_TAX_PREP_YEAR_4,Annual Cashflows,ACCOUNTING_AND_TAX_PREP_YEAR_4,Annual Cashflows,$L$50
+ACCOUNTING_AND_TAX_PREP_YEAR_5,Annual Cashflows,ACCOUNTING_AND_TAX_PREP_YEAR_5,Annual Cashflows,$M$50
+ASSET_MANAGEMENT_FEE_YEAR_1,Annual Cashflows,ASSET_MANAGEMENT_FEE_YEAR_1,Annual Cashflows,$I$51
+ASSET_MANAGEMENT_FEE_YEAR_2,Annual Cashflows,ASSET_MANAGEMENT_FEE_YEAR_2,Annual Cashflows,$J$51
+ASSET_MANAGEMENT_FEE_YEAR_3,Annual Cashflows,ASSET_MANAGEMENT_FEE_YEAR_3,Annual Cashflows,$K$51
+ASSET_MANAGEMENT_FEE_YEAR_4,Annual Cashflows,ASSET_MANAGEMENT_FEE_YEAR_4,Annual Cashflows,$L$51
+ASSET_MANAGEMENT_FEE_YEAR_5,Annual Cashflows,ASSET_MANAGEMENT_FEE_YEAR_5,Annual Cashflows,$M$51
+TOTAL_BELOW_THE_LINE_EXPENSES_YEAR_1,Annual Cashflows,TOTAL_BELOW_THE_LINE_EXPENSES_YEAR_1,Annual Cashflows,$I$52
+TOTAL_BELOW_THE_LINE_EXPENSES_YEAR_2,Annual Cashflows,TOTAL_BELOW_THE_LINE_EXPENSES_YEAR_2,Annual Cashflows,$J$52
+TOTAL_BELOW_THE_LINE_EXPENSES_YEAR_3,Annual Cashflows,TOTAL_BELOW_THE_LINE_EXPENSES_YEAR_3,Annual Cashflows,$K$52
+TOTAL_BELOW_THE_LINE_EXPENSES_YEAR_4,Annual Cashflows,TOTAL_BELOW_THE_LINE_EXPENSES_YEAR_4,Annual Cashflows,$L$52
+TOTAL_BELOW_THE_LINE_EXPENSES_YEAR_5,Annual Cashflows,TOTAL_BELOW_THE_LINE_EXPENSES_YEAR_5,Annual Cashflows,$M$52
+PREPAID_INTEREST_TAXES_AND_INSURANCE_YEAR_1,Annual Cashflows,PREPAID_INTEREST_TAXES_AND_INSURANCE_YEAR_1,Annual Cashflows,$I$53
+PREPAID_INTEREST_TAXES_AND_INSURANCE_YEAR_2,Annual Cashflows,PREPAID_INTEREST_TAXES_AND_INSURANCE_YEAR_2,Annual Cashflows,$J$53
+PREPAID_INTEREST_TAXES_AND_INSURANCE_YEAR_3,Annual Cashflows,PREPAID_INTEREST_TAXES_AND_INSURANCE_YEAR_3,Annual Cashflows,$K$53
+PREPAID_INTEREST_TAXES_AND_INSURANCE_YEAR_4,Annual Cashflows,PREPAID_INTEREST_TAXES_AND_INSURANCE_YEAR_4,Annual Cashflows,$L$53
+PREPAID_INTEREST_TAXES_AND_INSURANCE_YEAR_5,Annual Cashflows,PREPAID_INTEREST_TAXES_AND_INSURANCE_YEAR_5,Annual Cashflows,$M$53
+NET_INCOME_YEAR_1,Annual Cashflows,NET_INCOME_YEAR_1,Annual Cashflows,$I$54
+NET_INCOME_YEAR_2,Annual Cashflows,NET_INCOME_YEAR_2,Annual Cashflows,$J$54
+NET_INCOME_YEAR_3,Annual Cashflows,NET_INCOME_YEAR_3,Annual Cashflows,$K$54
+NET_INCOME_YEAR_4,Annual Cashflows,NET_INCOME_YEAR_4,Annual Cashflows,$L$54
+NET_INCOME_YEAR_5,Annual Cashflows,NET_INCOME_YEAR_5,Annual Cashflows,$M$54
+NET_INCOME_MARGIN_EXCLUDING_RESERVES_YEAR_1,Annual Cashflows,NET_INCOME_MARGIN_EXCLUDING_RESERVES_YEAR_1,Annual Cashflows,$I$55
+NET_INCOME_MARGIN_EXCLUDING_RESERVES_YEAR_2,Annual Cashflows,NET_INCOME_MARGIN_EXCLUDING_RESERVES_YEAR_2,Annual Cashflows,$J$55
+NET_INCOME_MARGIN_EXCLUDING_RESERVES_YEAR_3,Annual Cashflows,NET_INCOME_MARGIN_EXCLUDING_RESERVES_YEAR_3,Annual Cashflows,$K$55
+NET_INCOME_MARGIN_EXCLUDING_RESERVES_YEAR_4,Annual Cashflows,NET_INCOME_MARGIN_EXCLUDING_RESERVES_YEAR_4,Annual Cashflows,$L$55
+NET_INCOME_MARGIN_EXCLUDING_RESERVES_YEAR_5,Annual Cashflows,NET_INCOME_MARGIN_EXCLUDING_RESERVES_YEAR_5,Annual Cashflows,$M$55
+NET_INCOME_MARGIN_INCLUDING_RESERVES_YEAR_1,Annual Cashflows,NET_INCOME_MARGIN_INCLUDING_RESERVES_YEAR_1,Annual Cashflows,$I$56
+NET_INCOME_MARGIN_INCLUDING_RESERVES_YEAR_2,Annual Cashflows,NET_INCOME_MARGIN_INCLUDING_RESERVES_YEAR_2,Annual Cashflows,$J$56
+NET_INCOME_MARGIN_INCLUDING_RESERVES_YEAR_3,Annual Cashflows,NET_INCOME_MARGIN_INCLUDING_RESERVES_YEAR_3,Annual Cashflows,$K$56
+NET_INCOME_MARGIN_INCLUDING_RESERVES_YEAR_4,Annual Cashflows,NET_INCOME_MARGIN_INCLUDING_RESERVES_YEAR_4,Annual Cashflows,$L$56
+NET_INCOME_MARGIN_INCLUDING_RESERVES_YEAR_5,Annual Cashflows,NET_INCOME_MARGIN_INCLUDING_RESERVES_YEAR_5,Annual Cashflows,$M$56
+EQUITY_CASH_ON_CASH_EXCLUDING_PROJECTLEVEL_FEES_YEAR_1,Annual Cashflows,EQUITY_CASH_ON_CASH_EXCLUDING_PROJECTLEVEL_FEES_YEAR_1,Annual Cashflows,$I$57
+EQUITY_CASH_ON_CASH_EXCLUDING_PROJECTLEVEL_FEES_YEAR_2,Annual Cashflows,EQUITY_CASH_ON_CASH_EXCLUDING_PROJECTLEVEL_FEES_YEAR_2,Annual Cashflows,$J$57
+EQUITY_CASH_ON_CASH_EXCLUDING_PROJECTLEVEL_FEES_YEAR_3,Annual Cashflows,EQUITY_CASH_ON_CASH_EXCLUDING_PROJECTLEVEL_FEES_YEAR_3,Annual Cashflows,$K$57
+EQUITY_CASH_ON_CASH_EXCLUDING_PROJECTLEVEL_FEES_YEAR_4,Annual Cashflows,EQUITY_CASH_ON_CASH_EXCLUDING_PROJECTLEVEL_FEES_YEAR_4,Annual Cashflows,$L$57
+EQUITY_CASH_ON_CASH_EXCLUDING_PROJECTLEVEL_FEES_YEAR_5,Annual Cashflows,EQUITY_CASH_ON_CASH_EXCLUDING_PROJECTLEVEL_FEES_YEAR_5,Annual Cashflows,$M$57
+SALES_COMP_1_SALE_DATE,Sales Comps,Sales Comp 1 - Sale Date,Sales Comp Analysis,$C$8
+SALES_COMP_1_PROPERTY_NAME,Sales Comps,Sales Comp 1 - Property Name,Sales Comp Analysis,$D$8
+SALES_COMP_1_CITY,Sales Comps,Sales Comp 1 - City,Sales Comp Analysis,$F$8
+SALES_COMP_1_LATITUDE,Sales Comps,Sales Comp 1 - Latitude,Sales Comp Analysis,$I$8
+SALES_COMP_1_LONGITUDE,Sales Comps,Sales Comp 1 - Longitude,Sales Comp Analysis,$J$8
+SALES_COMP_1_DISTANCE_TO_SUBJECT,Sales Comps,Sales Comp 1 - Distance to Subject,Sales Comp Analysis,$K$8
+SALES_COMP_1_BUILDING_TYPE,Sales Comps,Sales Comp 1 - Building Type,Sales Comp Analysis,$N$8
+SALES_COMP_1_YEAR_BUILT,Sales Comps,Sales Comp 1 - Year Built,Sales Comp Analysis,$O$8
+SALES_COMP_1_STORIES,Sales Comps,Sales Comp 1 -  Stories,Sales Comp Analysis,$R$8
+SALES_COMP_1_UNITS,Sales Comps,Sales Comp 1 -  Units,Sales Comp Analysis,$S$8
+SALES_COMP_1_AVG_NRSF,Sales Comps,Sales Comp 1 - Avg NRSF,Sales Comp Analysis,$T$8
+SALES_COMP_1_SALES_PRICE,Sales Comps,Sales Comp 1 - Sales Price,Sales Comp Analysis,$AA$8
+SALES_COMP_1_CAP_RATE,Sales Comps,Sales Comp 1 - Cap Rate,Sales Comp Analysis,$AE$8
+SALES_COMP_2_SALE_DATE,Sales Comps,Sales Comp 2 - Sale Date,Sales Comp Analysis,$C$9
+SALES_COMP_2_PROPERTY_NAME,Sales Comps,Sales Comp 2 - Property Name,Sales Comp Analysis,$D$9
+SALES_COMP_2_CITY,Sales Comps,Sales Comp 2 - City,Sales Comp Analysis,$F$9
+SALES_COMP_2_LATITUDE,Sales Comps,Sales Comp 2 - Latitude,Sales Comp Analysis,$I$9
+SALES_COMP_2_LONGITUDE,Sales Comps,Sales Comp 2 - Longitude,Sales Comp Analysis,$J$9
+SALES_COMP_2_DISTANCE_TO_SUBJECT,Sales Comps,Sales Comp 2 - Distance to Subject,Sales Comp Analysis,$K$9
+SALES_COMP_2_BUILDING_TYPE,Sales Comps,Sales Comp 2 - Building Type,Sales Comp Analysis,$N$9
+SALES_COMP_2_YEAR_BUILT,Sales Comps,Sales Comp 2 - Year Built,Sales Comp Analysis,$O$9
+SALES_COMP_2_STORIES,Sales Comps,Sales Comp 2 -  Stories,Sales Comp Analysis,$R$9
+SALES_COMP_2_UNITS,Sales Comps,Sales Comp 2 -  Units,Sales Comp Analysis,$S$9
+SALES_COMP_2_AVG_NRSF,Sales Comps,Sales Comp 2 - Avg NRSF,Sales Comp Analysis,$T$9
+SALES_COMP_2_SALES_PRICE,Sales Comps,Sales Comp 2 - Sales Price,Sales Comp Analysis,$AA$9
+SALES_COMP_2_CAP_RATE,Sales Comps,Sales Comp 2 - Cap Rate,Sales Comp Analysis,$AE$9
+SALES_COMP_3_SALE_DATE,Sales Comps,Sales Comp 3 - Sale Date,Sales Comp Analysis,$C$10
+SALES_COMP_3_PROPERTY_NAME,Sales Comps,Sales Comp 3 - Property Name,Sales Comp Analysis,$D$10
+SALES_COMP_3_CITY,Sales Comps,Sales Comp 3 - City,Sales Comp Analysis,$F$10
+SALES_COMP_3_LATITUDE,Sales Comps,Sales Comp 3 - Latitude,Sales Comp Analysis,$I$10
+SALES_COMP_3_LONGITUDE,Sales Comps,Sales Comp 3 - Longitude,Sales Comp Analysis,$J$10
+SALES_COMP_3_DISTANCE_TO_SUBJECT,Sales Comps,Sales Comp 3 - Distance to Subject,Sales Comp Analysis,$K$10
+SALES_COMP_3_BUILDING_TYPE,Sales Comps,Sales Comp 3 - Building Type,Sales Comp Analysis,$N$10
+SALES_COMP_3_YEAR_BUILT,Sales Comps,Sales Comp 3 - Year Built,Sales Comp Analysis,$O$10
+SALES_COMP_3_STORIES,Sales Comps,Sales Comp 3 -  Stories,Sales Comp Analysis,$R$10
+SALES_COMP_3_UNITS,Sales Comps,Sales Comp 3 -  Units,Sales Comp Analysis,$S$10
+SALES_COMP_3_AVG_NRSF,Sales Comps,Sales Comp 3 - Avg NRSF,Sales Comp Analysis,$T$10
+SALES_COMP_3_SALES_PRICE,Sales Comps,Sales Comp 3 - Sales Price,Sales Comp Analysis,$AA$10
+SALES_COMP_3_CAP_RATE,Sales Comps,Sales Comp 3 - Cap Rate,Sales Comp Analysis,$AE$10
+SALES_COMP_4_SALE_DATE,Sales Comps,Sales Comp 4 - Sale Date,Sales Comp Analysis,$C$11
+SALES_COMP_4_PROPERTY_NAME,Sales Comps,Sales Comp 4 - Property Name,Sales Comp Analysis,$D$11
+SALES_COMP_4_CITY,Sales Comps,Sales Comp 4 - City,Sales Comp Analysis,$F$11
+SALES_COMP_4_LATITUDE,Sales Comps,Sales Comp 4 - Latitude,Sales Comp Analysis,$I$11
+SALES_COMP_4_LONGITUDE,Sales Comps,Sales Comp 4 - Longitude,Sales Comp Analysis,$J$11
+SALES_COMP_4_DISTANCE_TO_SUBJECT,Sales Comps,Sales Comp 4 - Distance to Subject,Sales Comp Analysis,$K$11
+SALES_COMP_4_BUILDING_TYPE,Sales Comps,Sales Comp 4 - Building Type,Sales Comp Analysis,$N$11
+SALES_COMP_4_YEAR_BUILT,Sales Comps,Sales Comp 4 - Year Built,Sales Comp Analysis,$O$11
+SALES_COMP_4_STORIES,Sales Comps,Sales Comp 4 -  Stories,Sales Comp Analysis,$R$11
+SALES_COMP_4_UNITS,Sales Comps,Sales Comp 4 -  Units,Sales Comp Analysis,$S$11
+SALES_COMP_4_AVG_NRSF,Sales Comps,Sales Comp 4 - Avg NRSF,Sales Comp Analysis,$T$11
+SALES_COMP_4_SALES_PRICE,Sales Comps,Sales Comp 4 - Sales Price,Sales Comp Analysis,$AA$11
+SALES_COMP_4_CAP_RATE,Sales Comps,Sales Comp 4 - Cap Rate,Sales Comp Analysis,$AE$11
+SALES_COMP_5_SALE_DATE,Sales Comps,Sales Comp 5 - Sale Date,Sales Comp Analysis,$C$12
+SALES_COMP_5_PROPERTY_NAME,Sales Comps,Sales Comp 5 - Property Name,Sales Comp Analysis,$D$12
+SALES_COMP_5_CITY,Sales Comps,Sales Comp 5 - City,Sales Comp Analysis,$F$12
+SALES_COMP_5_LATITUDE,Sales Comps,Sales Comp 5 - Latitude,Sales Comp Analysis,$I$12
+SALES_COMP_5_LONGITUDE,Sales Comps,Sales Comp 5 - Longitude,Sales Comp Analysis,$J$12
+SALES_COMP_5_DISTANCE_TO_SUBJECT,Sales Comps,Sales Comp 5 - Distance to Subject,Sales Comp Analysis,$K$12
+SALES_COMP_5_BUILDING_TYPE,Sales Comps,Sales Comp 5 - Building Type,Sales Comp Analysis,$N$12
+SALES_COMP_5_YEAR_BUILT,Sales Comps,Sales Comp 5 - Year Built,Sales Comp Analysis,$O$12
+SALES_COMP_5_STORIES,Sales Comps,Sales Comp 5 -  Stories,Sales Comp Analysis,$R$12
+SALES_COMP_5_UNITS,Sales Comps,Sales Comp 5 -  Units,Sales Comp Analysis,$S$12
+SALES_COMP_5_AVG_NRSF,Sales Comps,Sales Comp 5 - Avg NRSF,Sales Comp Analysis,$T$12
+SALES_COMP_5_SALES_PRICE,Sales Comps,Sales Comp 5 - Sales Price,Sales Comp Analysis,$AA$12
+SALES_COMP_5_CAP_RATE,Sales Comps,Sales Comp 5 - Cap Rate,Sales Comp Analysis,$AE$12
+SALES_COMP_6_SALE_DATE,Sales Comps,Sales Comp 6 - Sale Date,Sales Comp Analysis,$C$13
+SALES_COMP_6_PROPERTY_NAME,Sales Comps,Sales Comp 6 - Property Name,Sales Comp Analysis,$D$13
+SALES_COMP_6_CITY,Sales Comps,Sales Comp 6 - City,Sales Comp Analysis,$F$13
+SALES_COMP_6_LATITUDE,Sales Comps,Sales Comp 6 - Latitude,Sales Comp Analysis,$I$13
+SALES_COMP_6_LONGITUDE,Sales Comps,Sales Comp 6 - Longitude,Sales Comp Analysis,$J$13
+SALES_COMP_6_DISTANCE_TO_SUBJECT,Sales Comps,Sales Comp 6 - Distance to Subject,Sales Comp Analysis,$K$13
+SALES_COMP_6_BUILDING_TYPE,Sales Comps,Sales Comp 6 - Building Type,Sales Comp Analysis,$N$13
+SALES_COMP_6_YEAR_BUILT,Sales Comps,Sales Comp 6 - Year Built,Sales Comp Analysis,$O$13
+SALES_COMP_6_STORIES,Sales Comps,Sales Comp 6 -  Stories,Sales Comp Analysis,$R$13
+SALES_COMP_6_UNITS,Sales Comps,Sales Comp 6 -  Units,Sales Comp Analysis,$S$13
+SALES_COMP_6_AVG_NRSF,Sales Comps,Sales Comp 6 - Avg NRSF,Sales Comp Analysis,$T$13
+SALES_COMP_6_SALES_PRICE,Sales Comps,Sales Comp 6 - Sales Price,Sales Comp Analysis,$AA$13
+SALES_COMP_6_CAP_RATE,Sales Comps,Sales Comp 6 - Cap Rate,Sales Comp Analysis,$AE$13
+SALES_COMP_7_SALE_DATE,Sales Comps,Sales Comp 7 - Sale Date,Sales Comp Analysis,$C$14
+SALES_COMP_7_PROPERTY_NAME,Sales Comps,Sales Comp 7 - Property Name,Sales Comp Analysis,$D$14
+SALES_COMP_7_CITY,Sales Comps,Sales Comp 7 - City,Sales Comp Analysis,$F$14
+SALES_COMP_7_LATITUDE,Sales Comps,Sales Comp 7 - Latitude,Sales Comp Analysis,$I$14
+SALES_COMP_7_LONGITUDE,Sales Comps,Sales Comp 7 - Longitude,Sales Comp Analysis,$J$14
+SALES_COMP_7_DISTANCE_TO_SUBJECT,Sales Comps,Sales Comp 7 - Distance to Subject,Sales Comp Analysis,$K$14
+SALES_COMP_7_BUILDING_TYPE,Sales Comps,Sales Comp 7 - Building Type,Sales Comp Analysis,$N$14
+SALES_COMP_7_YEAR_BUILT,Sales Comps,Sales Comp 7 - Year Built,Sales Comp Analysis,$O$14
+SALES_COMP_7_STORIES,Sales Comps,Sales Comp 7 -  Stories,Sales Comp Analysis,$R$14
+SALES_COMP_7_UNITS,Sales Comps,Sales Comp 7 -  Units,Sales Comp Analysis,$S$14
+SALES_COMP_7_AVG_NRSF,Sales Comps,Sales Comp 7 - Avg NRSF,Sales Comp Analysis,$T$14
+SALES_COMP_7_SALES_PRICE,Sales Comps,Sales Comp 7 - Sales Price,Sales Comp Analysis,$AA$14
+SALES_COMP_7_CAP_RATE,Sales Comps,Sales Comp 7 - Cap Rate,Sales Comp Analysis,$AE$14
+SALES_COMP_8_SALE_DATE,Sales Comps,Sales Comp 8 - Sale Date,Sales Comp Analysis,$C$15
+SALES_COMP_8_PROPERTY_NAME,Sales Comps,Sales Comp 8 - Property Name,Sales Comp Analysis,$D$15
+SALES_COMP_8_CITY,Sales Comps,Sales Comp 8 - City,Sales Comp Analysis,$F$15
+SALES_COMP_8_LATITUDE,Sales Comps,Sales Comp 8 - Latitude,Sales Comp Analysis,$I$15
+SALES_COMP_8_LONGITUDE,Sales Comps,Sales Comp 8 - Longitude,Sales Comp Analysis,$J$15
+SALES_COMP_8_DISTANCE_TO_SUBJECT,Sales Comps,Sales Comp 8 - Distance to Subject,Sales Comp Analysis,$K$15
+SALES_COMP_8_BUILDING_TYPE,Sales Comps,Sales Comp 8 - Building Type,Sales Comp Analysis,$N$15
+SALES_COMP_8_YEAR_BUILT,Sales Comps,Sales Comp 8 - Year Built,Sales Comp Analysis,$O$15
+SALES_COMP_8_STORIES,Sales Comps,Sales Comp 8 -  Stories,Sales Comp Analysis,$R$15
+SALES_COMP_8_UNITS,Sales Comps,Sales Comp 8 -  Units,Sales Comp Analysis,$S$15
+SALES_COMP_8_AVG_NRSF,Sales Comps,Sales Comp 8 - Avg NRSF,Sales Comp Analysis,$T$15
+SALES_COMP_8_SALES_PRICE,Sales Comps,Sales Comp 8 - Sales Price,Sales Comp Analysis,$AA$15
+SALES_COMP_8_CAP_RATE,Sales Comps,Sales Comp 8 - Cap Rate,Sales Comp Analysis,$AE$15
+SALES_COMP_9_SALE_DATE,Sales Comps,Sales Comp 9 - Sale Date,Sales Comp Analysis,$C$16
+SALES_COMP_9_PROPERTY_NAME,Sales Comps,Sales Comp 9 - Property Name,Sales Comp Analysis,$D$16
+SALES_COMP_9_CITY,Sales Comps,Sales Comp 9 - City,Sales Comp Analysis,$F$16
+SALES_COMP_9_LATITUDE,Sales Comps,Sales Comp 9 - Latitude,Sales Comp Analysis,$I$16
+SALES_COMP_9_LONGITUDE,Sales Comps,Sales Comp 9 - Longitude,Sales Comp Analysis,$J$16
+SALES_COMP_9_DISTANCE_TO_SUBJECT,Sales Comps,Sales Comp 9 - Distance to Subject,Sales Comp Analysis,$K$16
+SALES_COMP_9_BUILDING_TYPE,Sales Comps,Sales Comp 9 - Building Type,Sales Comp Analysis,$N$16
+SALES_COMP_9_YEAR_BUILT,Sales Comps,Sales Comp 9 - Year Built,Sales Comp Analysis,$O$16
+SALES_COMP_9_STORIES,Sales Comps,Sales Comp 9 -  Stories,Sales Comp Analysis,$R$16
+SALES_COMP_9_UNITS,Sales Comps,Sales Comp 9 -  Units,Sales Comp Analysis,$S$16
+SALES_COMP_9_AVG_NRSF,Sales Comps,Sales Comp 9 - Avg NRSF,Sales Comp Analysis,$T$16
+SALES_COMP_9_SALES_PRICE,Sales Comps,Sales Comp 9 - Sales Price,Sales Comp Analysis,$AA$16
+SALES_COMP_9_CAP_RATE,Sales Comps,Sales Comp 9 - Cap Rate,Sales Comp Analysis,$AE$16
+SALES_COMP_10_SALE_DATE,Sales Comps,Sales Comp 10 - Sale Date,Sales Comp Analysis,$C$17
+SALES_COMP_10_PROPERTY_NAME,Sales Comps,Sales Comp 10 - Property Name,Sales Comp Analysis,$D$17
+SALES_COMP_10_CITY,Sales Comps,Sales Comp 10 - City,Sales Comp Analysis,$F$17
+SALES_COMP_10_LATITUDE,Sales Comps,Sales Comp 10 - Latitude,Sales Comp Analysis,$I$17
+SALES_COMP_10_LONGITUDE,Sales Comps,Sales Comp 10 - Longitude,Sales Comp Analysis,$J$17
+SALES_COMP_10_DISTANCE_TO_SUBJECT,Sales Comps,Sales Comp 10 - Distance to Subject,Sales Comp Analysis,$K$17
+SALES_COMP_10_BUILDING_TYPE,Sales Comps,Sales Comp 10 - Building Type,Sales Comp Analysis,$N$17
+SALES_COMP_10_YEAR_BUILT,Sales Comps,Sales Comp 10 - Year Built,Sales Comp Analysis,$O$17
+SALES_COMP_10_STORIES,Sales Comps,Sales Comp 10 -  Stories,Sales Comp Analysis,$R$17
+SALES_COMP_10_UNITS,Sales Comps,Sales Comp 10 -  Units,Sales Comp Analysis,$S$17
+SALES_COMP_10_AVG_NRSF,Sales Comps,Sales Comp 10 - Avg NRSF,Sales Comp Analysis,$T$17
+SALES_COMP_10_SALES_PRICE,Sales Comps,Sales Comp 10 - Sales Price,Sales Comp Analysis,$AA$17
+SALES_COMP_10_CAP_RATE,Sales Comps,Sales Comp 10 - Cap Rate,Sales Comp Analysis,$AE$17
+SALES_COMP_11_SALE_DATE,Sales Comps,Sales Comp 11 - Sale Date,Sales Comp Analysis,$C$18
+SALES_COMP_11_PROPERTY_NAME,Sales Comps,Sales Comp 11 - Property Name,Sales Comp Analysis,$D$18
+SALES_COMP_11_CITY,Sales Comps,Sales Comp 11 - City,Sales Comp Analysis,$F$18
+SALES_COMP_11_LATITUDE,Sales Comps,Sales Comp 11 - Latitude,Sales Comp Analysis,$I$18
+SALES_COMP_11_LONGITUDE,Sales Comps,Sales Comp 11 - Longitude,Sales Comp Analysis,$J$18
+SALES_COMP_11_DISTANCE_TO_SUBJECT,Sales Comps,Sales Comp 11 - Distance to Subject,Sales Comp Analysis,$K$18
+SALES_COMP_11_BUILDING_TYPE,Sales Comps,Sales Comp 11 - Building Type,Sales Comp Analysis,$N$18
+SALES_COMP_11_YEAR_BUILT,Sales Comps,Sales Comp 11 - Year Built,Sales Comp Analysis,$O$18
+SALES_COMP_11_STORIES,Sales Comps,Sales Comp 11 -  Stories,Sales Comp Analysis,$R$18
+SALES_COMP_11_UNITS,Sales Comps,Sales Comp 11 -  Units,Sales Comp Analysis,$S$18
+SALES_COMP_11_AVG_NRSF,Sales Comps,Sales Comp 11 - Avg NRSF,Sales Comp Analysis,$T$18
+SALES_COMP_11_SALES_PRICE,Sales Comps,Sales Comp 11 - Sales Price,Sales Comp Analysis,$AA$18
+SALES_COMP_11_CAP_RATE,Sales Comps,Sales Comp 11 - Cap Rate,Sales Comp Analysis,$AE$18
+SALES_COMP_12_SALE_DATE,Sales Comps,Sales Comp 12 - Sale Date,Sales Comp Analysis,$C$19
+SALES_COMP_12_PROPERTY_NAME,Sales Comps,Sales Comp 12 - Property Name,Sales Comp Analysis,$D$19
+SALES_COMP_12_CITY,Sales Comps,Sales Comp 12 - City,Sales Comp Analysis,$F$19
+SALES_COMP_12_LATITUDE,Sales Comps,Sales Comp 12 - Latitude,Sales Comp Analysis,$I$19
+SALES_COMP_12_LONGITUDE,Sales Comps,Sales Comp 12 - Longitude,Sales Comp Analysis,$J$19
+SALES_COMP_12_DISTANCE_TO_SUBJECT,Sales Comps,Sales Comp 12 - Distance to Subject,Sales Comp Analysis,$K$19
+SALES_COMP_12_BUILDING_TYPE,Sales Comps,Sales Comp 12 - Building Type,Sales Comp Analysis,$N$19
+SALES_COMP_12_YEAR_BUILT,Sales Comps,Sales Comp 12 - Year Built,Sales Comp Analysis,$O$19
+SALES_COMP_12_STORIES,Sales Comps,Sales Comp 12 -  Stories,Sales Comp Analysis,$R$19
+SALES_COMP_12_UNITS,Sales Comps,Sales Comp 12 -  Units,Sales Comp Analysis,$S$19
+SALES_COMP_12_AVG_NRSF,Sales Comps,Sales Comp 12 - Avg NRSF,Sales Comp Analysis,$T$19
+SALES_COMP_12_SALES_PRICE,Sales Comps,Sales Comp 12 - Sales Price,Sales Comp Analysis,$AA$19
+SALES_COMP_12_CAP_RATE,Sales Comps,Sales Comp 12 - Cap Rate,Sales Comp Analysis,$AE$19
+SALES_COMP_13_SALE_DATE,Sales Comps,Sales Comp 13 - Sale Date,Sales Comp Analysis,$C$20
+SALES_COMP_13_PROPERTY_NAME,Sales Comps,Sales Comp 13 - Property Name,Sales Comp Analysis,$D$20
+SALES_COMP_13_CITY,Sales Comps,Sales Comp 13 - City,Sales Comp Analysis,$F$20
+SALES_COMP_13_LATITUDE,Sales Comps,Sales Comp 13 - Latitude,Sales Comp Analysis,$I$20
+SALES_COMP_13_LONGITUDE,Sales Comps,Sales Comp 13 - Longitude,Sales Comp Analysis,$J$20
+SALES_COMP_13_DISTANCE_TO_SUBJECT,Sales Comps,Sales Comp 13 - Distance to Subject,Sales Comp Analysis,$K$20
+SALES_COMP_13_BUILDING_TYPE,Sales Comps,Sales Comp 13 - Building Type,Sales Comp Analysis,$N$20
+SALES_COMP_13_YEAR_BUILT,Sales Comps,Sales Comp 13 - Year Built,Sales Comp Analysis,$O$20
+SALES_COMP_13_STORIES,Sales Comps,Sales Comp 13 -  Stories,Sales Comp Analysis,$R$20
+SALES_COMP_13_UNITS,Sales Comps,Sales Comp 13 -  Units,Sales Comp Analysis,$S$20
+SALES_COMP_13_AVG_NRSF,Sales Comps,Sales Comp 13 - Avg NRSF,Sales Comp Analysis,$T$20
+SALES_COMP_13_SALES_PRICE,Sales Comps,Sales Comp 13 - Sales Price,Sales Comp Analysis,$AA$20
+SALES_COMP_13_CAP_RATE,Sales Comps,Sales Comp 13 - Cap Rate,Sales Comp Analysis,$AE$20
+SALES_COMP_14_SALE_DATE,Sales Comps,Sales Comp 14 - Sale Date,Sales Comp Analysis,$C$21
+SALES_COMP_14_PROPERTY_NAME,Sales Comps,Sales Comp 14 - Property Name,Sales Comp Analysis,$D$21
+SALES_COMP_14_CITY,Sales Comps,Sales Comp 14 - City,Sales Comp Analysis,$F$21
+SALES_COMP_14_LATITUDE,Sales Comps,Sales Comp 14 - Latitude,Sales Comp Analysis,$I$21
+SALES_COMP_14_LONGITUDE,Sales Comps,Sales Comp 14 - Longitude,Sales Comp Analysis,$J$21
+SALES_COMP_14_DISTANCE_TO_SUBJECT,Sales Comps,Sales Comp 14 - Distance to Subject,Sales Comp Analysis,$K$21
+SALES_COMP_14_BUILDING_TYPE,Sales Comps,Sales Comp 14 - Building Type,Sales Comp Analysis,$N$21
+SALES_COMP_14_YEAR_BUILT,Sales Comps,Sales Comp 14 - Year Built,Sales Comp Analysis,$O$21
+SALES_COMP_14_STORIES,Sales Comps,Sales Comp 14 -  Stories,Sales Comp Analysis,$R$21
+SALES_COMP_14_UNITS,Sales Comps,Sales Comp 14 -  Units,Sales Comp Analysis,$S$21
+SALES_COMP_14_AVG_NRSF,Sales Comps,Sales Comp 14 - Avg NRSF,Sales Comp Analysis,$T$21
+SALES_COMP_14_SALES_PRICE,Sales Comps,Sales Comp 14 - Sales Price,Sales Comp Analysis,$AA$21
+SALES_COMP_14_CAP_RATE,Sales Comps,Sales Comp 14 - Cap Rate,Sales Comp Analysis,$AE$21
+SALES_COMP_15_SALE_DATE,Sales Comps,Sales Comp 15 - Sale Date,Sales Comp Analysis,$C$22
+SALES_COMP_15_PROPERTY_NAME,Sales Comps,Sales Comp 15 - Property Name,Sales Comp Analysis,$D$22
+SALES_COMP_15_CITY,Sales Comps,Sales Comp 15 - City,Sales Comp Analysis,$F$22
+SALES_COMP_15_LATITUDE,Sales Comps,Sales Comp 15 - Latitude,Sales Comp Analysis,$I$22
+SALES_COMP_15_LONGITUDE,Sales Comps,Sales Comp 15 - Longitude,Sales Comp Analysis,$J$22
+SALES_COMP_15_DISTANCE_TO_SUBJECT,Sales Comps,Sales Comp 15 - Distance to Subject,Sales Comp Analysis,$K$22
+SALES_COMP_15_BUILDING_TYPE,Sales Comps,Sales Comp 15 - Building Type,Sales Comp Analysis,$N$22
+SALES_COMP_15_YEAR_BUILT,Sales Comps,Sales Comp 15 - Year Built,Sales Comp Analysis,$O$22
+SALES_COMP_15_STORIES,Sales Comps,Sales Comp 15 -  Stories,Sales Comp Analysis,$R$22
+SALES_COMP_15_UNITS,Sales Comps,Sales Comp 15 -  Units,Sales Comp Analysis,$S$22
+SALES_COMP_15_AVG_NRSF,Sales Comps,Sales Comp 15 - Avg NRSF,Sales Comp Analysis,$T$22
+SALES_COMP_15_SALES_PRICE,Sales Comps,Sales Comp 15 - Sales Price,Sales Comp Analysis,$AA$22
+SALES_COMP_15_CAP_RATE,Sales Comps,Sales Comp 15 - Cap Rate,Sales Comp Analysis,$AE$22
+SALES_COMP_16_SALE_DATE,Sales Comps,Sales Comp 16 - Sale Date,Sales Comp Analysis,$C$23
+SALES_COMP_16_PROPERTY_NAME,Sales Comps,Sales Comp 16 - Property Name,Sales Comp Analysis,$D$23
+SALES_COMP_16_CITY,Sales Comps,Sales Comp 16 - City,Sales Comp Analysis,$F$23
+SALES_COMP_16_LATITUDE,Sales Comps,Sales Comp 16 - Latitude,Sales Comp Analysis,$I$23
+SALES_COMP_16_LONGITUDE,Sales Comps,Sales Comp 16 - Longitude,Sales Comp Analysis,$J$23
+SALES_COMP_16_DISTANCE_TO_SUBJECT,Sales Comps,Sales Comp 16 - Distance to Subject,Sales Comp Analysis,$K$23
+SALES_COMP_16_BUILDING_TYPE,Sales Comps,Sales Comp 16 - Building Type,Sales Comp Analysis,$N$23
+SALES_COMP_16_YEAR_BUILT,Sales Comps,Sales Comp 16 - Year Built,Sales Comp Analysis,$O$23
+SALES_COMP_16_STORIES,Sales Comps,Sales Comp 16 -  Stories,Sales Comp Analysis,$R$23
+SALES_COMP_16_UNITS,Sales Comps,Sales Comp 16 -  Units,Sales Comp Analysis,$S$23
+SALES_COMP_16_AVG_NRSF,Sales Comps,Sales Comp 16 - Avg NRSF,Sales Comp Analysis,$T$23
+SALES_COMP_16_SALES_PRICE,Sales Comps,Sales Comp 16 - Sales Price,Sales Comp Analysis,$AA$23
+SALES_COMP_16_CAP_RATE,Sales Comps,Sales Comp 16 - Cap Rate,Sales Comp Analysis,$AE$23
+SALES_COMP_17_SALE_DATE,Sales Comps,Sales Comp 17 - Sale Date,Sales Comp Analysis,$C$24
+SALES_COMP_17_PROPERTY_NAME,Sales Comps,Sales Comp 17 - Property Name,Sales Comp Analysis,$D$24
+SALES_COMP_17_CITY,Sales Comps,Sales Comp 17 - City,Sales Comp Analysis,$F$24
+SALES_COMP_17_LATITUDE,Sales Comps,Sales Comp 17 - Latitude,Sales Comp Analysis,$I$24
+SALES_COMP_17_LONGITUDE,Sales Comps,Sales Comp 17 - Longitude,Sales Comp Analysis,$J$24
+SALES_COMP_17_DISTANCE_TO_SUBJECT,Sales Comps,Sales Comp 17 - Distance to Subject,Sales Comp Analysis,$K$24
+SALES_COMP_17_BUILDING_TYPE,Sales Comps,Sales Comp 17 - Building Type,Sales Comp Analysis,$N$24
+SALES_COMP_17_YEAR_BUILT,Sales Comps,Sales Comp 17 - Year Built,Sales Comp Analysis,$O$24
+SALES_COMP_17_STORIES,Sales Comps,Sales Comp 17 -  Stories,Sales Comp Analysis,$R$24
+SALES_COMP_17_UNITS,Sales Comps,Sales Comp 17 -  Units,Sales Comp Analysis,$S$24
+SALES_COMP_17_AVG_NRSF,Sales Comps,Sales Comp 17 - Avg NRSF,Sales Comp Analysis,$T$24
+SALES_COMP_17_SALES_PRICE,Sales Comps,Sales Comp 17 - Sales Price,Sales Comp Analysis,$AA$24
+SALES_COMP_17_CAP_RATE,Sales Comps,Sales Comp 17 - Cap Rate,Sales Comp Analysis,$AE$24
+SALES_COMP_18_SALE_DATE,Sales Comps,Sales Comp 18 - Sale Date,Sales Comp Analysis,$C$25
+SALES_COMP_18_PROPERTY_NAME,Sales Comps,Sales Comp 18 - Property Name,Sales Comp Analysis,$D$25
+SALES_COMP_18_CITY,Sales Comps,Sales Comp 18 - City,Sales Comp Analysis,$F$25
+SALES_COMP_18_LATITUDE,Sales Comps,Sales Comp 18 - Latitude,Sales Comp Analysis,$I$25
+SALES_COMP_18_LONGITUDE,Sales Comps,Sales Comp 18 - Longitude,Sales Comp Analysis,$J$25
+SALES_COMP_18_DISTANCE_TO_SUBJECT,Sales Comps,Sales Comp 18 - Distance to Subject,Sales Comp Analysis,$K$25
+SALES_COMP_18_BUILDING_TYPE,Sales Comps,Sales Comp 18 - Building Type,Sales Comp Analysis,$N$25
+SALES_COMP_18_YEAR_BUILT,Sales Comps,Sales Comp 18 - Year Built,Sales Comp Analysis,$O$25
+SALES_COMP_18_STORIES,Sales Comps,Sales Comp 18 -  Stories,Sales Comp Analysis,$R$25
+SALES_COMP_18_UNITS,Sales Comps,Sales Comp 18 -  Units,Sales Comp Analysis,$S$25
+SALES_COMP_18_AVG_NRSF,Sales Comps,Sales Comp 18 - Avg NRSF,Sales Comp Analysis,$T$25
+SALES_COMP_18_SALES_PRICE,Sales Comps,Sales Comp 18 - Sales Price,Sales Comp Analysis,$AA$25
+SALES_COMP_18_CAP_RATE,Sales Comps,Sales Comp 18 - Cap Rate,Sales Comp Analysis,$AE$25
+SALES_COMP_19_SALE_DATE,Sales Comps,Sales Comp 19 - Sale Date,Sales Comp Analysis,$C$26
+SALES_COMP_19_PROPERTY_NAME,Sales Comps,Sales Comp 19 - Property Name,Sales Comp Analysis,$D$26
+SALES_COMP_19_CITY,Sales Comps,Sales Comp 19 - City,Sales Comp Analysis,$F$26
+SALES_COMP_19_LATITUDE,Sales Comps,Sales Comp 19 - Latitude,Sales Comp Analysis,$I$26
+SALES_COMP_19_LONGITUDE,Sales Comps,Sales Comp 19 - Longitude,Sales Comp Analysis,$J$26
+SALES_COMP_19_DISTANCE_TO_SUBJECT,Sales Comps,Sales Comp 19 - Distance to Subject,Sales Comp Analysis,$K$26
+SALES_COMP_19_BUILDING_TYPE,Sales Comps,Sales Comp 19 - Building Type,Sales Comp Analysis,$N$26
+SALES_COMP_19_YEAR_BUILT,Sales Comps,Sales Comp 19 - Year Built,Sales Comp Analysis,$O$26
+SALES_COMP_19_STORIES,Sales Comps,Sales Comp 19 -  Stories,Sales Comp Analysis,$R$26
+SALES_COMP_19_UNITS,Sales Comps,Sales Comp 19 -  Units,Sales Comp Analysis,$S$26
+SALES_COMP_19_AVG_NRSF,Sales Comps,Sales Comp 19 - Avg NRSF,Sales Comp Analysis,$T$26
+SALES_COMP_19_SALES_PRICE,Sales Comps,Sales Comp 19 - Sales Price,Sales Comp Analysis,$AA$26
+SALES_COMP_19_CAP_RATE,Sales Comps,Sales Comp 19 - Cap Rate,Sales Comp Analysis,$AE$26
+SALES_COMP_20_SALE_DATE,Sales Comps,Sales Comp 20 - Sale Date,Sales Comp Analysis,$C$27
+SALES_COMP_20_PROPERTY_NAME,Sales Comps,Sales Comp 20 - Property Name,Sales Comp Analysis,$D$27
+SALES_COMP_20_CITY,Sales Comps,Sales Comp 20 - City,Sales Comp Analysis,$F$27
+SALES_COMP_20_LATITUDE,Sales Comps,Sales Comp 20 - Latitude,Sales Comp Analysis,$I$27
+SALES_COMP_20_LONGITUDE,Sales Comps,Sales Comp 20 - Longitude,Sales Comp Analysis,$J$27
+SALES_COMP_20_DISTANCE_TO_SUBJECT,Sales Comps,Sales Comp 20 - Distance to Subject,Sales Comp Analysis,$K$27
+SALES_COMP_20_BUILDING_TYPE,Sales Comps,Sales Comp 20 - Building Type,Sales Comp Analysis,$N$27
+SALES_COMP_20_YEAR_BUILT,Sales Comps,Sales Comp 20 - Year Built,Sales Comp Analysis,$O$27
+SALES_COMP_20_STORIES,Sales Comps,Sales Comp 20 -  Stories,Sales Comp Analysis,$R$27
+SALES_COMP_20_UNITS,Sales Comps,Sales Comp 20 -  Units,Sales Comp Analysis,$S$27
+SALES_COMP_20_AVG_NRSF,Sales Comps,Sales Comp 20 - Avg NRSF,Sales Comp Analysis,$T$27
+SALES_COMP_20_SALES_PRICE,Sales Comps,Sales Comp 20 - Sales Price,Sales Comp Analysis,$AA$27
+SALES_COMP_20_CAP_RATE,Sales Comps,Sales Comp 20 - Cap Rate,Sales Comp Analysis,$AE$27
+SALES_COMP_21_SALE_DATE,Sales Comps,Sales Comp 21 - Sale Date,Sales Comp Analysis,$C$28
+SALES_COMP_21_PROPERTY_NAME,Sales Comps,Sales Comp 21 - Property Name,Sales Comp Analysis,$D$28
+SALES_COMP_21_CITY,Sales Comps,Sales Comp 21 - City,Sales Comp Analysis,$F$28
+SALES_COMP_21_LATITUDE,Sales Comps,Sales Comp 21 - Latitude,Sales Comp Analysis,$I$28
+SALES_COMP_21_LONGITUDE,Sales Comps,Sales Comp 21 - Longitude,Sales Comp Analysis,$J$28
+SALES_COMP_21_DISTANCE_TO_SUBJECT,Sales Comps,Sales Comp 21 - Distance to Subject,Sales Comp Analysis,$K$28
+SALES_COMP_21_BUILDING_TYPE,Sales Comps,Sales Comp 21 - Building Type,Sales Comp Analysis,$N$28
+SALES_COMP_21_YEAR_BUILT,Sales Comps,Sales Comp 21 - Year Built,Sales Comp Analysis,$O$28
+SALES_COMP_21_STORIES,Sales Comps,Sales Comp 21 -  Stories,Sales Comp Analysis,$R$28
+SALES_COMP_21_UNITS,Sales Comps,Sales Comp 21 -  Units,Sales Comp Analysis,$S$28
+SALES_COMP_21_AVG_NRSF,Sales Comps,Sales Comp 21 - Avg NRSF,Sales Comp Analysis,$T$28
+SALES_COMP_21_SALES_PRICE,Sales Comps,Sales Comp 21 - Sales Price,Sales Comp Analysis,$AA$28
+SALES_COMP_21_CAP_RATE,Sales Comps,Sales Comp 21 - Cap Rate,Sales Comp Analysis,$AE$28

@@ -1,0 +1,128 @@
+# B&R Capital Dashboard - Enhanced Git Ignore
+
+# Environment variables and secrets
+.env
+*.env
+*.env.mcp
+.mcp.json
+!.env.template
+CREDENTIALS_DO_NOT_SHARE.md
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.lnk
+
+# Logs and debug
+*.log
+logs/
+*.log.*
+extraction.log
+
+# Sensitive data files (but keep structure)
+data/batch_extractions/
+data/local_batch_test/
+data/downloads/
+data/raw/*.xlsb
+data/raw/*.xlsx
+data/raw/*.xlsm
+temp_downloads/
+*test_extraction*.json
+sharepoint_test_results.json
+
+# Large generated files that can be recreated
+output/discovered_files_*.json
+output/discovered_files_*.csv
+output/exports/
+*.csv.large
+
+# Keep data structure but exclude large/sensitive content
+!data/
+!data/extractions/
+!data/processed/
+!output/
+!output/reports/
+
+# Temporary files
+temp/
+tmp/
+cache/
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Distribution
+dist/
+build/
+*.egg-info/
+
+# SharePoint authentication tokens
+sharepoint_tokens.json
+auth_tokens.json
+
+# MCP server files
+.mcp/
+mcp_logs/
+
+# Personal notes
+NOTES.md
+TODO.md
+scratch/
+personal/
+
+# Cache directories
+.cache/
+.pytest_cache/
+
+# Editor history files
+.history/
+
+# Azure/SharePoint credentials patterns
+*client_secret*
+*tenant_id*
+*application_id*

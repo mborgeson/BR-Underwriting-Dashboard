@@ -1,0 +1,91 @@
+{
+  "total_errors": 4,
+  "error_breakdown_by_category": {
+    "missing_sheet": {
+      "count": 1,
+      "percentage": 25.0
+    },
+    "invalid_cell_address": {
+      "count": 1,
+      "percentage": 25.0
+    },
+    "formula_error": {
+      "count": 2,
+      "percentage": 50.0
+    }
+  },
+  "most_common_errors": [
+    {
+      "category": "missing_sheet",
+      "message": "Sheet 'NonExistentSheet' not found in workbook",
+      "count": 1,
+      "example_field": "TEST_FIELD",
+      "suggested_fix": null
+    },
+    {
+      "category": "invalid_cell_address",
+      "message": "Invalid cell address format: Not a valid Excel address",
+      "count": 1,
+      "example_field": "TEST_FIELD",
+      "suggested_fix": "Check cell address format (e.g., 'A1', 'B10', '$C$5')"
+    },
+    {
+      "category": "formula_error",
+      "message": "Formula error #DIV/0!: Division by zero",
+      "count": 1,
+      "example_field": "TEST_FIELD",
+      "suggested_fix": "Fix formula causing #DIV/0! error"
+    },
+    {
+      "category": "formula_error",
+      "message": "Formula error #REF!: Invalid cell reference",
+      "count": 1,
+      "example_field": "TEST_FIELD",
+      "suggested_fix": "Fix formula causing #REF! error"
+    }
+  ],
+  "recommendations": [
+    "\u274c Missing Sheets: Verify sheet names in the reference file match those in Excel files",
+    "\ud83d\udd22 Formula Errors: Review Excel formulas for errors like #REF!, #VALUE!, #DIV/0!",
+    "\ud83d\udccd Invalid Addresses: Check cell address format in reference file (e.g., 'A1', 'B10')",
+    "\ud83d\udcca Review the detailed error list above for field-specific fixes"
+  ],
+  "detailed_errors": [
+    {
+      "field_name": "TEST_FIELD",
+      "category": "missing_sheet",
+      "sheet_name": "NonExistentSheet",
+      "cell_address": "N/A",
+      "error_message": "Sheet 'NonExistentSheet' not found in workbook",
+      "suggested_fix": null,
+      "timestamp": "2025-06-26T14:05:49.230619"
+    },
+    {
+      "field_name": "TEST_FIELD",
+      "category": "invalid_cell_address",
+      "sheet_name": "Sheet1",
+      "cell_address": "INVALID123",
+      "error_message": "Invalid cell address format: Not a valid Excel address",
+      "suggested_fix": "Check cell address format (e.g., 'A1', 'B10', '$C$5')",
+      "timestamp": "2025-06-26T14:05:49.230873"
+    },
+    {
+      "field_name": "TEST_FIELD",
+      "category": "formula_error",
+      "sheet_name": "Sheet1",
+      "cell_address": "A1",
+      "error_message": "Formula error #DIV/0!: Division by zero",
+      "suggested_fix": "Fix formula causing #DIV/0! error",
+      "timestamp": "2025-06-26T14:05:49.230945"
+    },
+    {
+      "field_name": "TEST_FIELD",
+      "category": "formula_error",
+      "sheet_name": "Sheet1",
+      "cell_address": "A1",
+      "error_message": "Formula error #REF!: Invalid cell reference",
+      "suggested_fix": "Fix formula causing #REF! error",
+      "timestamp": "2025-06-26T14:05:49.231001"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "_file_path": "/home/mattb/B&R Programming (WSL)/B&R Capital Dashboard Project/Your Files/Emparrado UW Model vCurrent.xlsb",
+  "_extraction_timestamp": "2025-06-26T14:05:49.397749",
+  "_extraction_errors": [],
+  "PROPERTY_NAME": "Emparrado",
+  "PROPERTY_CITY": "Mesa",
+  "PROPERTY_STATE": "AZ",
+  "YEAR_BUILT": 1987.0,
+  "YEAR_RENOVATED": NaN,
+  "LOCATION_QUALITY": "B",
+  "BUILDING_QUALITY": "B",
+  "UNITS": 154.0,
+  "AVG_SQUARE_FEET": 703.512987012987,
+  "NUMBER_OF_PARKING_SPACES_COVERED": 154.0,
+  "ERROR_MISSING_SHEET": NaN,
+  "ERROR_INVALID_CELL": NaN,
+  "ERROR_OUT_OF_BOUNDS": NaN,
+  "_extraction_metadata": {
+    "total_fields": 13,
+    "successful": 13,
+    "failed": 0,
+    "duration_seconds": 0.318487,
+    "error_summary": {
+      "total_errors": 3,
+      "error_breakdown_by_category": {
+        "missing_sheet": {
+          "count": 1,
+          "percentage": 33.3
+        },
+        "cell_not_found": {
+          "count": 2,
+          "percentage": 66.7
+        }
+      },
+      "most_common_errors": [
+        {
+          "category": "missing_sheet",
+          "message": "Sheet 'NonExistentSheet' not found in workbook",
+          "count": 1,
+          "example_field": "ERROR_MISSING_SHEET",
+          "suggested_fix": null
+        },
+        {
+          "category": "cell_not_found",
+          "message": "Cell INVALID123 not found or outside sheet bounds",
+          "count": 1,
+          "example_field": "ERROR_INVALID_CELL",
+          "suggested_fix": "Sheet has 1145 rows and 2956660646 columns"
+        },
+        {
+          "category": "cell_not_found",
+          "message": "Cell ZZ9999 not found or outside sheet bounds",
+          "count": 1,
+          "example_field": "ERROR_OUT_OF_BOUNDS",
+          "suggested_fix": "Sheet has 1145 rows and 702 columns"
+        }
+      ],
+      "recommendations": [
+        "\u274c Missing Sheets: Verify sheet names in the reference file match those in Excel files",
+        "\ud83d\udcca Review the detailed error list above for field-specific fixes"
+      ],
+      "detailed_errors": [
+        {
+          "field_name": "ERROR_MISSING_SHEET",
+          "category": "missing_sheet",
+          "sheet_name": "NonExistentSheet",
+          "cell_address": "N/A",
+          "error_message": "Sheet 'NonExistentSheet' not found in workbook",
+          "suggested_fix": null,
+          "timestamp": "2025-06-26T14:05:49.444675"
+        },
+        {
+          "field_name": "ERROR_INVALID_CELL",
+          "category": "cell_not_found",
+          "sheet_name": "Assumptions (Summary)",
+          "cell_address": "INVALID123",
+          "error_message": "Cell INVALID123 not found or outside sheet bounds",
+          "suggested_fix": "Sheet has 1145 rows and 2956660646 columns",
+          "timestamp": "2025-06-26T14:05:49.575504"
+        },
+        {
+          "field_name": "ERROR_OUT_OF_BOUNDS",
+          "category": "cell_not_found",
+          "sheet_name": "Assumptions (Summary)",
+          "cell_address": "ZZ9999",
+          "error_message": "Cell ZZ9999 not found or outside sheet bounds",
+          "suggested_fix": "Sheet has 1145 rows and 702 columns",
+          "timestamp": "2025-06-26T14:05:49.715773"
+        }
+      ]
+    }
+  }
+}
