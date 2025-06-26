@@ -1,6 +1,6 @@
 {
   "_file_path": "/home/mattb/B&R Programming (WSL)/B&R Capital Dashboard Project/Your Files/Emparrado UW Model vCurrent.xlsb",
-  "_extraction_timestamp": "2025-06-26T14:05:49.397749",
+  "_extraction_timestamp": "2025-06-26T15:32:35.507354",
   "_extraction_errors": [],
   "PROPERTY_NAME": "Emparrado",
   "PROPERTY_CITY": "Mesa",
@@ -19,7 +19,7 @@
     "total_fields": 13,
     "successful": 13,
     "failed": 0,
-    "duration_seconds": 0.318487,
+    "duration_seconds": 0.426688,
     "error_summary": {
       "total_errors": 3,
       "error_breakdown_by_category": {
@@ -67,7 +67,7 @@
           "cell_address": "N/A",
           "error_message": "Sheet 'NonExistentSheet' not found in workbook",
           "suggested_fix": null,
-          "timestamp": "2025-06-26T14:05:49.444675"
+          "timestamp": "2025-06-26T15:32:35.556439"
         },
         {
           "field_name": "ERROR_INVALID_CELL",
@@ -76,7 +76,7 @@
           "cell_address": "INVALID123",
           "error_message": "Cell INVALID123 not found or outside sheet bounds",
           "suggested_fix": "Sheet has 1145 rows and 2956660646 columns",
-          "timestamp": "2025-06-26T14:05:49.575504"
+          "timestamp": "2025-06-26T15:32:35.737390"
         },
         {
           "field_name": "ERROR_OUT_OF_BOUNDS",
@@ -85,7 +85,7 @@
           "cell_address": "ZZ9999",
           "error_message": "Cell ZZ9999 not found or outside sheet bounds",
           "suggested_fix": "Sheet has 1145 rows and 702 columns",
-          "timestamp": "2025-06-26T14:05:49.715773"
+          "timestamp": "2025-06-26T15:32:35.933501"
         }
       ]
     }

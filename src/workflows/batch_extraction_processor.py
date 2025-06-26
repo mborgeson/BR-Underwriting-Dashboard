@@ -31,7 +31,7 @@ import requests
 project_root = Path(__file__).parent.parent.parent
 sys.path.insert(0, str(project_root))
 
-from src.data_extraction.excel_extraction_system import ExcelDataExtractor
+from src.data_extraction.excel_extraction_system import ExcelDataExtractor, CellMappingParser
 from src.data_extraction.sharepoint_excel_integration import SharePointExcelExtractor
 
 class BatchExtractionProcessor:
@@ -53,8 +53,10 @@ class BatchExtractionProcessor:
         # Create output directory if it doesn't exist
         Path(self.output_dir).mkdir(parents=True, exist_ok=True)
         
-        # Initialize the Excel extractor
-        self.extractor = ExcelDataExtractor(reference_file_path)
+        # Load cell mappings and initialize the Excel extractor
+        parser = CellMappingParser(reference_file_path)
+        mappings = parser.load_mappings()
+        self.extractor = ExcelDataExtractor(mappings)
         
         # Processing stats
         self.stats = {
