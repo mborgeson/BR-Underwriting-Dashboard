@@ -37,15 +37,42 @@ See `docs/PYXLSB_INDEXING_GUIDE.md` for complete details. This fix resolved 25/2
 
 The system discovers and processes Excel files from SharePoint using Microsoft Graph API:
 - **Authentication**: Azure AD app with client ID `5a620cea-31fe-40f6-8b48-d55bc5465dc9`
-- **Discovery Pattern**: Scans "Real Estate" document library → "Deals" folder → stage subfolders
+- **Discovery Pattern**: Scans "Real Estate" document library → "Deals" folder → ALL stage subfolders
 - **File Filter**: `*UW Model vCurrent.xlsb` files modified after July 15, 2024
 - **Current Dataset**: 41 discovered files totaling 272.4 MB
+- **IMPORTANT**: ALL files meeting criteria are extracted, regardless of deal stage (Dead Deals, Initial UW, Active UW, etc.)
 
 Authentication tokens expire every 24 hours. Use MCP server for fresh authentication.
 
 ## Common Commands
 
-### Testing and Validation
+### Graph API Real-time Extraction (Current Method)
+```bash
+# Test Graph API connection and single file extraction
+export AZURE_CLIENT_SECRET="your-secret-here"
+python3 test_graph_api_extraction.py
+
+# Enhanced workflow with dashboard integration (RECOMMENDED)
+python3 complete_enhanced_realtime_workflow.py \
+  --client-id "5a620cea-31fe-40f6-8b48-d55bc5465dc9" \
+  --client-secret "$AZURE_CLIENT_SECRET" \
+  --reference-file "/path/to/reference.xlsx"
+
+# Enhanced workflow - monitoring only (skip initial extraction)
+python3 complete_enhanced_realtime_workflow.py \
+  --client-id "5a620cea-31fe-40f6-8b48-d55bc5465dc9" \
+  --client-secret "$AZURE_CLIENT_SECRET" \
+  --reference-file "/path/to/reference.xlsx" \
+  --skip-initial
+
+# Legacy workflow (basic monitoring without dashboard integration)
+python3 complete_realtime_workflow.py \
+  --client-id "5a620cea-31fe-40f6-8b48-d55bc5465dc9" \
+  --client-secret "$AZURE_CLIENT_SECRET" \
+  --reference-file "/path/to/reference.xlsx"
+```
+
+### Legacy Testing and Validation
 ```bash
 # Run comprehensive Excel extraction test (validates 1,140 fields)
 python3 tests/excel_extraction_test.py
@@ -165,12 +192,62 @@ The reference file includes a "Value-Check Validation" column for cross-verifica
   - ✅ Excel extractor supporting .xlsb files  
   - ✅ Batch processor for multiple files
   - ✅ Error handling with NaN for missing values
+- **Phase 3**: PostgreSQL Database Implementation
+  - ✅ Expanded database schema for all 1,140 fields across 10 specialized tables
+  - ✅ Historical version tracking with partitioned tables
+  - ✅ Enhanced data loader with complete field support
+  - ✅ Enhanced real-time monitoring with criteria filtering (July 15, 2024 cutoff)
+  - ✅ Dashboard integration with WebSocket real-time updates
 
 ### 🚧 Next Phase
-- **Phase 3**: PostgreSQL Database Implementation
-  - Database schema design for ~900 metrics per deal
-  - Historical version tracking
-  - Data loader with version control
+- **Phase 4**: Dashboard Development
+  - Streamlit dashboard with real-time data visualization
+  - WebSocket client integration for live updates
+  - Interactive data exploration and filtering
+  - Mobile-responsive PWA implementation
+
+### Dashboard Integration Testing
+```bash
+# Test dashboard WebSocket connection
+python3 -c "
+import asyncio
+from src.monitoring.dashboard_integration import DashboardTestClient
+client = DashboardTestClient('ws://localhost:8765')
+asyncio.run(client.connect_and_listen())
+"
+
+# Start standalone dashboard integration server
+python3 src/monitoring/dashboard_integration.py
+
+# Test enhanced monitoring with dashboard callbacks
+python3 -c "
+from src.monitoring.enhanced_delta_monitor import EnhancedDeltaMonitorService
+from src.monitoring.dashboard_integration import DashboardIntegrationService
+# ... setup code for testing
+"
+```
+
+## Enhanced Monitoring Features
+
+### Criteria Filtering
+The enhanced monitoring system applies original project criteria:
+- **Date Filter**: Only files modified after July 15, 2024
+- **Location Filter**: Files in "Real Estate" drive → "Deals" folders
+- **File Pattern**: `*UW Model vCurrent.xlsb` files only
+- **Deal Stage**: ALL stages included (Dead Deals, Initial UW, Active UW, etc.)
+
+### Dashboard Integration
+Real-time WebSocket communication provides:
+- Live file change notifications
+- Extraction progress updates  
+- Error alerts and system status
+- Connected client management
+- Bidirectional communication (ping/pong, status requests)
+
+### Key Enhancement Files
+- `src/monitoring/enhanced_delta_monitor.py` - Enhanced monitoring with criteria filtering
+- `src/monitoring/dashboard_integration.py` - WebSocket server for real-time updates
+- `complete_enhanced_realtime_workflow.py` - Main orchestrator with dashboard integration
 
 ## Integration Points
 

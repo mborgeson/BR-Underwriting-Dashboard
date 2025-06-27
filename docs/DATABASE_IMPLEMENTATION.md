@@ -300,6 +300,23 @@ The database integrates seamlessly with the Phase 2 extraction system:
 2. **Version Management**: Each file update creates new version
 3. **Error Tracking**: Extraction metadata stored for debugging
 4. **Data Validation**: Type conversion and null handling
+5. **ALL Files Included**: Extracts ALL files meeting criteria regardless of deal stage
+
+### Complete Workflow Command
+
+To extract ALL discovered files directly to database without permanent downloads:
+
+```bash
+python src/workflows/complete_extraction_to_database.py \
+    --reference-file "/path/to/reference.xlsx" \
+    --use-cached-discovery "output/discovered_files_20250625_171007.json"
+```
+
+This workflow:
+- Processes all 41 files (or any new discoveries)
+- Extracts data without saving files locally
+- Loads directly into the database
+- Includes ALL deal stages (Dead Deals, Initial UW, etc.)
 
 ## Next Phase Integration
 

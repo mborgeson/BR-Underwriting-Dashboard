@@ -205,7 +205,7 @@ class DataLoader:
         
         # Define field mapping and convert values
         field_mapping = [
-            # General Assumptions
+            # General Assumptions (24 fields)
             'YEAR_BUILT', 'YEAR_RENOVATED', 'LOCATION_QUALITY', 'BUILDING_QUALITY',
             'UNITS', 'AVG_SQUARE_FEET', 'NUMBER_OF_PARKING_SPACES_COVERED', 
             'NUMBER_OF_PARKING_SPACES_UNCOVERED', 'INDIVIDUALLY_METERED', 'CURRENT_OWNER',
@@ -214,27 +214,27 @@ class DataLoader:
             'NUMBER_OF_BUILDINGS', 'BUILDING_ZONING', 'LAND_AREA', 'PARCEL_NUMBER',
             'PROPERTY_LATITUDE', 'PROPERTY_LONGITUDE', 'PROPERTY_ADDRESS', 'PROPERTY_ZIP',
             
-            # Exit Assumptions
+            # Exit Assumptions (3 fields)
             'EXIT_PERIOD_MONTHS', 'EXIT_CAP_RATE', 'SALES_TRANSACTION_COSTS',
             
-            # NOI Assumptions
+            # NOI Assumptions (14 fields)
             'EMPIRICAL_RENT', 'RENT_PSF', 'GROSS_POTENTIAL_RENTAL_INCOME',
             'CONCESSIONS', 'LOSS_TO_LEASE', 'VACANCY_LOSS', 'BAD_DEBTS', 'OTHER_LOSS',
             'PROPERTY_MANAGEMENT_FEE', 'NET_RENTAL_INCOME', 'PARKING_INCOME',
             'LAUNDRY_INCOME', 'OTHER_INCOME', 'EFFECTIVE_GROSS_INCOME',
             
-            # Operating Expenses
+            # Operating Expenses (12 fields)
             'ADVERTISING_MARKETING', 'MANAGEMENT_FEE', 'PAYROLL', 'REPAIRS_MAINTENANCE',
             'CONTRACT_SERVICES', 'TURNOVER', 'UTILITIES', 'INSURANCE', 'REAL_ESTATE_TAXES',
             'OTHER_EXPENSES', 'TOTAL_OPERATING_EXPENSES', 'NET_OPERATING_INCOME',
             
-            # Debt and Equity
+            # Debt and Equity (11 fields)
             'PURCHASE_PRICE', 'HARD_COSTS_BUDGET', 'SOFT_COSTS_BUDGET',
             'TOTAL_HARD_COSTS', 'TOTAL_SOFT_COSTS', 'TOTAL_ACQUISITION_BUDGET',
             'LOAN_AMOUNT', 'LOAN_TO_COST', 'LOAN_TO_VALUE',
             'EQUITY_LP_CAPITAL', 'EQUITY_GP_CAPITAL',
             
-            # Return Metrics
+            # Return Metrics (6 fields)
             'T12_RETURN_ON_PP', 'T12_RETURN_ON_COST', 'LEVERED_RETURNS_IRR',
             'LEVERED_RETURNS_MOIC', 'BASIS_UNIT_AT_CLOSE', 'BASIS_UNIT_AT_EXIT'
         ]

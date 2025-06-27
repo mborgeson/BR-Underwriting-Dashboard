@@ -121,7 +121,7 @@ class SchemaManager:
         # Main underwriting data table (partitioned)
         cursor.execute("""
             CREATE TABLE IF NOT EXISTS underwriting_data (
-                extraction_id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
+                extraction_id UUID DEFAULT uuid_generate_v4(),
                 property_id UUID NOT NULL,
                 property_name VARCHAR(255) NOT NULL,
                 deal_stage deal_stage_enum NOT NULL,
@@ -220,7 +220,9 @@ class SchemaManager:
                 -- Metadata
                 created_at TIMESTAMP WITH TIME ZONE DEFAULT NOW(),
                 
-                FOREIGN KEY (property_id) REFERENCES properties(property_id)
+                -- Composite primary key including partition key
+                PRIMARY KEY (extraction_id, deal_stage)
+                -- Note: Foreign key constraint removed for partitioned table
             ) PARTITION BY LIST (deal_stage);
         """)
         
@@ -246,10 +248,9 @@ class SchemaManager:
                 tenant_improvements NUMERIC(15,2),
                 leasing_commissions NUMERIC(15,2),
                 
-                created_at TIMESTAMP WITH TIME ZONE DEFAULT NOW(),
+                created_at TIMESTAMP WITH TIME ZONE DEFAULT NOW()
                 
-                FOREIGN KEY (extraction_id) REFERENCES underwriting_data(extraction_id),
-                FOREIGN KEY (property_id) REFERENCES properties(property_id)
+                -- Note: Cannot reference partitioned table directly
             );
         """)
         
@@ -271,10 +272,9 @@ class SchemaManager:
                 comp_rent_psf NUMERIC(8,2),
                 comp_total_rent NUMERIC(10,2),
                 
-                created_at TIMESTAMP WITH TIME ZONE DEFAULT NOW(),
+                created_at TIMESTAMP WITH TIME ZONE DEFAULT NOW()
                 
-                FOREIGN KEY (extraction_id) REFERENCES underwriting_data(extraction_id),
-                FOREIGN KEY (property_id) REFERENCES properties(property_id)
+                -- Note: Cannot reference partitioned table directly
             );
         """)
         
@@ -297,10 +297,9 @@ class SchemaManager:
                 comp_cap_rate NUMERIC(8,6),
                 comp_sale_date DATE,
                 
-                created_at TIMESTAMP WITH TIME ZONE DEFAULT NOW(),
+                created_at TIMESTAMP WITH TIME ZONE DEFAULT NOW()
                 
-                FOREIGN KEY (extraction_id) REFERENCES underwriting_data(extraction_id),
-                FOREIGN KEY (property_id) REFERENCES properties(property_id)
+                -- Note: Cannot reference partitioned table directly
             );
         """)
         
@@ -316,9 +315,9 @@ class SchemaManager:
                 error_count INTEGER DEFAULT 0,
                 warnings_count INTEGER DEFAULT 0,
                 
-                created_at TIMESTAMP WITH TIME ZONE DEFAULT NOW(),
+                created_at TIMESTAMP WITH TIME ZONE DEFAULT NOW()
                 
-                FOREIGN KEY (extraction_id) REFERENCES underwriting_data(extraction_id)
+                -- Note: Cannot reference partitioned table directly
             );
         """)
     
